@@ -1,7 +1,7 @@
 # Code des juridictions financières  
-Version Consolidée au 1994-12-06
+Version Consolidée au 1994-12-28
 ## Contenu: 
-  - [Partie législative (art. L111-1 à L274-3)](#1)
+  - [Partie législative (art. L111-1 à LO274-5)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
       - [TITRE Ier : Missions et organisation (art. L111-1 à L112-7)](#3)
         - [CHAPITRE Ier : Missions (art. L111-1 à L111-10)](#4)
@@ -19,13 +19,13 @@ Version Consolidée au 1994-12-06
           - [Section 2 : Contrôle de la Caisse des dépôts et consignations (art. L131-3)](#16)
           - [Section 3 : Contrôle de l'apurement administratif des comptes (art. L131-4 à L131-5)](#17)
           - [Section 4 : Condamnation des comptables à l'amende (art. L131-6 à L131-13)](#18)
-        - [CHAPITRE II : Relations avec le Parlement (art. L132-2 à L132-4)](#19)
+        - [CHAPITRE II : Relations avec le Parlement (art. L132-2 à LO132-1)](#19)
         - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. L133-1 à L133-5)](#20)
         - [CHAPITRE IV : Contrôle de la sécurité sociale (art. L134-1)](#21)
         - [CHAPITRE V : Communication des observations (art. L135-1 à L135-5)](#22)
         - [CHAPITRE VI : Rapport public. (art. L136-1 à L136-5)](#23)
       - [TITRE IV : Procédure (art. L140-1 à L140-9)](#24)
-    - [LIVRE II : Les chambres régionales et territoriales des comptes (art. L210-1 à L274-3)](#25)
+    - [LIVRE II : Les chambres régionales et territoriales des comptes (art. L210-1 à LO274-5)](#25)
       - [PREMIERE PARTIE : Les chambres régionales des comptes (art. L210-1 à L250-10)](#26)
         - [TITRE Ier : Missions et organisation (art. L210-1 à L212-19)](#27)
           - [CHAPITRE PRELIMINAIRE (art. L210-1)](#28)
@@ -39,7 +39,7 @@ Version Consolidée au 1994-12-06
         - [TITRE II : Dispositions statutaires (art. L220-1 à L223-11)](#36)
           - [CHAPITRE PRELIMINAIRE (art. L220-1 à L220-2)](#37)
           - [CHAPITRE Ier : Nominations (art. L221-1 à L221-8)](#38)
-          - [CHAPITRE II : Obligations et incompatibilités (art. L222-1 à L222-7)](#39)
+          - [CHAPITRE II : Obligations et incompatibilités (art. L222-1 à LO222-2)](#39)
           - [CHAPITRE III : Discipline (art. L223-1 à L223-11)](#40)
         - [TITRE III : Compétences et attributions (art. L231-1 à L237-2)](#41)
           - [CHAPITRE Ier : Compétences juridictionnelles (art. L231-1 à L231-13)](#42)
@@ -66,53 +66,59 @@ Version Consolidée au 1994-12-06
           - [CHAPITRE II : Contrôle budgétaire. (art. L242-1 à L242-2)](#63)
           - [CHAPITRE III : Voies de recours. (art. L243-1 à L243-3)](#64)
         - [TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte. (art. L250-1 à L250-10)](#65)
-      - [DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer. (art. L261-1 à L274-3)](#66)
+      - [DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer. (art. L261-1 à LO274-5)](#66)
         - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. L261-1)](#67)
           - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L261-1)](#68)
         - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. L261-2 à L264-7)](#69)
           - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L261-2 à L261-3)](#70)
           - [CHAPITRE II : De la chambre territoriale des comptes (art. L262-1 à L262-58)](#71)
             - [Section préliminaire : Création. (art. L262-1)](#72)
-            - [Section 1 : Missions. (art. L262-3 à L262-13)](#73)
+            - [Section 1 : Missions. (art. L262-3 à LO262-12)](#73)
             - [Section 2 : Organisation (art. L262-14 à L262-28)](#74)
               - [Sous-section 1 : Organisation de la juridiction. (art. L262-14 à L262-26)](#75)
               - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L262-27 à L262-28)](#76)
             - [Section 3 : Dispositions statutaires. (art. L262-29 à L262-30)](#77)
             - [Section 4 : Compétences et attributions juridictionnelles (art. L262-32 à L262-40)](#78)
-              - [Sous-section 1 : Jugement des comptes. (art. L262-32 à L262-34)](#79)
+              - [Sous-section 1 : Jugement des comptes. (art. L262-32 à LO262-31)](#79)
               - [Sous-section 2 : Contrôle de l'apurement administratif des comptes. (art. L262-35 à L262-37)](#80)
               - [Sous-section 3 : Condamnation des comptables à l'amende. (art. L262-38 à L262-40)](#81)
             - [Section 5 : Contrôle des actes des sociétés d'économie mixte locales. (art. L262-41)](#82)
-            - [Section 6 : Procédure (art. L262-44 à L262-55)](#83)
-              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45)](#84)
-              - [Sous-section 3 : Dispositions communes. (art. L262-46 à L262-55)](#85)
-            - [Section 7 : Voies de recours. (art. L262-56 à L262-58)](#86)
-          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. L263-8 à L263-26)](#87)
-            - [Section 2 : Des communes et des établissements publics communaux et intercommunaux. (art. L263-8 à L263-26)](#88)
-          - [CHAPITRE IV : Des comptables (art. L264-1 à L264-7)](#89)
-            - [Section 1 : Dispositions statutaires. (art. L264-1 à L264-3)](#90)
-            - [Section 2 : Obligations et missions (art. L264-6 à L264-7)](#91)
-              - [Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux. (art. L264-6 à L264-7)](#92)
-        - [TITRE VII : Dispositions applicables en Polynésie française (art. L271-1 à L274-3)](#93)
-          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L271-1 à L271-3)](#94)
-          - [CHAPITRE II : De la chambre territoriale des comptes (art. L272-1 à L272-60)](#95)
-            - [Section préliminaire : Création. (art. L272-1)](#96)
-            - [Section 1 : Missions. (art. L272-3 à L272-13)](#97)
-            - [Section 2 : Organisation (art. L272-15 à L272-29)](#98)
-              - [Sous-section 1 : Organisation de la juridiction. (art. L272-15 à L272-27)](#99)
-              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L272-28 à L272-29)](#100)
-            - [Section 3 : Dispositions statutaires. (art. L272-30 à L272-31)](#101)
-            - [Section 4 : Compétences et attributions juridictionnelles (art. L272-33 à L272-38)](#102)
-              - [Sous-section 1 : Jugement des comptes. (art. L272-33 à L272-35)](#103)
-              - [Sous-section 2 : Condamnation des comptables à l'amende. (art. L272-36 à L272-38)](#104)
-            - [Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire. (art. L272-39)](#105)
-            - [Section 6 : Procédure (art. L272-42 à L272-53)](#106)
-              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L272-42 à L272-43)](#107)
-              - [Sous-section 3 : Dispositions communes. (art. L272-44 à L272-53)](#108)
-            - [Section 7 : Voies de recours. (art. L272-54 à L272-56)](#109)
-            - [Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993. (art. L272-57 à L272-60)](#110)
-          - [CHAPITRE IV : Du comptable du territoire (art. L274-1 à L274-3)](#111)
-            - [Section 1 : Dispositions statutaires. (art. L274-1 à L274-3)](#112)
+            - [Section 6 : Procédure (art. LO262-42 à L262-55)](#83)
+              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO262-42 à LO262-43)](#84)
+              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45)](#85)
+              - [Sous-section 3 : Dispositions communes. (art. L262-46 à L262-55)](#86)
+            - [Section 7 : Voies de recours. (art. L262-56 à L262-58)](#87)
+          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. LO263-1 à L263-26)](#88)
+            - [Section 1 : Des provinces et du territoire. (art. LO263-1 à LO263-7)](#89)
+            - [Section 2 : Des communes et des établissements publics communaux et intercommunaux. (art. L263-8 à L263-26)](#90)
+          - [CHAPITRE IV : Des comptables (art. L264-1 à L264-7)](#91)
+            - [Section 1 : Dispositions statutaires. (art. L264-1 à L264-3)](#92)
+            - [Section 2 : Obligations et missions (art. LO264-4 à L264-7)](#93)
+              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO264-4 à LO264-5)](#94)
+              - [Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux. (art. L264-6 à L264-7)](#95)
+        - [TITRE VII : Dispositions applicables en Polynésie française (art. L271-1 à LO274-5)](#96)
+          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L271-1 à L271-3)](#97)
+          - [CHAPITRE II : De la chambre territoriale des comptes (art. L272-1 à L272-60)](#98)
+            - [Section préliminaire : Création. (art. L272-1)](#99)
+            - [Section 1 : Missions. (art. L272-3 à LO272-14)](#100)
+            - [Section 2 : Organisation (art. L272-15 à L272-29)](#101)
+              - [Sous-section 1 : Organisation de la juridiction. (art. L272-15 à L272-27)](#102)
+              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L272-28 à L272-29)](#103)
+            - [Section 3 : Dispositions statutaires. (art. L272-30 à L272-31)](#104)
+            - [Section 4 : Compétences et attributions juridictionnelles (art. L272-33 à L272-38)](#105)
+              - [Sous-section 1 : Jugement des comptes. (art. L272-33 à LO272-32)](#106)
+              - [Sous-section 2 : Condamnation des comptables à l'amende. (art. L272-36 à L272-38)](#107)
+            - [Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire. (art. L272-39)](#108)
+            - [Section 6 : Procédure (art. LO272-40 à L272-53)](#109)
+              - [Sous-section 1 : A l'égard du territoire (art. LO272-40 à LO272-41)](#110)
+              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L272-42 à L272-43)](#111)
+              - [Sous-section 3 : Dispositions communes. (art. L272-44 à L272-53)](#112)
+            - [Section 7 : Voies de recours. (art. L272-54 à L272-56)](#113)
+            - [Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993. (art. L272-57 à L272-60)](#114)
+          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics. (art. LO273-1 à LO273-4)](#115)
+          - [CHAPITRE IV : Du comptable du territoire (art. L274-1 à LO274-5)](#116)
+            - [Section 1 : Dispositions statutaires. (art. L274-1 à L274-3)](#117)
+            - [Section 2 : Obligations et missions. (art. LO274-4 à LO274-5)](#118)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : La Cour des comptes<a id=2></a>
@@ -1430,6 +1436,33 @@ _Cite_:
 
   - Code des juridictions financières - art. L133-1 (V)
   - Code des juridictions financières - art. L133-2 (V)
+
+
+###### Article LO132-1
+
+La Cour des comptes établit un rapport sur chaque projet de loi de règlement. Ce rapport est remis au Parlement, sitôt son
+arrêt par la Cour des comptes. Il est ultérieurement annexé au projet de loi de règlement.
+
+La Cour établit la déclaration générale de conformité entre les comptes individuels des comptables et les comptes généraux de
+l'Etat. Cette déclaration est annexée au projet de loi de règlement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-483 1967-06-22, art 10 al 1
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. L314-19 (V)
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics<a id=20></a>
@@ -3692,6 +3725,30 @@ _Créé par_:
 _Cité par_:
 
   - Code des juridictions financières - art. R222-6 (V)
+
+
+###### Article LO222-2
+
+L'exercice des fonctions de magistrat des chambres régionales des comptes est incompatible avec l'exercice d'un mandat au
+Parlement ou au Conseil économique et social.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des juridictions financières - art. L222-4 (V)
+
+_Anciens textes_:
+
+  - Loi n°82-595 1983-07-10, art 8 1°
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
 ##### CHAPITRE III : Discipline<a id=40></a>
@@ -7469,6 +7526,70 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
+###### Article LO262-2
+
+La chambre territoriale des comptes juge l'ensemble des comptes des comptables publics des provinces, du territoire ainsi que
+de leurs établissements publics.
+
+La chambre territoriale des comptes examine la gestion du territoire, des provinces et de leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 et 13 Loi 88-1028 1988-11-09, art 73 al 3
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO262-5
+
+Pour les provinces, le territoire, ainsi que pour leurs établissements publics dont elle assure le jugement effectif des
+comptes du comptable en application du premier alinéa de l'article L.O. 272-2, la chambre territoriale vérifie sur pièces et
+sur place la régularité des recettes et dépenses décrites dans leurs comptabilités respectives. Elle s'assure de l'emploi
+régulier des crédits, fonds et valeurs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 6 sauf dernière phrase Loi 88-1028 1988-11-09, art 73 al 3
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO262-12
+
+La chambre territoriale des comptes concourt au contrôle budgétaire des provinces, du territoire et de leurs établissements
+publics dans les conditions définies à la section 1 du chapitre III du présent titre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 11
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
 ##### Section 2 : Organisation<a id=74></a>
 
 ##### Sous-section 1 : Organisation de la juridiction.<a id=75></a>
@@ -7920,6 +8041,26 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
+###### Article LO262-31
+
+Les comptables du territoire, des provinces et de leurs établissements publics sont tenus de produire leurs comptes devant la
+chambre territoriale des comptes, dans les délais prescrits par les règlements.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 1988-11-09, art 72 al 4
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
 ##### Sous-section 2 : Contrôle de l'apurement administratif des comptes.<a id=80></a>
 
 ###### Article L262-35
@@ -8135,7 +8276,54 @@ _Créé par_:
 
 ##### Section 6 : Procédure<a id=83></a>
 
-##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=84></a>
+##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=84></a>
+
+###### Article LO262-42
+
+La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
+relatifs à la gestion des provinces, du territoire ou de leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10, art 5 al 1
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. LO263-7 (V)
+
+
+###### Article LO262-43
+
+Les magistrats de la chambre territoriale des comptes disposent à l'égard des provinces, du territoire ou de leurs
+établissements publics, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et pouvoirs attribués à la
+Cour des comptes par le titre IV du livre Ier du présent code.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10, art 5 al 2
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=85></a>
 
 ###### Article L262-44
 
@@ -8193,7 +8381,7 @@ _Cité par_:
   - Code des juridictions financières - art. L263-26 (VT)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=85></a>
+##### Sous-section 3 : Dispositions communes.<a id=86></a>
 
 ###### Article L262-46
 
@@ -8459,7 +8647,7 @@ _Cité par_:
   - Code des juridictions financières - art. L262-57 (V)
 
 
-##### Section 7 : Voies de recours.<a id=86></a>
+##### Section 7 : Voies de recours.<a id=87></a>
 
 ###### Article L262-56
 
@@ -8531,9 +8719,223 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=87></a>
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=88></a>
 
-##### Section 2 : Des communes et des établissements publics communaux et intercommunaux.<a id=88></a>
+##### Section 1 : Des provinces et du territoire.<a id=89></a>
+
+###### Article LO263-1
+
+Le budget de la province prévoit et autorise les recettes et les dépenses de la province pour la période allant du 1er
+janvier au 31 décembre de chaque année.
+
+Il comprend une section de fonctionnement et une section d'investissement.
+
+Le budget de la province est voté en équilibre réel.
+
+Le budget est en équilibre réel lorsque la section de fonctionnement et la section d'investissement sont respectivement
+votées en équilibre et lorsque le prélèvement sur les recettes de la section de fonctionnement au profit de la section
+d'investissement, ajouté aux recettes propres de cette section, à l'exclusion du produit des emprunts, et éventuellement aux
+dotations des comptes d'amortissements et de provisions, fournit des ressources suffisantes pour couvrir le remboursement en
+capital des annuités à échoir au cours de l'exercice.
+
+Ne sont obligatoires que les dépenses nécessaires à l'acquittement des dettes exigibles et les dépenses pour lesquelles la
+loi l'a expressément décidé.
+
+Les opérations sont détaillées par nature et par fonction conformément au cadre comptable établi sur la base des principes du
+plan comptable général.
+
+La première délibération budgétaire peut faire l'objet d'une ou plusieurs délibérations modificatives. Celles-ci
+interviennent suivant la procédure retenue pour le vote du budget dans les mêmes formes.
+
+Aucune augmentation de dépenses ou diminution de recettes ne peut être adoptée si elle ne trouve pas sa contrepartie dans les
+recettes prévues ou si elle n'est pas accompagnée d'une proposition d'économie ou de ressources nouvelles de la même
+importance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 1988-11-09, art 38 sauf premier alinéa
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO263-2
+
+Le président de l'assemblée de province dépose le projet de budget au plus tard le 15 novembre sur le bureau de l'assemblée.
+
+Si le budget n'est pas exécutoire au 1er janvier de l'exercice auquel il s'applique, le président de l'assemblée de province
+peut mettre en recouvrement les recettes et engager par douzièmes les dépenses de la section de fonctionnement dans la limite
+de celles inscrites au budget de l'année précédente.
+
+Si le budget n'est pas voté avant le 31 mars, il est arrêté par le haut-commissaire après avis de la chambre territoriale des
+comptes, sur la base des recettes de l'exercice précédent.
+
+La décision doit être motivée si elle s'écarte des propositions de la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 du 9 novembre 1988 - art. 39 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO263-3
+
+Le budget du territoire est voté en équilibre réel dans les formes et conditions prévues à l'article L.O. 263-1.
+
+Le haut-commissaire dépose le projet de budget du territoire sur le bureau du congrès, au plus tard le 15 novembre.
+
+Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le haut-commissaire peut mettre en
+recouvrement les recettes et engager par douzièmes les dépenses de la section de fonctionnement dans la limite de celles
+inscrites au budget de l'année précédente.
+
+Si le congrès n'a pas voté le budget avant le 31 mars et sous réserve des dispositions de l'article L.O. 263-4, le haut-
+commissaire, après avis de la chambre territoriale des comptes, établit sur la base des recettes de l'exercice précédent un
+budget pour l'année en cours.
+
+La décision doit être motivée si elle s'écarte de cet avis.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 du 9 novembre 1988 - art. 58 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO263-4
+
+Lorsque le budget du territoire ou d'une province n'est pas voté en équilibre réel, la chambre territoriale des comptes,
+saisie par le haut-commissaire dans le délai de trente jours à compter de la transmission qui lui est faite de la
+délibération du congrès ou de l'assemblée de province, le constate et propose au congrès ou à l'assemblée de province, dans
+le délai de trente jours à compter de sa saisine, les mesures budgétaires nécessaires au rétablissement de l'équilibre. La
+chambre territoriale des comptes demande au congrès ou à l'assemblée de province une nouvelle délibération.
+
+La nouvelle délibération rectifiant le budget initial doit intervenir dans le délai d'un mois à compter de la communication
+des propositions de la chambre territoriale des comptes.
+
+Si le congrès ou l'assemblée de province n'a pas délibéré dans le délai prescrit ou si la délibération prise ne comporte pas
+de mesures de redressement jugées suffisantes par la chambre territoriale des comptes, qui se prononce sur ce point dans le
+délai de quinze jours à compter de la nouvelle délibération, le budget est réglé et rendu exécutoire par le haut-commissaire.
+
+Si celui-ci s'écarte des propositions formulées par la chambre territoriale des comptes, il doit motiver sa décision.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 du 9 novembre 1988 - art. 70 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO263-5
+
+Si une dépense obligatoire a été omise ou si le crédit correspondant à cette dépense a été insuffisamment doté au budget du
+territoire ou d'une province, le haut-commissaire demande une seconde lecture à l'assemblée intéressée. Si, dans les quinze
+jours de la demande de la seconde lecture, cette assemblée n'a pas rétabli les inscriptions de crédits nécessaires, le haut-
+commissaire saisit la chambre territoriale des comptes.
+
+Si la chambre territoriale des comptes constate dans le mois de sa saisine que la dépense obligatoire n'a pas été inscrite au
+budget du territoire ou d'une province ou l'a été pour un montant insuffisant, le haut-commissaire procède à l'inscription
+d'office des crédits nécessaires selon les propositions de la chambre territoriale des comptes, soit par prélèvement sur le
+crédit ouvert pour les dépenses diverses et imprévues, soit par réduction de dépenses facultatives, soit par majoration de
+taxes, soit par imputation respectivement sur les fonds territoriaux ou provinciaux.
+
+A défaut de mandatement d'une dépense obligatoire par le président d'une assemblée de province dans le mois suivant la mise
+en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'office.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 du 9 novembre 1988 - art. 71 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. R262-18 (V)
+
+
+###### Article LO263-6
+
+Les établissements publics à caractère administratif du territoire et des provinces ainsi que les établissements publics
+interprovinciaux sont soumis au contrôle budgétaire prévu pour le territoire et les provinces par les articles L.O. 263-4 et
+L.O. 263-5.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°90-1247 1990-12-29, art 31
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO263-7
+
+Lorsqu'elle est saisie en application des articles L.O. 263-2 à L.O. 263-6, la chambre territoriale dispose, pour
+l'instruction de ces affaires, des pouvoirs définis aux articles L.O. 262-42, L.O. 262-43, L.O. 262-46, L. 262-52.
+
+La chambre territoriale des comptes prend toutes dispositions pour garantir le secret de ses investigations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10 modifiée, art 9 Loi 82-594 1982-07-05 modifiée, art 5 al 6
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+##### Section 2 : Des communes et des établissements publics communaux et intercommunaux.<a id=90></a>
 
 ###### Article L263-8
 
@@ -9190,9 +9592,9 @@ _Anciens textes_:
   - Loi n°82-594 1982-03-02, art 9 Loi 82-594 1982-03-02, art 5 al 6
 
 
-##### CHAPITRE IV : Des comptables<a id=89></a>
+##### CHAPITRE IV : Des comptables<a id=91></a>
 
-##### Section 1 : Dispositions statutaires.<a id=90></a>
+##### Section 1 : Dispositions statutaires.<a id=92></a>
 
 ###### Article L264-1
 
@@ -9254,9 +9656,65 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 2 : Obligations et missions<a id=91></a>
+##### Section 2 : Obligations et missions<a id=93></a>
 
-##### Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux.<a id=92></a>
+##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=94></a>
+
+###### Article LO264-4
+
+Le comptable du territoire ou de la province ne peut subordonner ses actes de paiement à une appréciation de l'opportunité
+des décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle de légalité qu'impose l'exercice
+de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du paiement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 1988-11-09, art 72 al 5
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO264-5
+
+Lorsque le comptable du territoire ou de la province notifie sa décision de suspendre le paiement d'une dépense, le haut-
+commissaire ou le président de l'assemblée de province peut lui adresser un ordre de réquisition. Il s'y conforme aussitôt,
+sauf en cas d'insuffisance de fonds territoriaux ou provinciaux disponibles, de dépense ordonnancée sur des crédits
+irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être imputée, d'absence
+de justification du service fait ou de défaut de caractère libératoire du règlement.
+
+Les présidents des assemblées de province notifient au haut-commissaire leurs ordres de réquisition. Celui-ci informe la
+chambre territoriale des comptes de ses ordres de réquisition et de ceux des présidents des assemblées de province.
+
+En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1028 1988-11-09, art 72 al 6 à 8
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Décret du 2 septembre 1996 - art. 2 (V)
+  - Code des juridictions financières - art. L312-2 (V)
+
+
+##### Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux.<a id=95></a>
 
 ###### Article L264-6
 
@@ -9313,9 +9771,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D1617-20 (V)
 
 
-#### TITRE VII : Dispositions applicables en Polynésie française<a id=93></a>
+#### TITRE VII : Dispositions applicables en Polynésie française<a id=96></a>
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=94></a>
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=97></a>
 
 ###### Article L271-1
 
@@ -9380,9 +9838,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes<a id=95></a>
+##### CHAPITRE II : De la chambre territoriale des comptes<a id=98></a>
 
-##### Section préliminaire : Création.<a id=96></a>
+##### Section préliminaire : Création.<a id=99></a>
 
 ###### Article L272-1
 
@@ -9403,7 +9861,7 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 1 : Missions.<a id=97></a>
+##### Section 1 : Missions.<a id=100></a>
 
 ###### Article L272-3
 
@@ -9667,9 +10125,102 @@ _Cite_:
   - Code des juridictions financières L272-6 à L272-8, L272-9, L272-10
 
 
-##### Section 2 : Organisation<a id=98></a>
+###### Article LO272-2
 
-##### Sous-section 1 : Organisation de la juridiction.<a id=99></a>
+La chambre territoriale des comptes juge l'ensemble des comptes des comptables publics du territoire et de ses établissements
+publics.
+
+Les premiers comptes jugés sont ceux de la gestion de 1991.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 Loi 84-820 1984-09-06, art 97 al 6
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. LO262-5 (V)
+  - Code des juridictions financières - art. LO272-4 (V)
+
+
+###### Article LO272-4
+
+Pour le territoire ainsi que pour les établissements publics dont elle assure le jugement effectif des comptes du comptable
+en application du premier alinéa de l'article L.O. 272-2, la chambre territoriale des comptes vérifie sur pièces et sur place
+la régularité des recettes et dépenses décrites dans leurs comptabilités respectives. Elle s'assure de l'emploi régulier des
+crédits, fonds et valeurs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 6, sauf dernière phrase Loi 84-820 1984-09-06, art 97 al 3
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+###### Article LO272-12
+
+La chambre territoriale des comptes examine la gestion du territoire et de ses établissements publics.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13 Loi 84-820-1984-09-06, art 97 al 3
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. R272-3 (M)
+  - Code des juridictions financières - art. R272-56 (V)
+
+
+###### Article LO272-14
+
+La chambre territoriale des comptes concourt au contrôle budgétaire du territoire dans les conditions définies au chapitre
+III du présent titre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 11
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+##### Section 2 : Organisation<a id=101></a>
+
+##### Sous-section 1 : Organisation de la juridiction.<a id=102></a>
 
 ###### Article L272-15
 
@@ -9961,7 +10512,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-2 (V)
 
 
-##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.<a id=100></a>
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.<a id=103></a>
 
 ###### Article L272-28
 
@@ -10007,7 +10558,7 @@ _Cité par_:
   - Arrêté du 16 décembre 2016 - art. 12 (V)
 
 
-##### Section 3 : Dispositions statutaires.<a id=101></a>
+##### Section 3 : Dispositions statutaires.<a id=104></a>
 
 ###### Article L272-30
 
@@ -10053,9 +10604,9 @@ _Cité par_:
   - Arrêté du 16 décembre 2016 - art. 12 (V)
 
 
-##### Section 4 : Compétences et attributions juridictionnelles<a id=102></a>
+##### Section 4 : Compétences et attributions juridictionnelles<a id=105></a>
 
-##### Sous-section 1 : Jugement des comptes.<a id=103></a>
+##### Sous-section 1 : Jugement des comptes.<a id=106></a>
 
 ###### Article L272-33
 
@@ -10121,7 +10672,31 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Sous-section 2 : Condamnation des comptables à l'amende.<a id=104></a>
+###### Article LO272-32
+
+Les comptables du territoire et de ses établissements publics sont tenus de produire leurs comptes devant la chambre
+territoriale des comptes, dans les délais prescrits par les règlements.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-820 1984-09-06, art 95 dernier alinéa
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 184 (V)
+
+
+##### Sous-section 2 : Condamnation des comptables à l'amende.<a id=107></a>
 
 ###### Article L272-36
 
@@ -10211,7 +10786,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-38 (V)
 
 
-##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire.<a id=105></a>
+##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire.<a id=108></a>
 
 ###### Article L272-39
 
@@ -10247,9 +10822,60 @@ _Cité par_:
   - Loi n°2004-193 du 27 février 2004 - art. 20 (V)
 
 
-##### Section 6 : Procédure<a id=106></a>
+##### Section 6 : Procédure<a id=109></a>
 
-##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=107></a>
+##### Sous-section 1 : A l'égard du territoire<a id=110></a>
+
+###### Article LO272-40
+
+La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
+relatifs à la gestion du territoire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10, art 5 al 1
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. LO273-4 (VD)
+
+
+###### Article LO272-41
+
+Les magistrats de la chambre territoriale des comptes disposent à l'égard du territoire, pour l'exercice des contrôles qu'ils
+effectuent, de l'ensemble des droits et pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent
+code.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10, art 5 al 2
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Code des juridictions financières - art. LO273-4 (VD)
+
+
+##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=111></a>
 
 ###### Article L272-42
 
@@ -10306,7 +10932,7 @@ _Cité par_:
   - Code des juridictions financières - art. L273-6 (VD)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=108></a>
+##### Sous-section 3 : Dispositions communes.<a id=112></a>
 
 ###### Article L272-44
 
@@ -10575,7 +11201,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-59 (V)
 
 
-##### Section 7 : Voies de recours.<a id=109></a>
+##### Section 7 : Voies de recours.<a id=113></a>
 
 ###### Article L272-54
 
@@ -10643,7 +11269,7 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993.<a id=110></a>
+##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993.<a id=114></a>
 
 ###### Article L272-57
 
@@ -10753,9 +11379,141 @@ _Cite_:
   - Code des juridictions financières - art. L272-59 (M)
 
 
-##### CHAPITRE IV : Du comptable du territoire<a id=111></a>
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics.<a id=115></a>
 
-##### Section 1 : Dispositions statutaires.<a id=112></a>
+###### Article LO273-1
+
+Le président du gouvernement du territoire dépose le projet de budget du territoire sur le bureau de l'assemblée
+territoriale, au plus tard le 15 novembre.
+
+Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le président du territoire peut
+mettre en recouvrement les recettes et engager les dépenses de la section de fonctionnement dans la limite de celles
+inscrites au budget de l'année précédente.
+
+Si l'assemblée territoriale n'a pas voté le budget avant le 31 mars, et sous réserve des dispositions de l'article L.O.
+273-2, le conseil des ministres du territoire établit, sur la base des recettes de l'exercice précédent et après avoir
+recueilli les avis du haut-commissaire et de la chambre territoriale des comptes, un budget pour l'année en cours. La
+décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-820 1984-09-06, art 76, modifié par loi 96-312 1996-04-12, art 119
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
+
+
+###### Article LO273-2
+
+Lorsque le budget du territoire n'est pas voté en équilibre réel, la chambre territoriale des comptes, saisie par le haut-
+commissaire dans le délai de trente jours à compter de la notification qui lui est faite de la délibération de l'assemblée
+territoriale, le constate et propose à l'assemblée territoriale, dans un délai de trente jours à compter de sa saisine, les
+mesures nécessaires au rétablissement de l'équilibre budgétaire. La chambre territoriale des comptes demande à l'assemblée
+territoriale une nouvelle délibération.
+
+La nouvelle délibération rectifiant le budget initial doit intervenir dans un délai d'un mois à compter de la communication
+des propositions de la chambre territoriale des comptes.
+
+Si l'assemblée territoriale n'a pas délibéré dans le délai prescrit ou si la délibération prise ne comporte pas de mesures de
+redressement jugées suffisantes par la chambre territoriale des comptes, qui se prononce sur ce point dans un délai de quinze
+jours à compter de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le haut-
+commissaire. Si celui-ci s'écarte des propositions formulées par la chambre territoriale des comptes, il assortit sa décision
+d'une motivation explicite.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-820 du 6 septembre 1984 - art. 77 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
+
+
+###### Article LO273-3
+
+Si une dépense obligatoire a été omise ou si le crédit correspondant à cette dépense a été insuffisamment doté au budget du
+territoire, le haut-commissaire demande une seconde lecture à l'assemblée du territoire. Si, dans les quinze jours de la
+demande de seconde lecture, l'assemblée territoriale n'a pas rétabli les inscriptions de crédits nécessaires, le haut-
+commissaire saisit la chambre territoriale des comptes.
+
+Si la chambre territoriale des comptes constate, dans le mois de sa saisine, que la dépense obligatoire n'a pas été inscrite
+au budget territorial ou l'a été pour une somme insuffisante, elle adresse une mise en demeure au président de l'assemblée
+territoriale.
+
+Si, dans un délai d'un mois, cette mise en demeure n'est pas suivie d'effet, la chambre territoriale des comptes demande au
+haut-commissaire d'inscrire cette dépense au budget du territoire et propose, s'il y a lieu, la création de ressources ou la
+diminution de dépenses facultatives destinée à couvrir la dépense obligatoire. Le haut-commissaire règle et rend exécutoire
+le budget rectifié en conséquence. S'il s'écarte des propositions formulées par la chambre territoriale des comptes, il
+assortit sa décision d'une motivation explicite.
+
+A défaut de mandatement d'une dépense obligatoire par le président du gouvernement du territoire, dans le mois suivant la
+mise en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'office.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-820 du 6 septembre 1984 - art. 78 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
+
+
+###### Article LO273-4
+
+Lorsqu'elle est saisie en application des articles L.O. 273-1 à L.O. 273-3, la chambre territoriale des comptes dispose, pour
+l'instruction de ces affaires, des pouvoirs définis aux articles L.O. 272-40, L.O. 272-41, L. 272-44 et L. 272-50.
+
+La chambre territoriale des comptes prend toutes dispositions pour garantir le secret de ses investigations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10, art 9 Loi 82-594 1982-07-10, art 5 al 6
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+
+##### CHAPITRE IV : Du comptable du territoire<a id=116></a>
+
+##### Section 1 : Dispositions statutaires.<a id=117></a>
 
 ###### Article L274-1
 
@@ -10814,5 +11572,68 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+
+
+##### Section 2 : Obligations et missions.<a id=118></a>
+
+###### Article LO274-4
+
+Le comptable ne peut subordonner ses actes de paiement à une appréciation de l'opportunité des décisions prises par
+l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle de légalité qu'impose l'exercice de sa responsabilité
+personnelle et pécuniaire. Il est tenu de motiver la suspension du paiement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-820 1984-09-06, art 96 al 1
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 183 (V)
+
+
+###### Article LO274-5
+
+Lorsque le comptable du territoire notifie sa décision de suspendre le paiement d'une dépense, le président du gouvernement
+du territoire peut lui adresser un ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds
+territoriaux disponibles, de dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits
+autres que ceux sur lesquels elle devrait être imputée, d'absence totale de justification du service fait ou de défaut de
+caractère libératoire du règlement. L'ordre de réquisition est notifié au haut-commissaire qui en informe la chambre
+territoriale des comptes.
+
+En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°84-820 1984-09-06, art 96 al 2 à 4
+  - modifié par loi 96-312 1996-04-12, art 120
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 152 (V)
+  - Loi n°2004-192 du 27 février 2004 - art. 183 (V)
+  - Loi n°2004-192 du 27 février 2004 - art. 64 (V)
+  - Loi organique n°2004-192 du 27 février 2004 - art. 129 (V)
+  - Code des juridictions financières - art. L312-2 (V)
+  - Code général des collectivités territoriales - art. LO6223-2 (V)
 
 
