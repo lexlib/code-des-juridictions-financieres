@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-03-01
+Version Consolidée au 2002-03-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -51,8 +51,8 @@ Version Consolidée au 2002-03-01
           - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. L232-1 à L232-8)](#48)
             - [Section 1 : Dispositions communes (art. L232-1 à L232-2)](#49)
             - [Section 2 : Dispositions particulières aux syndicats de communes (art. L232-3)](#50)
-            - [Section 3 : Des établissements publics locaux d'enseignement (art. L232-4 à L232-5)](#51)
-            - [Section 4 : Des établissements publics de santé (art. L232-6)](#52)
+            - [Section 3 : Des établissements publics locaux d'enseignement (art. L232-4)](#51)
+            - [Section 4 : Des établissements publics de santé (art. L232-5 à L232-6)](#52)
             - [Section 5 : Des offices publics d'aménagement et de construction    soumis aux règles applicables aux entreprises de    commerce. (art. L232-7)](#53)
             - [Section 6 : Du centre national de la fonction publique territoriale (art. L232-8)](#54)
           - [CHAPITRE III : Ordres de réquisition (art. L233-1 à L233-3)](#55)
@@ -5708,10 +5708,32 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de l'éducation - art. L421-13 (V)
 
 
+##### Section 4 : Des établissements publics de santé<a id=52></a>
+
 ###### Article L232-5
 
-A l'exclusion de la date mentionnée au a de l'article L. 232-4, les dispositions de cet article sont applicables aux budgets
-modificatifs.
+Les chambres régionales des comptes exercent le contrôle des actes budgétaires et de l'exécution des budgets des
+établissements publics de santé régis par le livre VII du code de la santé publique conformément aux dispositions du deuxième
+alinéa du 1° de l'article L. 6143-4 et de l'article L. 6145-3 de ce code reproduits ci-après :
+
+Art. L. 6143-4, 1°, deuxième alinéa.   Le directeur de l'agence régionale de l'hospitalisation saisit, pour avis, la chambre
+régionale des comptes, dans les quinze jours suivant leur réception, des délibérations dont il estime qu'elles entraînent des
+dépenses de nature à menacer l'équilibre budgétaire de l'établissement. Il informe sans délai l'établissement de cette
+saisine, qu'il peut assortir d'un sursis à exécution. Sur avis conforme de la chambre régionale des comptes, rendu dans un
+délai de trente jours suivant la saisine, le directeur de l'agence régionale de l'hospitalisation peut annuler la
+délibération ainsi mise en cause.
+
+Art. L. 6145-3.   Si le budget n'est pas adopté par le conseil d'administration avant le 1er janvier de l'exercice auquel il
+s'applique, le directeur de l'agence régionale de l'hospitalisation saisit sans délai la chambre régionale des comptes qui,
+dans un délai de trente jours, formule des propositions permettant d'arrêter le budget. Le président du conseil
+d'administration peut, à sa demande, présenter oralement ses observations à la chambre régionale des comptes. Il est assisté
+par le directeur de l'établissement. Le directeur de l'agence régionale de l'hospitalisation, arrête le budget et le rend
+exécutoire. Si le directeur de l'agence régionale de l'hospitalisation s'écarte des propositions de la chambre régionale des
+comptes, il assortit sa décision d'une motivation explicite.
+
+En cas de carence de l'ordonnateur, le directeur de l'agence régionale de l'hospitalisation peut après mise en demeure et à
+défaut d'exécution dans le délai de trente jours, procéder au mandatement d'office d'une dépense ou au recouvrement d'une
+recette régulièrement inscrite au budget initial et aux décisions modificatives éventuelles.
 
 **Liens relatifs à cet article**
 
@@ -5737,18 +5759,23 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+  - Ordonnance n°2000-549 du 15 juin 2000 - art. 4
+  - Ordonnance 2002-303 2002-03-04 art. 19 III jorf 5 mars 2002
 
-_Cite_:
+_Créé par_:
 
-  - Code des juridictions financières - art. L232-4 (M)
+  - Rapport - art. 4 ()
 
 _Anciens textes_:
 
-  - Code des juridictions financières l232-29 : loi 83-663 1983-07-22, art 15-10, modifié par loi 85-97 1985-01-25, art 9
+  - Code des juridictions financières L232-29 : loi 83-663 1983-07-22, art 15-10 modifié par loi 85-97 1985-01-25, art 9
+  - Code des juridictions financières l232-7
 
+_Cite_:
 
-##### Section 4 : Des établissements publics de santé<a id=52></a>
+  - Code des juridictions financières L714-5
+  - Code de la santé publique - art. L714-9 (M)
+
 
 ###### Article L232-6
 
