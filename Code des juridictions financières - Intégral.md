@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-07-09
+Version Consolidée au 1996-07-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -19,7 +19,7 @@ Version Consolidée au 1996-07-09
           - [Section 2 : Contrôle de la Caisse des dépôts et consignations (art. L131-3)](#16)
           - [Section 3 : Contrôle de l'apurement administratif des comptes (art. L131-4 à L131-5)](#17)
           - [Section 4 : Condamnation des comptables à l'amende (art. L131-6 à L131-13)](#18)
-        - [CHAPITRE II : Relations avec le Parlement (art. L132-2 à LO132-1)](#19)
+        - [CHAPITRE II : Relations avec le Parlement (art. L132-2 à LO132-3)](#19)
         - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. L133-1 à L133-5)](#20)
         - [CHAPITRE IV : Contrôle de la sécurité sociale (art. L134-1)](#21)
         - [CHAPITRE V : Communication des observations (art. L135-1 à L135-5)](#22)
@@ -1452,21 +1452,13 @@ _Cite_:
   - Code des communes - art. L235-5 (Ab)
 
 
-###### Article L132-3
+###### Article L132-3-1
 
-Chaque année, la Cour des comptes transmet au Parlement un rapport analysant les comptes de l'ensemble des organismes de
-sécurité sociale soumis à son contrôle et faisant une synthèse des avis émis par les comités départementaux d'examen des
-comptes de la sécurité sociale, éventuellement complété par ses observations aux autorités de tutelle et les réponses de
-celles-ci. Les comptes et les observations visés au présent alinéa sont ceux relatifs à l'avant-dernière année précédant
-celle de la transmission au Parlement.
+La Cour des comptes peut être saisie par la commission parlementaire compétente de toute question relative à l'application
+des lois de financement de la sécurité sociale et procède, dans ce cadre et à la demande de cette commission, aux enquêtes
+sur les organismes soumis à son contrôle.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-483 1967-06-22, art 10 dernier alinéa, issu de Loi 94-637 1994-07-25 art 13
-  - Loi n°96-646 1996-07-22, art 2-I
-  - abrogé par Loi 96-646 1996-07-22, art 2-IV
 
 _Codifié par_:
 
@@ -1474,24 +1466,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-646 du 22 juillet 1996 - art. 3 ()
-
-_Cité par_:
-
-  - Décret n°2020-438 du 17 avril 2020 - art. 1 (V)
-  - Code de la sécurité sociale. - art. LO111-3 (V)
-  - Code de la sécurité sociale. - art. LO111-4 (V)
-  - Code des juridictions financières - art. L111-6 (Ab)
-  - Code des juridictions financières - art. L132-3-2 (VT)
-  - Code des juridictions financières - art. L132-4 (VD)
-  - Code des juridictions financières - art. L314-19 (V)
-  - Code des juridictions financières - art. R112-17 (VD)
-  - Code des juridictions financières - art. R134-14 (Ab)
-  - Code des juridictions financières - art. R143-11 (V)
+  - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
 
 
 ###### Article L132-4
@@ -1552,6 +1527,45 @@ _Créé par_:
 _Cité par_:
 
   - Code des juridictions financières - art. L314-19 (V)
+
+
+###### Article LO132-3
+
+Chaque année, la Cour des comptes établit un rapport sur l'application des lois de financement de la sécurité sociale. Ce
+rapport présente, en outre, une analyse de l'ensemble des comptes des organismes de sécurité sociale soumis à son contrôle et
+fait une synthèse des rapports et avis émis par les organismes de contrôle placés sous sa surveillance. Ce rapport est remis
+au Parlement sitôt son arrêt par la Cour des comptes.
+
+Les réponses faites aux observations de la Cour des comptes sont jointes au rapport.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-483 1967-06-22, art 10 dernier alinéa, issu de Loi 94-637 1994-07-25 art 13
+  - Loi n°96-646 1996-07-22, art 2-I
+  - abrogé par Loi 96-646 1996-07-22, art 2-IV
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Modifié par_:
+
+  - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
+
+_Cité par_:
+
+  - Décret n°2020-438 du 17 avril 2020 - art. 1 (V)
+  - Code de la sécurité sociale. - art. LO111-3 (V)
+  - Code de la sécurité sociale. - art. LO111-4 (V)
+  - Code des juridictions financières - art. L111-6 (Ab)
+  - Code des juridictions financières - art. L132-3-2 (VT)
+  - Code des juridictions financières - art. L132-4 (VD)
+  - Code des juridictions financières - art. L314-19 (V)
+  - Code des juridictions financières - art. R112-17 (VD)
+  - Code des juridictions financières - art. R134-14 (Ab)
+  - Code des juridictions financières - art. R143-11 (V)
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics<a id=20></a>
