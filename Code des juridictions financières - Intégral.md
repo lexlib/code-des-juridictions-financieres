@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1994-12-28
+Version Consolidée au 1995-02-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à LO274-5)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -1824,28 +1824,40 @@ Les observations formulées par la Cour des comptes en application de l'article 
 organismes mentionnés audit article, qui est tenu de les communiquer au conseil d'administration et à l'assemblée générale
 lors de la première réunion qui suit.
 
+La Cour des comptes communique, pour information, ses observations définitives aux ministres concernés par les objectifs
+poursuivis par l'appel à la générosité publique ainsi qu'aux présidents de la commission des finances de l'Assemblée
+nationale et du Sénat.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-772 1991-06-22, art 6, modifié par loi 95-116 1995-02-04, art 120
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°95-116 du 4 février 1995 - art. 120 ()
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
 
 _Cite_:
 
-  - Code des juridictions financières - art. L111-8 (M)
+  - Code des juridictions financières - art. L111-8
 
 _Cité par_:
 
   - Code des juridictions financières - art. L135-5 (T)
   - Code des juridictions financières - art. R135-4 (T)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L143-2 (M)
+
+_Anciens textes_:
+
+  - Loi n°91-772 1991-06-22, art 6, modifié par loi 95-116 1995-02-04, art 120
 
 
 ###### Article L135-3
