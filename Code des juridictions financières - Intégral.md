@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1997-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -424,6 +424,34 @@ _Abrogé par_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code du patrimoine - art. L143-13 (VD)
+
+
+###### Article L111-8-2
+
+L'Union d'économie sociale du logement est soumise au contrôle de la Cour des comptes dans les conditions prévues à l'article
+L. 135-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°96-1237 du 30 décembre 1996 - art. 7 ()
+
+_Anciens textes_:
+
+  - Loi n°96-1237 du 30 décembre 1996 - art. 7 ()
+
+_Cité par_:
+
+  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+
+_Cite_:
+
+  - Code des juridictions financières - art. L135-3 (V)
 
 
 ###### Article L111-9
