@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-11-30
+Version Consolidée au 2003-12-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -437,10 +437,9 @@ _Créé par_:
 
 ###### Article L111-6
 
-Conformément aux dispositions du second alinéa de l'article L. 243-7 du code de la sécurité sociale, le contrôle de
-l'application de la législation de sécurité sociale par les administrations centrales et les services déconcentrés de l'Etat,
-pour les contributions et cotisations dont ils sont redevables envers le régime général, est assuré par la Cour des comptes,
-qui fait état des résultats de ce contrôle dans le rapport sur le projet de loi de règlement.
+La Cour des comptes fait état des résultats des contrôles prévus aux deuxième, troisième et quatrième alinéas de l'article L.
+243-7 du code de la sécurité sociale, dans le rapport sur l'application des lois de financement de la sécurité sociale prévu
+par l'article LO 132-3 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -450,19 +449,24 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°94-1040 1994-12-02
+  - Loi n°94-1040 du 2 décembre 1994
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°2003-1199 du 18 décembre 2003 - art. 74 () JORF 19 décembre 2003
+
+_Abrogé par_:
+
+  - Loi n°2011-1906 du 21 décembre 2011 - art. 41
+
+_Cite_:
+
+  - Code des juridictions financières - art. LO132-3
+  - Code de la sécurité sociale. - art. L243-7
 
 _Cité par_:
 
   - Code des juridictions financières - art. R143-2 (V)
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L243-7 (M)
 
 
 ###### Article L111-7
