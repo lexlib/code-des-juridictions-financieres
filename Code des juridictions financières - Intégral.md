@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1995-07-26
+Version Consolidée au 1995-11-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -12270,9 +12270,38 @@ _Cité par_:
   - Code des juridictions financières - art. L312-2 (V)
 
 
+###### Article L313-7-1
+
+Toute personne visée à l'article L. 312-1 chargée de responsabilités au sein de l'un des organismes mentionnés aux articles
+L. 133-1 et L. 133-2 qui, dans l'exercice de ses fonctions, aura causé un préjudice grave à cet organisme, par des
+agissements manifestement incompatibles avec les intérêts de celui-ci, par des carences graves dans les contrôles qui lui
+incombaient ou par des omissions ou négligences répétées dans son rôle de direction sera passible de l'amende prévue à
+l'article L. 313-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°95-851 1995-07-24
+
+_Anciens textes_:
+
+  - Loi n°95-1251 1995-11-28, art 21-I
+
+_Créé par_:
+
+  - Loi n°95-1251 du 28 novembre 1995 - art. 21 ()
+
+_Cite_:
+
+  - Code des juridictions financières - art. L133-1 (V)
+  - Code des juridictions financières - art. L312-1 (V)
+  - Code des juridictions financières - art. L313-1 (V)
+
+
 ###### Article L313-8
 
-Lorsque les personnes visées aux articles L. 313-1 à L. 313-7 ne perçoivent pas une rémunération ayant le caractère d'un
+Lorsque les personnes visées aux articles L. 313-1 à L. 313-7-1 ne perçoivent pas une rémunération ayant le caractère d'un
 traitement, le maximum de l'amende pourra atteindre le montant du traitement brut annuel correspondant à l'échelon le plus
 élevé afférent à l'emploi de directeur d'administration centrale.
 
@@ -12282,22 +12311,22 @@ _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 _Anciens textes_:
 
   - Loi n°95-851 1995-07-24, art 1er, modifié par loi 95-1251 1995-11-28, art 21-II
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
-_Cité par_:
+_Modifié par_:
 
-  - Code des juridictions financières - art. L313-11 (V)
+  - Loi n°95-1251 du 28 novembre 1995 - art. 21 ()
 
 _Cite_:
 
-  - Code des juridictions financières L313-1 à L313-7
+  - Code des juridictions financières - art. L313-1 (V)
+
+_Cité par_:
+
+  - Code des juridictions financières - art. L313-11 (V)
 
 
 ###### Article L313-9
