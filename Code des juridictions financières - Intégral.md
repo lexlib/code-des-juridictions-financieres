@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-06-25
+Version Consolidée au 1996-07-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -400,6 +400,33 @@ _Cité par_:
   - Code des juridictions financières - art. R143-6 (T)
   - Code général des impôts, CGI. - art. 1378 octies (V)
   - Livre des procédures fiscales - art. L135 K (V)
+
+
+###### Article L111-8-1
+
+La "Fondation du patrimoine" est soumise au contrôle de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°96-590 du 2 juillet 1996 - art. 13 ()
+
+_Anciens textes_:
+
+  - Loi n°96-590 du 2 juillet 1996 - art. 13 ()
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code du patrimoine - art. L143-13 (VD)
 
 
 ###### Article L111-9
