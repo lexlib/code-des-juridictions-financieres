@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à LO274-5)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -223,23 +223,30 @@ _Cité par_:
 
 ###### Article L111-4
 
-La Cour des comptes assure la vérification des comptes et de la gestion des entreprises publiques.
+La Cour des comptes assure la vérification des comptes et de la gestion des entreprises publiques ainsi que, dans le cadre du
+contrôle des comptes de l'autorité délégante, du rapport produit par le délégataire en application de l'article 40-1 de la
+loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des
+procédures publiques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-  - Loi n°76-539 1976-06-22 art 7-I
-  - modifié par Loi 95-127 1995-02-08, art 3-I
+  - Loi n°76-539 1976-06-22, art 7-I modifié par Loi 95-127 1995-02-08, art 3-I
+
+_Cite_:
+
+  - Loi n°93-122 1993-01-29 art. 40-1
+  - Loi n°93-122 du 29 janvier 1993 - art. 40-1 (V)
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°95-127 du 8 février 1995 - art. 3 ()
 
 _Cité par_:
 
@@ -2190,6 +2197,43 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
+###### Article L140-4-1
+
+Pour la vérification des conditions d'exécution des conventions visées à l'article L. 111-4 et passées par les services et
+organismes soumis au contrôle de la Cour des comptes, les magistrats de celle-ci peuvent prendre connaissance, auprès des
+cocontractants de ces services et organismes, des factures, livres et registres pouvant se rapporter aux opérations visées
+par lesdites conventions. Ils peuvent demander par écrit toute justification complémentaire et obtenir copie de ceux des
+documents présentés qu'ils estiment utiles.
+
+Un avis d'enquête doit être établi préalablement par le premier président de la Cour des comptes.
+
+Les observations et, le cas échéant, les autres suites définitivement retenues par la Cour sont communiquées à l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Anciens textes_:
+
+  - Loi n°95-127 1995-02-08, art 9-I
+
+_Créé par_:
+
+  - Loi n°95-127 du 8 février 1995 - art. 9 ()
+
+_Cite_:
+
+  - Code des juridictions financières - art. L111-4 (M)
+
+_Cité par_:
+
+  - Code des juridictions financières - art. L262-45 (V)
+  - Code des juridictions financières - art. L272-41-1 (V)
+  - Code des juridictions financières - art. L272-43 (V)
+
+
 ###### Article L140-5
 
 La Cour des comptes prend toutes dispositions pour garantir le secret de ses investigations.
@@ -2652,6 +2696,9 @@ articles L. 211-4 à L. 211-6, ainsi qu'aux articles L. 133-3 et L. 133-4, lorsq
 arrêté du premier président de la Cour des comptes. Elle peut également assurer ces vérifications sur demande motivée, soit
 du représentant de l'Etat dans la région ou le département, soit de l'autorité territoriale.
 
+Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès des délégataires de
+service public les comptes qu'ils ont produits aux autorités délégantes.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -2662,9 +2709,9 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°95-127 du 8 février 1995 - art. 3 ()
 
 _Cité par_:
 
@@ -6253,7 +6300,8 @@ _Cité par_:
 ###### Article L241-2
 
 Les magistrats de la chambre régionale des comptes disposent, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble
-des droits et pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
+des droits et pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code. L'avis d'enquête visé à
+l'article L. 140-4-1 du présent code est établi par le président de la chambre régionale des comptes.
 
 **Liens relatifs à cet article**
 
@@ -6265,9 +6313,9 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°95-127 du 8 février 1995 - art. 9 ()
 
 _Cité par_:
 
