@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-07-17
+Version Consolidée au 2004-07-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -68,7 +68,7 @@ Version Consolidée au 2004-07-17
       - [DEUXIEME PARTIE : Les chambres territoriales des comptes (art. L261-1 à LO274-5)](#65)
         - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie (art. L261-1 à L264-7)](#66)
           - [CHAPITRE Ier : Du rapport public de la Cour des comptes (art. L261-1 à L261-3)](#67)
-          - [CHAPITRE II : De la chambre territoriale des comptes (art. L262-1 à L262-58)](#68)
+          - [CHAPITRE II : De la chambre territoriale des comptes (art. L262-1 à L262-58-1)](#68)
             - [Section préliminaire : Création (art. L262-1)](#69)
             - [Section 1 : Missions (art. L262-3 à LO262-12)](#70)
             - [Section 2 : Organisation (art. L262-15 à L262-28)](#71)
@@ -81,11 +81,11 @@ Version Consolidée au 2004-07-17
               - [Sous-section 3 : Condamnation des comptables à l'amende (art. L262-38 à L262-40)](#78)
             - [Section 4 bis : Contrôle de certaines conventions (art. LO262-40-1)](#79)
             - [Section 5 : Contrôle des actes des sociétés d'économie mixte locales (art. L262-41)](#80)
-            - [Section 6 : Procédure (art. LO262-42 à L262-55)](#81)
-              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO262-42 à LO262-43)](#82)
+            - [Section 6 : Procédure (art. L262-43-1 à L262-55)](#81)
+              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. L262-43-1 à LO262-43)](#82)
               - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45-1)](#83)
               - [Sous-section 3 : Dispositions communes (art. L262-46 à L262-55)](#84)
-            - [Section 7 : Voies de recours (art. L262-56 à L262-58)](#85)
+            - [Section 7 : Voies de recours (art. L262-56 à L262-58-1)](#85)
           - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. LO263-1 à L263-27)](#86)
             - [Section 1 : Des provinces et du territoire (art. LO263-1 à LO263-7)](#87)
             - [Section 2 : Des communes et des établissements publics communaux et intercommunaux (art. L263-8 à L263-27)](#88)
@@ -665,7 +665,11 @@ fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le j
 Dans les conditions définies à l'alinéa précédent, le jugement des comptes et l'examen de la gestion de tout ou partie des
 établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française peuvent être
 délégués à la chambre territoriale des comptes par arrêté du premier président de la Cour des comptes pris après avis du
-procureur général près la Cour des comptes et du président de la chambre territoriale des comptes. ;
+procureur général près la Cour des comptes et du président de la chambre territoriale des comptes.
+
+Dans les mêmes conditions, le jugement des comptes et l'examen de la gestion de tout ou partie des établissements publics
+nationaux relevant d'une même catégorie et ayant leur siège en Nouvelle-Calédonie peuvent être délégués à la chambre
+territoriale des comptes de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -680,7 +684,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-193 2004-02-27 art. 21 1° JORF 2 mars 2004
+  - Ordonnance 2004-728 2004-07-22 art. 1 1° JORF 24 juillet 2004
 
 _Cité par_:
 
@@ -7352,6 +7356,13 @@ lorsque la vérification lui en est confiée par arrêté du premier président 
 Elle peut également assurer ces vérifications sur demande motivée soit du haut-commissaire, soit de l'exécutif de la
 collectivité territoriale ou de l'établissement public concerné.
 
+L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
+l'évaluation des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs
+ne peut faire l'objet d'observations.
+
+La chambre territoriale des comptes peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier
+auprès de délégataires de service public les comptes qu'ils ont produits aux autorités délégantes.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7364,7 +7375,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2004-728 2004-07-22 art. 1 2° JORF 24 juillet 2004
+
+_Transféré par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 _Cite_:
 
@@ -7377,6 +7392,10 @@ _Cité par_:
   - Code des juridictions financières - art. L262-49-1 (VT)
   - Code des juridictions financières - art. L262-6 (VT)
   - Code des juridictions financières - art. R262-70 (M)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-7 (VD)
 
 
 ###### Article L262-4
@@ -7445,9 +7464,11 @@ _Cite_:
 ###### Article L262-7
 
 La chambre territoriale des comptes peut assurer la vérification des comptes des établissements, sociétés, groupements et
-organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales ou leurs établissements publics
-apportent un concours financier supérieur à 1 500 euros ou dans lesquels elles détiennent, séparément ou ensemble, plus de la
-moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
+organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales, leurs établissements publics ou
+les établissements publics nationaux, dont le contrôle lui a été délégué en application de l'article L. 111-9, apportent un
+concours financier supérieur à 1 500 Euros ou de sa contrepartie en monnaie locale, ou dans lesquels ils détiennent,
+séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir
+prépondérant de décision ou de gestion.
 
 **Liens relatifs à cet article**
 
@@ -7461,7 +7482,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
+  - Ordonnance 2004-728 2004-07-22 art. 1 3° JORF 24 juillet 2004
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+_Cite_:
+
+  - Code des juridictions financières - art. L111-9 (M)
 
 _Cité par_:
 
@@ -7469,6 +7498,10 @@ _Cité par_:
   - Code des juridictions financières - art. L262-9 (VT)
   - Code des juridictions financières - art. R133-4 (T)
   - Code des juridictions financières - art. R262-69 (M)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-8 (VD)
 
 
 ###### Article L262-8
@@ -8488,6 +8521,24 @@ _Modifié par_:
 
 ##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=82></a>
 
+###### Article L262-43-1
+
+Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
+d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
+constituer des irrégularités dans les comptes ou la gestion de la Nouvelle-Calédonie, des provinces ou de leurs
+établissements publics.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1132 1994-12-27
+
+_Créé par_:
+
+  - Ordonnance 2004-728 2004-07-22 art. 1 4° JORF 24 juillet 2004
+
+
 ###### Article LO262-42
 
 La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
@@ -8568,6 +8619,8 @@ Les magistrats de la chambre territoriale des comptes disposent à l'égard des 
 des organismes visés à l'article L. 262-44, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et
 pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
 
+L'avis d'enquête mentionné à l'article L. 140-4-1 est établi par le président de la chambre territoriale des comptes..
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -8580,10 +8633,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2004-728 2004-07-22 art. 1 5° JORF 24 juillet 2004
 
 _Cite_:
 
+  - Code des juridictions financières - art. L140-4-1 (M)
   - Code des juridictions financières - art. L262-44 (M)
 
 _Cité par_:
@@ -8649,6 +8703,33 @@ _Cité par_:
   - Code des juridictions financières - art. L262-73 (VD)
   - Code des juridictions financières - art. L263-26 (VT)
   - Code des juridictions financières - art. R262-62 (T)
+
+
+###### Article L262-46-1
+
+Le fait de faire obstacle de quelque façon que ce soit à l'exercice des pouvoirs attribués par le présent code aux magistrats
+et rapporteurs de la chambre territoriale des comptes est puni d'une amende de 15 000 Euros ou de sa contrepartie en monnaie
+locale. Le ministère public près la chambre territoriale des comptes peut saisir le parquet près la juridiction compétente en
+vue de déclencher l'action publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Ordonnance 2004-728 2004-07-22 art. 1 6° JORF 24 juillet 2004
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-49 (VD)
+  - Code des juridictions financières - art. L262-49 (VT)
 
 
 ###### Article L262-47
@@ -8722,22 +8803,34 @@ _Cite_:
 
 ###### Article L262-49
 
-Lorsque des observations sont formulées, elles ne peuvent être arrêtées définitivement avant que l'ordonnateur et celui qui
-était en fonction au cours de l'exercice examiné ou le dirigeant aient été en mesure de leur apporter une réponse écrite.
+Lorsque des observations sont formulées, le dirigeant ou l'ordonnateur concerné, y compris, le cas échéant, celui qui était
+en fonctions au cours de l'exercice examiné, disposent d'un délai de deux mois pour remettre au greffe de la chambre
+territoriale des comptes une réponse écrite. Les observations ne peuvent être arrêtées définitivement qu'après réception de
+cette réponse ou, à défaut, à l'expiration du délai précité.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°82-213 1982-03-02 modifiée, art 87 al 13, cinquième phrase modifié par loi 69-609 1996-07-05, art 25-III-2°
+  - Code des juridictions financières - art. L262-46-1 (VT)
 
 _Codifié par_:
 
-  - Loi n°94-1040 1994-12-02
+  - Loi n°94-1040 du 2 décembre 1994
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2004-728 2004-07-22 art. 1 7° JORF 24 juillet 2004
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-65 (VD)
 
 _Cité par_:
 
@@ -8781,13 +8874,30 @@ _Nouveaux textes_:
 
 ###### Article L262-50
 
-Les observations définitives adressées aux représentants des établissements, sociétés, groupements et organismes mentionnés
-aux articles L. 262-7 à L. 262-11 sont également transmises à l'exécutif de la collectivité territoriale qui leur a apporté
-un concours financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de décision.
+La chambre territoriale des comptes arrête ses observations définitives sous la forme d'un rapport d'observations.
 
-Les observations définitives formulées par la chambre territoriale des comptes sur la gestion d'une collectivité
-territoriale, d'un établissement public local ou de l'un des organismes mentionnés à l'alinéa précédent sont communiquées par
-l'exécutif de la collectivité ou de l'établissement à son assemblée délibérante, dès sa plus proche réunion.
+Ce rapport d'observations est communiqué :
+
+1° Soit à l'exécutif de la collectivité territoriale ou au dirigeant de l'établissement public soumis au contrôle ;
+
+2° Soit aux représentants des établissements, sociétés, groupements et organismes mentionnés aux articles L. 262-7 à L.
+262-11 ; dans ce cas, il est également transmis à l'exécutif de la collectivité territoriale qui leur a apporté son concours
+financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de décision.
+
+Il est communiqué à l'exécutif de la collectivité territoriale ou de l'établissement public et, le cas échéant, pour ce qui
+le concerne, à l'ordonnateur ou au dirigeant qui était en fonctions au cours de l'exercice examiné.
+
+Les destinataires du rapport d'observations disposent d'un délai d'un mois pour adresser au greffe de la chambre territoriale
+des comptes une réponse écrite. Dès lors qu'elles ont été adressées dans le délai précité, ces réponses sont jointes au
+rapport. Elles engagent la seule responsabilité de leurs auteurs.
+
+Le rapport d'observations est communiqué par l'exécutif de la collectivité territoriale ou de l'établissement public à son
+organe délibérant, dès sa plus prochaine réunion. Il fait l'objet d'une inscription à l'ordre du jour de l'organe
+délibérant ; il est joint à la convocation adressée à chacun des membres de celui-ci et donne lieu à un débat.
+
+Le rapport d'observations ne peut être publié ni communiqué à ses destinataires ou à des tiers à compter du premier jour du
+troisième mois précédant le mois au cours duquel il doit être procédé à des élections pour la collectivité concernée et
+jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 
 **Liens relatifs à cet article**
 
@@ -8801,12 +8911,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2004-728 2004-07-22 art. 1 8° JORF 24 juillet 2004
 
 _Cité par_:
 
   - Code des juridictions financières - art. L262-49-1 (VT)
   - Code des juridictions financières - art. L262-50-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-67 (VD)
+  - Code des juridictions financières - art. L262-68 (VD)
+  - Code des juridictions financières - art. L262-69 (VD)
 
 _Cite_:
 
@@ -8912,6 +9028,9 @@ _Cité par_:
 Les jugements, avis, propositions, rapports d'instruction et observations de la chambre territoriale des comptes sont
 délibérés et adoptés collégialement selon une procédure contradictoire.
 
+Lorsque la chambre territoriale statue en matière de gestion de fait et d'amende, elle délibère hors la présence du
+rapporteur. Le jugement est rendu en audience publique.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -8924,7 +9043,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+  - Ordonnance 2004-728 2004-07-22 art. 1 9° JORF 24 juillet 2004
 
 _Cité par_:
 
@@ -9033,6 +9152,35 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L262-58-1
+
+La chambre territoriale des comptes statue dans les formes prévues à l'article L. 262-54 sur toute demande en rectification
+d'observations définitives sur la gestion qui peut lui être présentée par les dirigeants des personnes morales contrôlées ou
+toute autre personne nominativement ou explicitement mise en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 du 2 décembre 1994
+
+_Créé par_:
+
+  - Ordonnance 2004-728 2004-07-22 art. 1 10° JORF 24 juillet 2004
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+_Cite_:
+
+  - Code des juridictions financières - art. L262-54
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-73 (VD)
 
 
 ##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=86></a>
@@ -10045,8 +10193,8 @@ _Modifié par_:
 
 ###### Article L264-3
 
-Les comptables du territoire, des provinces, des communes et des établissements publics communaux et intercommunaux prêtent
-serment devant la chambre territoriale des comptes.
+Les comptables de la Nouvelle-Calédonie, des provinces et des communes ainsi que les comptables ou agents comptables des
+établissements publics locaux prêtent serment devant la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
@@ -10060,7 +10208,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2004-728 2004-07-22 art. 1 11° JORF 24 juillet 2004
 
 
 ##### Section 2 : Obligations et missions<a id=91></a>
