@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-04-14
+Version Consolidée au 1996-06-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -358,6 +358,9 @@ associations et des mutuelles et au contrôle des comptes des organismes faisant
 vérifier la conformité des dépenses engagées par ces organismes aux objectifs poursuivis par l'appel à la générosité
 publique.
 
+Ce contrôle peut comporter des vérifications auprès d'autres organismes qui reçoivent des organismes mentionnés au premier
+alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadre de ces campagnes.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -378,9 +381,9 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-559 du 24 juin 1996 - art. 10 ()
 
 _Cité par_:
 
