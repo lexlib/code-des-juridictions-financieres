@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-04-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -310,8 +310,9 @@ _Cite_:
 
 ###### Article L111-7
 
-La Cour des comptes peut exercer, dans des conditions fixées par voie réglementaire, un contrôle sur les organismes qui
-bénéficient du concours financier de l'Etat ou d'une autre personne soumise à son contrôle.
+La Cour des comptes peut exercer, dans les conditions fixées par voie réglementaire, un contrôle sur les organismes qui
+bénéficient du concours financier de l'Etat, d'une autre personne soumise à son contrôle ainsi que de la Communauté
+européenne.
 
 **Liens relatifs à cet article**
 
@@ -335,16 +336,17 @@ _Cité par_:
 
 _Anciens textes_:
 
+  - Loi n°67-483 1967-06-22, art 1er al 6, modifié par Loi 76-539 1976-06-22, art 7-I, Loi 82-594 1982-07-10, art 10-III et par Loi 96-314 1996-04-12, art 10
   - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-  - modifié par Loi 76-539 1976-06-22, art 7-I, Loi 82-594 1982-07-10, art 10-III, et par Loi 96-314 1996-04-12, art 10
+  - Loi n°67-483 du 22 juin 1967 - art. 10 (M)
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-314 du 12 avril 1996 - art. 45 ()
 
 
 ###### Article L111-8
@@ -572,22 +574,22 @@ _Cité par_:
 Des fonctionnaires appartenant au corps de contrôle des ministères exerçant la tutelle des entreprises publiques ou des
 personnes ayant exercé des responsabilités dans les fonctions de tutelle ou de gestion des entreprises publiques peuvent être
 nommés conseillers maîtres en service extraordinaire en vue d'assister la Cour des comptes dans l'exercice des compétences
-mentionnées aux articles L. 133-1 et L. 133-2. Ils ne peuvent exercer aucune activité d'ordre juridictionnel.
+mentionnées aux articles L. 111-2 à L. 111-8 Ils ne peuvent exercer aucune activité d'ordre juridictionnel.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°67-483 1967-06-22, art 2bis, issu de Loi 76-539, art 7-II, modifié par Loi 96-314 1996-04-12, art 72-II
+  - Loi n°67-483 1967-06-22, art 2bis, issu de Loi 76-539 1976-06-22, art 7-II, modifié par Loi 96-314 1996-04-12, art 72-II
   - Loi n°67-483 du 22 juin 1967 - art. 2 (Ab)
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
 
 _Cité par_:
 
@@ -604,8 +606,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des juridictions financières - art. L133-1 (V)
-  - Code des juridictions financières - art. L133-2 (V)
+  - Code des juridictions financières L111-2 à L111-8
 
 
 ###### Article L112-6
@@ -947,22 +948,22 @@ juridiction sur les ordonnateurs, sauf sur ceux qu'elle a déclarés comptables 
 Les dispositions définitives des arrêts portant sur des gestions de fait sont délibérées après l'audition, à leur demande,
 des personnes déclarées comptables de fait. Les arrêts statuant sur les appels formés contre les dispositions définitives des
 jugements des chambres régionales des comptes portant sur des gestions de fait sont délibérés après l'audition, à leur
-demande, des requérants.
+demande, des requérants et des autres parties intéressées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°67-483 1967-06-22, art 5 dernier alinéa, modifié par Loi 82-594 1982-07-10, art 13, Loi 67-483 1967-06-22, art 9 al 9, issu de Loi 93-122 1993-01-22, art 80-I, et par Loi 96-314 1996-04-12, art 72-III
+  - Loi n°67-483 1967-06-22, art 5 dernier alinéa, modifié par Loi 82-594 1982-07-10, art 13, loi 67-483 1967-06-22, art 9 al 9, issu de Loi 93-122 1993-01-29, art 80-I et par Loi 96-314 1996-04-12, art 72-III
   - Loi n°67-483 du 22 juin 1967 - art. 13 (Ab)
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
 
 _Cité par_:
 
@@ -1102,6 +1103,42 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code des juridictions financières - art. L131-5 (VD)
+
+
+###### Article L131-6-1
+
+Le comptable passible de l'amende, pour retard dans la production des comptes, est celui en fonction à la date réglementaire
+de dépôt des comptes.
+
+Toutefois, en cas de changement de comptable entre la fin de la période d'exécution du budget et la date à laquelle le compte
+doit être produit, la Cour des comptes peut infliger l'amende à l'un des prédécesseurs du comptable en fonction à la date
+réglementaire de production des comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Anciens textes_:
+
+  - Loi n°96-314 1996-04-12 art 69-III
+
+_Créé par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 69 ()
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L131-6 (VD)
+
+_Cité par_:
+
+  - Code des juridictions financières - art. L231-10 (VD)
 
 
 ###### Article L131-7
@@ -2134,27 +2171,36 @@ _Créé par_:
 ###### Article L140-2
 
 Les magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes peuvent demander aux
-commissaires aux comptes, y compris les commissaires aux apports, tous renseignements sur les sociétés qu'ils contrôlent ;
-ils peuvent en particulier se faire communiquer les dossiers et documents établis en application des dispositions
-législatives et réglementaires relatives à la profession et au statut des commissaires aux comptes de sociétés.
+commissaires aux comptes, y compris les commissaires aux apports et les commissaires à la fusion, tous renseignements sur les
+sociétés qu'ils contrôlent ; ils peuvent en particulier se faire communiquer les dossiers et documents établis en application
+des dispositions législatives et réglementaires relatives à la profession et au statut des commissaires aux comptes de
+sociétés.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°67-483 1967-06-22, art 9 al 4, modifié par loi 82-594 1982-07-10, art 18, et par loi 96-314 1996-04-12, art 72-IV
+  - Loi n°67-483 1967-06-22, art 9 al 4, modifié par loi 82-594 1982-07-10, art 18, et par loi 96-314 1996-04-12, art 79-I
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L114-8 (V)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L141-3 (VD)
 
 
 ###### Article L140-3
@@ -2549,7 +2595,7 @@ _Cité par_:
 
 La chambre régionale des compte peut assurer la vérification des comptes des établissements, sociétés, groupements et
 organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales ou leurs établissements publics
-apportent un concours financier supérieur à 10 000 F ou dans lesquelles elles détiennent, séparément ou ensemble, plus de la
+apportent un concours financier supérieur à 10 000 F ou dans lesquelles ils détiennent, séparément ou ensemble, plus de la
 moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
 
 **Liens relatifs à cet article**
@@ -2562,10 +2608,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 _Cité par_:
 
@@ -2585,6 +2627,10 @@ _Cité par_:
   - Code des juridictions financières - art. R111-1 (V)
   - Code des juridictions financières - art. R133-4 (T)
   - Code des juridictions financières - art. R241-14 (V)
+
+_Modifié par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
 
 
 ###### Article L211-5
@@ -2629,8 +2675,8 @@ _Nouveaux textes_:
 
 Les organismes dont la gestion n'est pas assujettie aux règles de la comptabilité publique et qui bénéficient d'un concours
 financier excédant les seuils mentionnés aux articles L. 211-4 et L. 211-5 d'une collectivité territoriale ou d'un organisme
-relevant lui-même de sa compétence peuvent être soumis aux mêmes contrôles que ceux exercés par la Cour des comptes en
-application des dispositions de l'article L. 111-7.
+relevant lui-même de la compétence de la chambre régionale des comptes, peuvent être soumis aux mêmes contrôles que ceux
+exercés par la Cour des comptes en application des dispositions de l'article L. 111-7.
 
 **Liens relatifs à cet article**
 
@@ -2642,9 +2688,9 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
 
 _Cité par_:
 
@@ -2659,9 +2705,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des juridictions financières - art. L111-7 (M)
-  - Code des juridictions financières - art. L211-4 (M)
-  - Code des juridictions financières - art. L211-5 (V)
+  - Code des juridictions financières - art. L111-7 (V)
+  - Code des juridictions financières - art. L211-4 (V)
 
 
 ###### Article L211-7
@@ -4426,17 +4471,17 @@ _Cite_:
 
 La chambre régionale des comptes peut condamner les comptables à l'amende pour retard dans la production de leurs comptes et
 dans les réponses aux injonctions qui ont été formulées à leur encontre dans les conditions fixées, pour la Cour des comptes,
-par les articles L. 131-6, L. 131-7, L. 131-10 et L. 131-12.
+par les articles L. 131-6, L. 131-6-1, L. 131-7, L. 131-10 et L. 131-12.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-594 1982-07-10, art 3 al 2, modifié par loi 96-314 1996-04-12 art 69-IV
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 _Cité par_:
 
@@ -4446,11 +4491,16 @@ _Cité par_:
   - Code des juridictions financières - art. R231-32 (T)
   - Code des juridictions financières - art. R231-33 (Ab)
 
+_Modifié par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 69 ()
+
 _Cite_:
 
   - Code des juridictions financières - art. L131-10 (V)
   - Code des juridictions financières - art. L131-12 (V)
   - Code des juridictions financières - art. L131-6 (V)
+  - Code des juridictions financières - art. L131-6-1 (V)
   - Code des juridictions financières - art. L131-7 (V)
 
 
@@ -10740,8 +10790,11 @@ Le président du gouvernement du territoire dépose le projet de budget du terri
 territoriale, au plus tard le 15 novembre.
 
 Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le président du territoire peut
-mettre en recouvrement les recettes et engager les dépenses de la section de fonctionnement dans la limite de celles
-inscrites au budget de l'année précédente.
+mettre en recouvrement les recettes et engager, liquider et mandater les dépenses de la section de fonctionnement dans la
+limite de celles inscrites au budget de l'année précédente.
+
+Dans les mêmes conditions, il peut mandater les dépenses de remboursement de la dette publique en capital venant à échéance
+avant que le budget ne devienne exécutoire. "
 
 Si l'assemblée territoriale n'a pas voté le budget avant le 31 mars, et sous réserve des dispositions de l'article L.O.
 273-2, le conseil des ministres du territoire établit, sur la base des recettes de l'exercice précédent et après avoir
@@ -10758,9 +10811,9 @@ _Codifié par_:
 
   - Loi n°94-1132 1994-12-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+  - Loi n°96-312 du 12 avril 1996 - art. 119 ()
 
 _Cité par_:
 
@@ -10956,12 +11009,11 @@ _Cité par_:
 
 ###### Article LO274-5
 
-Lorsque le comptable du territoire notifie sa décision de suspendre le paiement d'une dépense, le président du gouvernement
-du territoire peut lui adresser un ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds
-territoriaux disponibles, de dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits
-autres que ceux sur lesquels elle devrait être imputée, d'absence totale de justification du service fait ou de défaut de
-caractère libératoire du règlement. L'ordre de réquisition est notifié au haut-commissaire qui en informe la chambre
-territoriale des comptes.
+Lorsque le comptable du territoire notifie sa décision de suspendre le paiement d'une dépense, l'ordonnateur peut lui
+adresser un ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds territoriaux disponibles, de
+dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels
+elle devrait être imputée, d'absence totale de justification du service fait ou de défaut de caractère libératoire du
+règlement. L'ordre de réquisition est notifié au haut-commissaire qui en informe la chambre territoriale des comptes.
 
 En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
@@ -10976,9 +11028,9 @@ _Codifié par_:
 
   - Loi n°94-1132 1994-12-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+  - Loi n°96-312 du 12 avril 1996 - art. 119 ()
 
 _Cité par_:
 
