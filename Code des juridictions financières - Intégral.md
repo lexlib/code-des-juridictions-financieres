@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1999-07-13
+Version Consolidée au 1999-07-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 1999-07-13
       - [PREMIERE PARTIE : Les chambres régionales des comptes (art. L210-1 à L250-10)](#26)
         - [TITRE Ier : Missions et organisation (art. L210-1 à L212-19)](#27)
           - [CHAPITRE PRELIMINAIRE (art. L210-1)](#28)
-          - [CHAPITRE Ier : Missions (art. L211-1 à L211-8)](#29)
+          - [CHAPITRE Ier : Missions (art. L211-1 à L211-9)](#29)
           - [CHAPITRE II : Organisation (art. L212-1 à L212-19)](#30)
             - [Section 1 : Organisation des juridictions (art. L212-1 à L212-15)](#31)
               - [Sous-section 1 : Dispositions générales. (art. L212-1 à L212-11)](#32)
@@ -2928,6 +2928,37 @@ _Cite_:
   - Code des juridictions financières - art. L133-3 (M)
   - Code des juridictions financières - art. L133-4 (V)
   - Code des juridictions financières L211-4 à L211-6, L133-3, L133-4
+
+
+###### Article L211-9
+
+Par dérogation aux dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour
+la recherche et le développement technologique de la France, les groupements d'intérêt public constitués, en tout ou partie,
+d'établissements publics de santé régis par le livre VII du code de la santé publique et dotés d'un comptable public sont
+soumis au contrôle des chambres régionales des comptes dans les conditions prévues par les articles L. 211-1 et L. 211-8 du
+présent code, dès lors que les établissements ou autres collectivités ou organismes soumis au contrôle des chambres
+régionales des comptes y détiennent séparément ou ensemble plus de la moitié du capital ou des voix dans les organes
+délibérants ou y exercent un pouvoir prépondérant de décision ou de gestion.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 12 première et troisième phrases
+
+_Cite_:
+
+  - Loi n°82-610 1982-07-15 art. 21
+  - Code des juridictions financières - art. L211-1 (V)
+  - Code des juridictions financières - art. L211-8 (M)
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°99-641 du 27 juillet 1999 - art. 43 ()
 
 
 ##### CHAPITRE II : Organisation<a id=30></a>
