@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1995-12-31
+Version Consolidée au 1996-02-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -46,87 +46,84 @@ Version Consolidée au 1995-12-31
             - [Section 1 : Jugement des comptes (art. L231-1 à L231-6)](#43)
             - [Section 2 : Contrôle de l'apurement administratif des comptes (art. L231-7 à L231-9)](#44)
             - [Section 3 : Condamnation des comptables à l'amende (art. L231-10 à L231-13)](#45)
-          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. L232-1 à L232-34)](#46)
-            - [Section 1 : Des communes. (art. L232-1 à L232-18)](#47)
-            - [Section 2 : Dispositions particulières aux syndicats de communes (art. L232-19)](#48)
-            - [Section 3 : Des départements. (art. L232-20 à L232-25)](#49)
-            - [Section 4 : Des régions. (art. L232-26)](#50)
-            - [Section 5 : Dispositions communes aux collectivités territoriales, à leurs groupements et aux établissements publics locaux. (art. L232-27)](#51)
-            - [Section 6 : Des établissements publics locaux d'enseignement. (art. L232-28 à L232-30)](#52)
-            - [Section 7 : Des établissements publics de santé. (art. L232-31 à L232-32)](#53)
-            - [Section 8 : Des offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce. (art. L232-33)](#54)
-            - [Section 9 : Du Centre national de la fonction publique territoriale. (art. L232-34)](#55)
-          - [CHAPITRE III : Ordres de réquisition (art. L233-1 à L233-5)](#56)
-          - [CHAPITRE IV : Contrôle de certaines conventions (art. L234-1)](#57)
-          - [CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales (art. L235-1)](#58)
-          - [CHAPITRE VI : Prestation de serment des comptables (art. L236-1)](#59)
-          - [CHAPITRE VII : Dispositions particulières concernant la collectivité territoriale de Corse (art. L237-1 à L237-2)](#60)
-        - [TITRE IV : Procédure (art. L241-1 à L243-3)](#61)
-          - [CHAPITRE Ier : Règles générales de procédure (art. L241-1 à L241-15)](#62)
-          - [CHAPITRE II : Contrôle budgétaire. (art. L242-1 à L242-2)](#63)
-          - [CHAPITRE III : Voies de recours. (art. L243-1 à L243-3)](#64)
-        - [TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte. (art. L250-1 à L250-10)](#65)
-      - [DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer. (art. L261-1 à LO274-5)](#66)
-        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. L261-1)](#67)
-          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L261-1)](#68)
-        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. L261-2 à L264-7)](#69)
-          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L261-2 à L261-3)](#70)
-          - [CHAPITRE II : De la chambre territoriale des comptes (art. L262-1 à L262-58)](#71)
-            - [Section préliminaire : Création. (art. L262-1)](#72)
-            - [Section 1 : Missions. (art. L262-3 à LO262-12)](#73)
-            - [Section 2 : Organisation (art. L262-14 à L262-28)](#74)
-              - [Sous-section 1 : Organisation de la juridiction. (art. L262-14 à L262-26)](#75)
-              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L262-27 à L262-28)](#76)
-            - [Section 3 : Dispositions statutaires. (art. L262-29 à L262-30)](#77)
-            - [Section 4 : Compétences et attributions juridictionnelles (art. L262-32 à L262-40)](#78)
-              - [Sous-section 1 : Jugement des comptes. (art. L262-32 à LO262-31)](#79)
-              - [Sous-section 2 : Contrôle de l'apurement administratif des comptes. (art. L262-35 à L262-37)](#80)
-              - [Sous-section 3 : Condamnation des comptables à l'amende. (art. L262-38 à L262-40)](#81)
-            - [Section 5 : Contrôle des actes des sociétés d'économie mixte locales. (art. L262-41)](#82)
-            - [Section 6 : Procédure (art. LO262-42 à L262-55)](#83)
-              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO262-42 à LO262-43)](#84)
-              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45)](#85)
-              - [Sous-section 3 : Dispositions communes. (art. L262-46 à L262-55)](#86)
-            - [Section 7 : Voies de recours. (art. L262-56 à L262-58)](#87)
-          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. LO263-1 à L263-26)](#88)
-            - [Section 1 : Des provinces et du territoire. (art. LO263-1 à LO263-7)](#89)
-            - [Section 2 : Des communes et des établissements publics communaux et intercommunaux. (art. L263-8 à L263-26)](#90)
-          - [CHAPITRE IV : Des comptables (art. L264-1 à L264-7)](#91)
-            - [Section 1 : Dispositions statutaires. (art. L264-1 à L264-3)](#92)
-            - [Section 2 : Obligations et missions (art. LO264-4 à L264-7)](#93)
-              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO264-4 à LO264-5)](#94)
-              - [Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux. (art. L264-6 à L264-7)](#95)
-        - [TITRE VII : Dispositions applicables en Polynésie française (art. L271-1 à LO274-5)](#96)
-          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L271-1 à L271-3)](#97)
-          - [CHAPITRE II : De la chambre territoriale des comptes (art. L272-1 à L272-60)](#98)
-            - [Section préliminaire : Création. (art. L272-1)](#99)
-            - [Section 1 : Missions. (art. L272-3 à LO272-14)](#100)
-            - [Section 2 : Organisation (art. L272-15 à L272-29)](#101)
-              - [Sous-section 1 : Organisation de la juridiction. (art. L272-15 à L272-27)](#102)
-              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L272-28 à L272-29)](#103)
-            - [Section 3 : Dispositions statutaires. (art. L272-30 à L272-31)](#104)
-            - [Section 4 : Compétences et attributions juridictionnelles (art. L272-33 à L272-38)](#105)
-              - [Sous-section 1 : Jugement des comptes. (art. L272-33 à LO272-32)](#106)
-              - [Sous-section 2 : Condamnation des comptables à l'amende. (art. L272-36 à L272-38)](#107)
-            - [Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire. (art. L272-39)](#108)
-            - [Section 6 : Procédure (art. LO272-40 à L272-53)](#109)
-              - [Sous-section 1 : A l'égard du territoire (art. LO272-40 à LO272-41)](#110)
-              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L272-42 à L272-43)](#111)
-              - [Sous-section 3 : Dispositions communes. (art. L272-44 à L272-53)](#112)
-            - [Section 7 : Voies de recours. (art. L272-54 à L272-56)](#113)
-            - [Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993. (art. L272-57 à L272-60)](#114)
-          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics. (art. LO273-1 à LO273-4)](#115)
-          - [CHAPITRE IV : Du comptable du territoire (art. L274-1 à LO274-5)](#116)
-            - [Section 1 : Dispositions statutaires. (art. L274-1 à L274-3)](#117)
-            - [Section 2 : Obligations et missions. (art. LO274-4 à LO274-5)](#118)
-    - [LIVRE III : Les institutions associées à la Cour des comptes (art. L311-1 à L316-1)](#119)
-      - [TITRE Ier : La Cour de discipline budgétaire et financière (art. L311-1 à L316-1)](#120)
-        - [CHAPITRE Ier : Organisation (art. L311-1 à L311-8)](#121)
-        - [CHAPITRE II : Personnes justiciables de la Cour (art. L312-1 à L312-2)](#122)
-        - [CHAPITRE III : Infractions et sanctions (art. L313-1 à L313-14)](#123)
-        - [CHAPITRE IV : Procédure devant la Cour (art. L314-1 à L314-20)](#124)
-        - [CHAPITRE V : Voies de recours (art. L315-1 à L315-3)](#125)
-        - [CHAPITRE VI : Rapport public (art. L316-1)](#126)
+          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. L232-1 à L232-10)](#46)
+            - [Section 1 : Dispositions communes (art. L232-1 à L232-2)](#47)
+            - [Section 2 : Dispositions particulières aux syndicats de communes (art. L232-3)](#48)
+            - [Section 3 : Des établissements publics locaux d'enseignement (art. L232-4 à L232-6)](#49)
+            - [Section 4 : Des établissements publics de santé (art. L232-7 à L232-8)](#50)
+            - [Section 5 : Des offices publics d'aménagement et de construction    soumis aux règles applicables aux entreprises de    commerce. (art. L232-9)](#51)
+            - [Section 6 : Du centre national de la fonction publique territoriale (art. L232-10)](#52)
+          - [CHAPITRE III : Ordres de réquisition (art. L233-1 à L233-3)](#53)
+          - [CHAPITRE IV : Contrôle de certaines conventions (art. L234-1 à L234-2)](#54)
+          - [CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales (art. L235-1)](#55)
+          - [CHAPITRE VI : Prestation de serment des comptables (art. L236-1)](#56)
+          - [CHAPITRE VII : Dispositions particulières concernant la collectivité territoriale de Corse (art. L237-1 à L237-2)](#57)
+        - [TITRE IV : Procédure (art. L241-1 à L243-3)](#58)
+          - [CHAPITRE Ier : Règles générales de procédure (art. L241-1 à L241-15)](#59)
+          - [CHAPITRE II : Contrôle budgétaire. (art. L242-1 à L242-2)](#60)
+          - [CHAPITRE III : Voies de recours. (art. L243-1 à L243-3)](#61)
+        - [TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte. (art. L250-1 à L250-10)](#62)
+      - [DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer. (art. L261-1 à LO274-5)](#63)
+        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. L261-1)](#64)
+          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L261-1)](#65)
+        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. L261-2 à L264-7)](#66)
+          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L261-2 à L261-3)](#67)
+          - [CHAPITRE II : De la chambre territoriale des comptes (art. L262-1 à L262-58)](#68)
+            - [Section préliminaire : Création. (art. L262-1)](#69)
+            - [Section 1 : Missions. (art. L262-3 à LO262-12)](#70)
+            - [Section 2 : Organisation (art. L262-14 à L262-28)](#71)
+              - [Sous-section 1 : Organisation de la juridiction. (art. L262-14 à L262-26)](#72)
+              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L262-27 à L262-28)](#73)
+            - [Section 3 : Dispositions statutaires. (art. L262-29 à L262-30)](#74)
+            - [Section 4 : Compétences et attributions juridictionnelles (art. L262-32 à L262-40)](#75)
+              - [Sous-section 1 : Jugement des comptes. (art. L262-32 à LO262-31)](#76)
+              - [Sous-section 2 : Contrôle de l'apurement administratif des comptes. (art. L262-35 à L262-37)](#77)
+              - [Sous-section 3 : Condamnation des comptables à l'amende. (art. L262-38 à L262-40)](#78)
+            - [Section 5 : Contrôle des actes des sociétés d'économie mixte locales. (art. L262-41)](#79)
+            - [Section 6 : Procédure (art. LO262-42 à L262-55)](#80)
+              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO262-42 à LO262-43)](#81)
+              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45)](#82)
+              - [Sous-section 3 : Dispositions communes. (art. L262-46 à L262-55)](#83)
+            - [Section 7 : Voies de recours. (art. L262-56 à L262-58)](#84)
+          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. LO263-1 à L263-26)](#85)
+            - [Section 1 : Des provinces et du territoire. (art. LO263-1 à LO263-7)](#86)
+            - [Section 2 : Des communes et des établissements publics communaux et intercommunaux. (art. L263-8 à L263-26)](#87)
+          - [CHAPITRE IV : Des comptables (art. L264-1 à L264-7)](#88)
+            - [Section 1 : Dispositions statutaires. (art. L264-1 à L264-3)](#89)
+            - [Section 2 : Obligations et missions (art. LO264-4 à L264-7)](#90)
+              - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO264-4 à LO264-5)](#91)
+              - [Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux. (art. L264-6 à L264-7)](#92)
+        - [TITRE VII : Dispositions applicables en Polynésie française (art. L271-1 à LO274-5)](#93)
+          - [CHAPITRE Ier : Du rapport public de la Cour des comptes. (art. L271-1 à L271-3)](#94)
+          - [CHAPITRE II : De la chambre territoriale des comptes (art. L272-1 à L272-60)](#95)
+            - [Section préliminaire : Création. (art. L272-1)](#96)
+            - [Section 1 : Missions. (art. L272-3 à LO272-14)](#97)
+            - [Section 2 : Organisation (art. L272-15 à L272-29)](#98)
+              - [Sous-section 1 : Organisation de la juridiction. (art. L272-15 à L272-27)](#99)
+              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes. (art. L272-28 à L272-29)](#100)
+            - [Section 3 : Dispositions statutaires. (art. L272-30 à L272-31)](#101)
+            - [Section 4 : Compétences et attributions juridictionnelles (art. L272-33 à L272-38)](#102)
+              - [Sous-section 1 : Jugement des comptes. (art. L272-33 à LO272-32)](#103)
+              - [Sous-section 2 : Condamnation des comptables à l'amende. (art. L272-36 à L272-38)](#104)
+            - [Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire. (art. L272-39)](#105)
+            - [Section 6 : Procédure (art. LO272-40 à L272-53)](#106)
+              - [Sous-section 1 : A l'égard du territoire (art. LO272-40 à LO272-41)](#107)
+              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L272-42 à L272-43)](#108)
+              - [Sous-section 3 : Dispositions communes. (art. L272-44 à L272-53)](#109)
+            - [Section 7 : Voies de recours. (art. L272-54 à L272-56)](#110)
+            - [Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993. (art. L272-57 à L272-60)](#111)
+          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics. (art. LO273-1 à LO273-4)](#112)
+          - [CHAPITRE IV : Du comptable du territoire (art. L274-1 à LO274-5)](#113)
+            - [Section 1 : Dispositions statutaires. (art. L274-1 à L274-3)](#114)
+            - [Section 2 : Obligations et missions. (art. LO274-4 à LO274-5)](#115)
+    - [LIVRE III : Les institutions associées à la Cour des comptes (art. L311-1 à L316-1)](#116)
+      - [TITRE Ier : La Cour de discipline budgétaire et financière (art. L311-1 à L316-1)](#117)
+        - [CHAPITRE Ier : Organisation (art. L311-1 à L311-8)](#118)
+        - [CHAPITRE II : Personnes justiciables de la Cour (art. L312-1 à L312-2)](#119)
+        - [CHAPITRE III : Infractions et sanctions (art. L313-1 à L313-14)](#120)
+        - [CHAPITRE IV : Procédure devant la Cour (art. L314-1 à L314-20)](#121)
+        - [CHAPITRE V : Voies de recours (art. L315-1 à L315-3)](#122)
+        - [CHAPITRE VI : Rapport public (art. L316-1)](#123)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : La Cour des comptes<a id=2></a>
@@ -2671,22 +2668,25 @@ _Cite_:
 ###### Article L211-7
 
 La chambre régionale des comptes concourt au contrôle budgétaire des collectivités territoriales et de leurs établissements
-publics dans les conditions définies aux articles L. 232-1 à L. 232-32.
+publics dans les conditions définies aux sections 1 à 4 du chapitre II du titre III de la première partie du présent livre.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°82-213 1982-03-02 modifiée, art 87 al 11
-  - modifié par loi 96-142 1996-02-21, art 4-IV
+  - Loi n°82-213 1982-03-02 modifiée, art 87 al 11, modifié par loi 96-142 1996-02-21, art 4-IV
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
 
 _Cité par_:
 
@@ -2694,9 +2694,9 @@ _Cité par_:
   - Code des juridictions financières - art. R111-3 (V)
   - Code des juridictions financières - art. R243-22 (V)
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code des juridictions financières L232-1 à L232-32
+  - Code des juridictions financières - art. L211-11 (VD)
 
 
 ###### Article L211-8
@@ -4569,36 +4569,233 @@ _Cité par_:
 
 ##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=46></a>
 
-##### Section 1 : Des communes.<a id=47></a>
+##### Section 1 : Dispositions communes<a id=47></a>
 
 ###### Article L232-1
 
-Dans le cas où le budget de la commune n'a pas été adopté avant le 1er janvier de l'exercice auquel il s'applique, le maire
-est en droit, jusqu'à l'adoption de ce budget, de mettre en recouvrement les recettes et d'engager, de liquider et de
-mandater les dépenses de la section de fonctionnement dans la limite de celles inscrites au budget de l'année précédente.
+Le contrôle des actes budgétaires et de l'exécution des budgets des collectivités territoriales et de leurs établissements
+publics s'exerce dans les conditions prévues par le chapitre II du titre unique du livre VI de la première partie du code
+général des collectivités territoriales ci-après reproduit : 
+
+Art.L. 1612-1.-Dans le cas où le budget d'une collectivité territoriale n'a pas été adopté avant le 1er janvier de l'exercice
+auquel il s'applique, l'exécutif de la collectivité territoriale est en droit, jusqu'à l'adoption de ce budget, de mettre en
+recouvrement les recettes et d'engager, de liquider et de mandater les dépenses de la section de fonctionnement dans la
+limite de celles inscrites au budget de l'année précédente.
 
 Il est en droit de mandater les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance
 avant le vote du budget.
 
-En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence d'adoption du budget avant cette date, le maire
-peut, sur autorisation du conseil municipal, engager, liquider et mandater des dépenses d'investissement, dans la limite du
-quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette.
-Les crédits correspondants sont inscrits au budget lors de son adoption. L'autorisation mentionnée au présent alinéa précise
-le montant et l'affectation des crédits.
+En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars ou jusqu'à la date mentionnée au premier alinéa de l'article L.
+4311-1-1 pour les régions, en l'absence d'adoption du budget avant cette date ou jusqu'au terme de la procédure prévue par
+l'article L. 4311-1-1 pour les régions, l'exécutif de la collectivité territoriale peut, sur autorisation de l'organe
+délibérant, engager, liquider et mandater des dépenses d'investissement, dans la limite du quart des crédits ouverts au
+budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette. Les crédits correspondants
+sont inscrits au budget lors de son adoption. L'autorisation mentionnée au présent alinéa précise le montant et l'affectation
+des crédits.
+
+Art.L. 1612-2.-Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il s'applique, ou avant le 15 avril de
+l'année du renouvellement des organes délibérants, le représentant de l'Etat dans le département saisit sans délai la chambre
+régionale des comptes qui, dans le mois, et par un avis public, formule des propositions pour le règlement du budget. Le
+représentant de l'Etat règle le budget et le rend exécutoire. Si le représentant de l'Etat dans le département s'écarte des
+propositions de la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
+
+A compter de la saisine de la chambre régionale des comptes et jusqu'au règlement du budget par le représentant de l'Etat,
+l'organe délibérant ne peut adopter de délibération sur le budget de l'exercice en cours. 
+
+Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication avant le 15 mars à
+l'organe délibérant d'informations indispensables à l'établissement du budget. La liste de ces informations est fixée par
+décret. Dans ce cas, l'organe délibérant dispose de quinze jours à compter de cette communication pour arrêter le budget. 
+
+Art.L. 1612-3.-En cas de création d'une nouvelle collectivité territoriale, l'organe délibérant adopte le budget dans un
+délai de trois mois à compter de cette création.A défaut, le budget est réglé et rendu exécutoire par le représentant de
+l'Etat dans le département, sur avis public de la chambre régionale des comptes, dans les conditions prévues aux premier et
+deuxième alinéas de l'article L. 1612-2. 
+
+Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication à l'organe
+délibérant, dans les deux mois et demi suivant cette création, d'informations indispensables à l'établissement du budget.
+Dans ce cas, l'organe délibérant dispose de quinze jours après cette communication pour arrêter le budget. 
+
+Art.L. 1612-4.-Le budget de la collectivité territoriale est en équilibre réel lorsque la section de fonctionnement et la
+section d'investissement sont respectivement votées en équilibre, les recettes et les dépenses ayant été évaluées de façon
+sincère, et lorsque le prélèvement sur les recettes de la section de fonctionnement au profit de la section d'investissement,
+ajouté aux recettes propres de cette section, à l'exclusion du produit des emprunts, et éventuellement aux dotations des
+comptes d'amortissements et de provisions, fournit des ressources suffisantes pour couvrir le remboursement en capital des
+annuités d'emprunt à échoir au cours de l'exercice. 
+
+Art.L. 1612-5.-Lorsque le budget d'une collectivité territoriale n'est pas voté en équilibre réel, la chambre régionale des
+comptes, saisie par le représentant de l'Etat dans un délai de trente jours à compter de la transmission prévue aux articles
+L. 2131-1, L. 3131-1 et L. 4141-1, le constate et propose à la collectivité territoriale, dans un délai de trente jours à
+compter de la saisine, les mesures nécessaires au rétablissement de l'équilibre budgétaire et demande à l'organe délibérant
+une nouvelle délibération. 
+
+La nouvelle délibération, rectifiant le budget initial, doit intervenir dans un délai d'un mois à partir de la communication
+des propositions de la chambre régionale des comptes. 
+
+Si l'organe délibérant ne s'est pas prononcé dans le délai prescrit, ou si la délibération prise ne comporte pas de mesures
+de redressement jugées suffisantes par la chambre régionale des comptes, qui se prononce sur ce point dans un délai de quinze
+jours à partir de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le représentant de
+l'Etat dans le département. Si celui-ci s'écarte des propositions formulées par la chambre régionale des comptes, il assortit
+sa décision d'une motivation explicite. 
+
+Art.L. 1612-6.-Toutefois, pour l'application de l'article L. 1612-5, n'est pas considéré comme étant en déséquilibre le
+budget dont la section de fonctionnement comporte ou reprend un excédent et dont la section d'investissement est en équilibre
+réel, après reprise pour chacune des sections des résultats apparaissant au compte administratif de l'exercice précédent. 
+
+Art.L. 1612-7.-A compter de l'exercice 1997, pour l'application de l'article L. 1612-5, n'est pas considéré comme étant en
+déséquilibre le budget de la commune dont la section de fonctionnement comporte ou reprend un excédent reporté par décision
+du conseil municipal ou dont la section d'investissement comporte un excédent, notamment après inscription des dotations aux
+amortissements et aux provisions exigées. 
+
+Art.L. 1612-8.-Le budget primitif de la collectivité territoriale est transmis au représentant de l'Etat dans le département
+au plus tard quinze jours après le délai limite fixé pour son adoption par les articles L. 1612-2 et L. 1612-9.A défaut, il
+est fait application des dispositions de l'article L. 1612-2. 
+
+Art.L. 1612-9.-A compter de la saisine de la chambre régionale des comptes et jusqu'au terme de la procédure prévue à
+l'article L. 1612-5, l'organe délibérant ne peut se prononcer en matière budgétaire, sauf pour la délibération prévue au
+deuxième alinéa de l'article L. 1612-5 et pour l'application de l'article L. 1612-12. 
+
+Lorsque le budget d'une collectivité territoriale a été réglé et rendu exécutoire par le représentant de l'Etat dans le
+département, les budgets supplémentaires afférents au même exercice sont transmis par le représentant de l'Etat à la chambre
+régionale des comptes. En outre, le vote de l'organe délibérant sur le compte administratif prévu à l'article L. 1612-12
+intervient avant le vote du budget primitif afférent à l'exercice suivant. Lorsque le compte administratif adopté dans les
+conditions ci-dessus mentionnées fait apparaître un déficit dans l'exécution du budget, ce déficit est reporté au budget
+primitif de l'exercice suivant. Ce budget primitif est transmis à la chambre régionale des comptes par le représentant de
+l'Etat dans le département.
+
+S'il est fait application de la procédure définie à l'alinéa ci-dessus, les dates fixées au premier alinéa de l'article L.
+1612-2 pour l'adoption du budget primitif sont reportées respectivement au 1er juin et au 15 juin. Dans ce cas, le délai
+limite de la transmission du compte de gestion du comptable prévu à l'article L. 1612-12 est ramené au 1er mai. 
+
+Art.L. 1612-10.-La transmission du budget de la collectivité territoriale à la chambre régionale des comptes au titre des
+articles L. 1612-5 et L. 1612-14 a pour effet de suspendre l'exécution de ce budget jusqu'au terme de la procédure.
+Toutefois, sont applicables à compter de cette transmission les dispositions de l'article L. 1612-1. En outre, les dépenses
+de la section d'investissement de ce budget peuvent être engagées, liquidées et mandatées dans la limite de la moitié des
+crédits inscrits à ce titre. 
+
+Art.L. 1612-11.-Sous réserve du respect des dispositions des articles L. 1612-1, L. 1612-9 et L. 1612-10, des modifications
+peuvent être apportées au budget par l'organe délibérant, jusqu'au terme de l'exercice auquel elles s'appliquent. 
+
+Dans le délai de vingt et un jours suivant la fin de l'exercice budgétaire, l'organe délibérant peut, en outre, apporter au
+budget les modifications permettant d'ajuster les crédits de la section de fonctionnement pour régler les dépenses engagées
+avant le 31 décembre et inscrire les crédits nécessaires à la réalisation des opérations d'ordre de chacune des deux sections
+du budget ou entre les deux sections. 
+
+Les délibérations relatives aux modifications budgétaires prévues à l'alinéa précédent doivent être transmises au
+représentant de l'Etat au plus tard cinq jours après le délai limite fixé pour leur adoption. Les mandatements découlant des
+modifications budgétaires ainsi décidées doivent être achevés au plus tard le 31 janvier suivant l'exercice auquel ils se
+rapportent. 
+
+Art. L1612-12.-L'arrêté des comptes de la collectivité territoriale est constitué par le vote de l'organe délibérant sur le
+compte administratif présenté selon le cas par le maire, le président du conseil général ou le président du conseil régional
+après transmission, au plus tard le 1er juin de l'année suivant l'exercice, du compte de gestion établi par le comptable de
+la collectivité territoriale. Le vote de l'organe délibérant arrêtant les comptes doit intervenir au plus tard le 30 juin de
+l'année suivant l'exercice. 
+
+Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption. 
+
+Art.L. 1612-13.-Le compte administratif est transmis au représentant de l'Etat dans le département au plus tard quinze jours
+après le délai limite fixé pour son adoption par les articles L. 1612-9 et L. 1612-12.
+
+A défaut, le représentant de l'Etat saisit, selon la procédure prévue par l'article L. 1612-5, la chambre régionale des
+comptes du plus proche budget voté par la collectivité territoriale. 
+
+Art.L. 1612-14.-Lorsque l'arrêté des comptes des collectivités territoriales fait apparaître dans l'exécution du budget,
+après vérification de la sincérité des inscriptions de recettes et de dépenses, un déficit égal ou supérieur à 10 % des
+recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et à 5 % dans les autres cas,
+la chambre régionale des comptes, saisie par le représentant de l'Etat, propose à la collectivité territoriale les mesures
+nécessaires au rétablissement de l'équilibre budgétaire, dans le délai d'un mois à compter de cette saisine. 
+
+Lorsque le budget d'une collectivité territoriale a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le
+représentant de l'Etat dans le département transmet à la chambre régionale des comptes le budget primitif afférent à
+l'exercice suivant. 
+
+Si, lors de l'examen de ce budget primitif, la chambre régionale des comptes constate que la collectivité territoriale n'a
+pas pris de mesures suffisantes pour résorber ce déficit, elle propose les mesures nécessaires au représentant de l'Etat dans
+le département dans un délai d'un mois à partir de la transmission prévue à l'alinéa précédent. Le représentant de l'Etat
+règle le budget et le rend exécutoire après application éventuelle, en ce qui concerne les communes, des dispositions de
+l'article L. 2335-2.S'il s'écarte des propositions formulées par la chambre régionale des comptes, il assortit sa décision
+d'une motivation explicite. 
+
+En cas de mise en oeuvre des dispositions des alinéas précédents, la procédure prévue à l'article L. 1612-5 n'est pas
+applicable. 
+
+Art.L. 1612-15.-Ne sont obligatoires pour les collectivités territoriales que les dépenses nécessaires à l'acquittement des
+dettes exigibles et les dépenses pour lesquelles la loi l'a expressément décidé. 
+
+La chambre régionale des comptes saisie, soit par le représentant de l'Etat dans le département, soit par le comptable public
+concerné, soit par toute personne y ayant intérêt, constate qu'une dépense obligatoire n'a pas été inscrite au budget ou l'a
+été pour une somme insuffisante. Elle opère cette constatation dans le délai d'un mois à partir de sa saisine et adresse une
+mise en demeure à la collectivité territoriale concernée. 
+
+Si, dans un délai d'un mois, cette mise en demeure n'est pas suivie d'effet, la chambre régionale des comptes demande au
+représentant de l'Etat d'inscrire cette dépense au budget et propose, s'il y a lieu, la création de ressources ou la
+diminution de dépenses facultatives destinées à couvrir la dépense obligatoire. Le représentant de l'Etat dans le département
+règle et rend exécutoire le budget rectifié en conséquence.S'il s'écarte des propositions formulées par la chambre régionale
+des comptes, il assortit sa décision d'une motivation explicite. 
+
+Art.L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire, le président du conseil général ou le
+président du conseil régional suivant le cas, dans le mois suivant la mise en demeure qui lui en a été faite par le
+représentant de l'Etat dans le département, celui-ci y procède d'office. 
+
+Le délai prévu à l'alinéa précédent est porté à deux mois si la dépense est égale ou supérieure à 5 % de la section de
+fonctionnement du budget primitif. 
+
+Art.L. 1612-17.-Les dispositions des articles L. 1612-15 et L. 1612-16 ne sont pas applicables à l'inscription et au
+mandatement des dépenses obligatoires résultant, pour les collectivités territoriales, leurs groupements et leurs
+établissements publics, d'une décision juridictionnelle passée en la force de la chose jugée. Ces opérations demeurent régies
+par la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à l'exécution des
+jugements par les personnes morales de droit public. 
+
+Art.L. 1612-18.-Dans le cadre des commandes publiques, lorsque des intérêts moratoires ne sont pas mandatés en même temps que
+le principal, ce dernier étant d'un montant supérieur à un seuil fixé par voie réglementaire, le comptable assignataire de la
+dépense en informe l'ordonnateur et le représentant de l'Etat dans le département dans un délai de dix jours suivant la
+réception de l'ordre de paiement. Dans un délai de quinze jours, le représentant de l'Etat adresse à l'ordonnateur une mise
+en demeure de mandatement.A défaut d'exécution dans un délai d'un mois, le représentant de l'Etat procède d'office, dans un
+délai de dix jours, au mandatement de la dépense. 
+
+Toutefois, si dans le délai d'un mois dont il dispose, l'ordonnateur notifie un refus d'exécution motivé par une insuffisance
+de crédits disponibles, ou si, dans ce même délai, le représentant de l'Etat constate cette insuffisance, celui-ci, dans un
+délai de quinze jours à compter de cette notification ou de cette constatation, saisit la chambre régionale des comptes dans
+les conditions fixées à l'article L. 1612-15. Le représentant de l'Etat procède ensuite au mandatement d'office dans les
+quinze jours suivant la réception de la délibération inscrivant les crédits ou sa décision réglant le budget rectifié. 
+
+Art.L. 1612-19.-Les assemblées délibérantes sont tenues informées dès leur plus proche réunion des avis formulés par la
+chambre régionale des comptes et des arrêtés pris par le représentant de l'Etat en application des dispositions du présent
+chapitre. 
+
+Art.L. 1612-20.-I.-Les dispositions du présent chapitre sont applicables aux établissements publics communaux et
+intercommunaux. 
+
+II.-Elles sont également applicables, à l'exception de l'article L. 1612-7 : 
+
+aux établissements publics départementaux et interdépartementaux ; 
+
+aux établissements publics communs aux communes et aux départements ; 
+
+aux établissements publics communs à des collectivités locales ou groupements de ces collectivités et à des établissements
+publics ; 
+
+aux établissements publics régionaux et interrégionaux.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°80-539 du 16 juillet 1980 - art. 1, v. init.
+  - Code de justice administrative. - art. L911-1 (V)
+  - Code de justice administrative. - art. L911-2 (V)
+
 _Anciens textes_:
 
-  - Loi n°82-213 1982-03-02 modifiée, art 7 al 1, modifié par loi 96-142 1996-02-21, art 4-I
+  - Loi n°82-213 1982-03-02 modifiée, art 7 al 1, modifié par loi 96-142 1996-02-21 art 4-I
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cité par_:
 
@@ -4611,32 +4808,20 @@ _Cité par_:
 
 ###### Article L232-2
 
-Si le budget d'une commune n'a pas été adopté avant le 31 mars de l'exercice auquel il s'applique ou avant le 15 avril de
-l'année du renouvellement des conseils municipaux, le représentant de l'Etat dans le département saisit sans délai la chambre
-régionale des comptes qui, dans le mois, et par un avis public, formule des propositions pour le règlement du budget. Le
-représentant de l'Etat règle le budget et le rend exécutoire. Si le représentant de l'Etat dans le département s'écarte des
-propositions de la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
-
-A compter de la saisine de la chambre régionale des comptes et jusqu'au règlement du budget de la commune par le représentant
-de l'Etat, le conseil municipal ne peut adopter de délibérations sur le budget de l'exercice en cours.
-
-Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication avant le 15 mars au
-conseil municipal d'informations indispensables à l'établissement du budget. Dans ce cas, le conseil municipal dispose de
-quinze jours après cette communication pour arrêter le budget de la commune.
+Les dispositions des articles L. 1612-1 à L. 1612-20 du code général des collectivités territoriales sont applicables aux
+communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin dans les conditions prévues par l'article L. 2543-1 du
+même code.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°82-213 1982-03-02 modifiée, art 7 al 2 à 4, modifié par loi 96-142 1996-02-21, art 4-I
+  - Loi n°82-213 1982-03-02 modifiée, art 7 al 2 à 4
+  - modifié par loi 96-142 1996-02-21, art 4-I
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 _Cité par_:
 
@@ -4648,31 +4833,46 @@ _Cité par_:
   - Code des juridictions financières - art. L232-8 (M)
   - Code des juridictions financières - art. L242-1 (M)
 
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1612-1 (V)
+  - Code général des collectivités territoriales - art. L2543-1 (V)
+
+
+##### Section 2 : Dispositions particulières aux syndicats de communes<a id=48></a>
 
 ###### Article L232-3
 
-En cas de création d'une nouvelle commune, le conseil municipal adopte le budget dans un délai de trois mois à compter de
-cette création. A défaut, le budget est réglé et rendu exécutoire par le représentant de l'Etat dans le département, sur avis
-public de la chambre régionale des comptes dans les conditions prévues aux premier et deuxième alinéas de l'article L. 232-2.
+La chambre régionale des comptes, saisie par le représentant de l'Etat, donne un avis sur les modifications susceptibles
+d'être apportées aux règles fixant les modalités de répartition des contributions des communes au budget d'un syndicat dont
+elles sont membres dans le cadre défini à l'article L. 5212-25 du code général des collectivités territoriales ci-après
+reproduit :
 
-Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication au conseil
-municipal, dans les deux mois et demi suivant cette création, d'informations indispensables à l'établissement du budget. Dans
-ce cas, le conseil municipal dispose de quinze jours après cette communication pour arrêter le budget de la commune.
+Art. L. 5212-25. - Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou
+de diminuer les ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou supérieur à 10 p.
+100 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et à 5 p. 100 dans
+les autres cas, chaque commune membre peut demander au comité syndical une modification des règles fixant les modalités de
+répartition des contributions financières des communes au budget du syndicat à compter de l'année suivante.
+
+Si le comité syndical n'a pas fait droit à la demande dans un délai de six mois, ou si la délibération du comité syndical n'a
+pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, troisième et cinquième alinéas de
+l'article L. 5212-27 du code général des collectivités territoriales, le représentant de l'Etat peut modifier, à la demande
+de la commune intéressée et après avis de la chambre régionale des comptes, les règles fixant les modalités de répartition
+des contributions financières des communes au budget du syndicat.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Abrogé par loi 96-142 1996-02-21, art4-I
-  - Loi n°82-213 1982-03-02 modifiée, art 7 al 5 et 6
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cité par_:
 
@@ -4680,935 +4880,14 @@ _Cité par_:
   - Code des juridictions financières - art. L242-1 (M)
   - Code des juridictions financières - art. R244-2 (V)
 
-_Cite_:
+_Anciens textes_:
 
-  - Code des juridictions financières - art. L232-2 (M)
+  - Code des juridictions financières l232-19
 
+
+##### Section 3 : Des établissements publics locaux d'enseignement<a id=49></a>
 
 ###### Article L232-4
-
-Le budget de la commune est en équilibre réel lorsque la section de fonctionnement et la section d'investissement sont
-respectivement votées en équilibre, les recettes et les dépenses ayant été évaluées de façon sincère, et lorsque le
-prélèvement sur les recettes de la section de fonctionnement au profit de la section d'investissement, ajouté aux recettes
-propres de cette section, à l'exclusion du produit des emprunts, et éventuellement aux dotations des comptes d'amortissements
-et de provisions, fournit des ressources suffisantes pour couvrir le remboursement en capital des annuités d'emprunt à échoir
-au cours de l'exercice.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 8 al 1
-  - abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-  - Code des juridictions financières - art. L232-5 (M)
-  - Code des juridictions financières - art. L232-6 (Ab)
-  - Code des juridictions financières - art. R232-3 (V)
-  - Code rural - art. R811-26 (V)
-
-
-###### Article L232-5
-
-Lorsque le budget d'une commune n'est pas voté en équilibre réel, la chambre régionale des comptes, saisie par le
-représentant de l'Etat dans un délai de trente jours à compter de la transmission prévue à l'article L. 232-7, le constate et
-propose à la commune, dans un délai de trente jours à compter de la saisine, les mesures nécessaires au rétablissement de
-l'équilibre budgétaire et demande au conseil municipal une nouvelle délibération.
-
-La nouvelle délibération du conseil municipal, rectifiant le budget initial, doit intervenir dans un délai d'un mois à partir
-de la communication des propositions de la chambre régionale des comptes.
-
-Si le conseil municipal n'a pas délibéré dans le délai prescrit, ou si la délibération prise ne comporte pas de mesures de
-redressement jugées suffisantes par la chambre régionale des comptes, qui se prononce sur ce point dans un délai de quinze
-jours à partir de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le représentant de
-l'Etat dans le département. Si celui-ci s'écarte des propositions formulées par la chambre régionale des comptes, il assortit
-sa décision d'une motivation explicite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 8 al 1
-  - abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 81 (Ab)
-  - Décret n°95-945 du 23 août 1995 - art. 83 (Ab)
-  - Décret n°95-945 du 23 août 1995 - art. 84 (Ab)
-  - Décret n°95-945 du 23 août 1995 - art. 85 (Ab)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-  - Code des juridictions financières - art. L232-12 (Ab)
-  - Code des juridictions financières - art. L232-13 (Ab)
-  - Code des juridictions financières - art. L232-21 (Ab)
-  - Code des juridictions financières - art. L232-30 (T)
-  - Code des juridictions financières - art. L232-6 (Ab)
-  - Code des juridictions financières - art. L232-8 (M)
-  - Code des juridictions financières - art. L232-9 (M)
-  - Code des juridictions financières - art. L242-1 (M)
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-7 (M)
-
-
-###### Article L232-6
-
-Toutefois, pour l'application de l'article L. 232-5, n'est pas considéré comme étant en déséquilibre le budget dont la
-section de fonctionnement comporte ou reprend un excédent et dont la section d'investissement est en équilibre réel, après
-reprise pour chacune des sections des résultats apparaissant au compte administratif de l'exercice précédent.
-
-A compter de l'exercice 1997, pour l'application de l'article L. 232-5, n'est pas considéré comme étant en déséquilibre le
-budget dont la section de fonctionnement comporte ou reprend un excédent reporté par décision du conseil municipal ou dont la
-section d'investissement comporte un excédent, notamment après inscription des dotations aux amortissements et aux provisions
-exigées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Abrogé par loi 96-142 1996-02-21, art 4-I
-  - Loi n°82-213 1982-03-02 modifiée, art 8 dernier alinéa, issu de loi 88-13 1988-01-05, art 19 et modifié par loi 94-504 1994-06-22, art 6 à 11
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. L421-13 (V)
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-5 (M)
-
-
-###### Article L232-7
-
-Le budget primitif de la commune est transmis au représentant de l'Etat dans le département au plus tard quinze jours après
-le délai limite fixé pour son adoption par les articles L. 232-2 et L. 232-8. A défaut, il est fait application de l'article
-L. 232-2.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 9-I, issu de loi 86-972 1988-08-12, art 4-II
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-2 (M)
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L232-5 (M)
-  - Code des juridictions financières - art. L232-8 (T)
-  - Code des juridictions financières - art. L242-1 (M)
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières - art. L232-5 (V)
-
-
-###### Article L232-8
-
-A compter de la saisine de la chambre régionale des comptes et jusqu'au terme de la procédure prévue à l'article L. 232-5, le
-conseil municipal ne peut délibérer en matière budgétaire, sauf pour la délibération prévue au deuxième alinéa de cet article
-et pour l'application de l'article L. 232-11.
-
-Lorsque le budget d'une commune a été réglé et rendu exécutoire par le représentant de l'Etat dans le département, les
-budgets supplémentaires afférents au même exercice sont transmis par le représentant de l'Etat à la chambre régionale des
-comptes. En outre, le vote du conseil municipal sur le compte administratif prévu à l'article L. 232-11 intervient avant le
-vote du budget primitif afférent à l'exercice suivant. Lorsque le compte administratif adopté dans les conditions ci-dessus
-mentionnées fait apparaître un déficit dans l'exécution du budget communal, ce déficit est reporté au budget primitif de
-l'exercice suivant. Ce budget primitif est transmis à la chambre régionale des comptes par le représentant de l'Etat dans le
-département.
-
-S'il est fait application de la procédure définie à l'alinéa ci-dessus, les dates fixées au premier alinéa de l'article L.
-232-2 pour l'adoption du budget primitif sont reportées respectivement au 1er juin et au 15 juin. Dans ce cas, le délai
-limite de transmission du compte de gestion du comptable prévu à l'article L. 232-11 est ramené au 1er mai.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 8 al 5 à 7 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 86 (Ab)
-  - Décret n°95-945 du 23 août 1995 - art. 87 (Ab)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-  - Code des juridictions financières - art. L232-10 (M)
-  - Code des juridictions financières - art. L232-12 (Ab)
-  - Code des juridictions financières - art. L232-30 (T)
-  - Code des juridictions financières - art. L232-7 (M)
-  - Code des juridictions financières - art. L242-1 (M)
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-11 (Ab)
-  - Code des juridictions financières - art. L232-2 (M)
-  - Code des juridictions financières - art. L232-5 (M)
-
-
-###### Article L232-9
-
-La transmission du budget de la commune à la chambre régionale des comptes au titre des articles L. 232-5 et L. 232-13 a pour
-effet de suspendre l'exécution de ce budget jusqu'au terme de la procédure. Toutefois, sont applicables à compter de cette
-transmission les dispositions du premier alinéa de l'article L. 232-1. En outre, les dépenses de la section d'investissement
-du budget peuvent être engagées, liquidées et mandatées dans la limite de la moitié des crédits inscrits à ce titre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 9-III, issu de loi 86-972 1986-08-19, art 41 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 104 (Ab)
-  - Code des juridictions financières - art. L232-10 (M)
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-1 (M)
-  - Code des juridictions financières - art. L232-13 (Ab)
-  - Code des juridictions financières - art. L232-5 (M)
-
-
-###### Article L232-10
-
-Sous réserve du respect des dispositions des articles L. 232-1, L. 232-8 et L. 232-9, des modifications peuvent être
-apportées au budget de la commune par le conseil municipal, jusqu'au terme de l'exercice auquel elles s'appliquent.
-
-Dans le délai de vingt et un jours suivant la fin de l'exercice budgétaire, le conseil municipal peut, en outre, apporter au
-budget les modifications permettant d'ajuster les crédits de la section de fonctionnement pour régler les dépenses engagées
-avant le 31 décembre et inscrire les crédits nécessaires à la réalisation des opérations d'ordre de chacune des deux sections
-du budget ou entre les deux sections.
-
-Les délibérations relatives aux modifications budgétaires prévues à l'alinéa précédent doivent être transmises au
-représentant de l'Etat au plus tard cinq jours après le délai limite fixé pour leur adoption. Les mandatements découlant des
-modifications budgétaires ainsi décidées doivent être achevés au plus tard le 31 janvier suivant l'exercice auquel ils se
-rapportent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 8-1, issu de loi 88-13 1988-01-05 art 20 Abrogé par loi 96-142 1996-02-21, art 4-I
-  - Loi n°82-213 du 2 mars 1982 - art. 8-1 (V)
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-1 (M)
-  - Code des juridictions financières - art. L232-8 (M)
-  - Code des juridictions financières - art. L232-9 (M)
-
-
-###### Article L232-11
-
-L'arrêté des comptes communaux est constitué par le vote du conseil municipal sur le compte administratif présenté par le
-maire après transmission, au plus tard le 1er juin de l'année suivant l'exercice, du compte de gestion établi par le
-comptable de la commune. Le vote du conseil municipal arrêtant les comptes doit intervenir avant le 30 juin de l'année
-suivant l'exercice.
-
-Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 9 al 1 et 2 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L232-12 (Ab)
-  - Code des juridictions financières - art. L232-17 (Ab)
-  - Code des juridictions financières - art. L232-30 (T)
-  - Code des juridictions financières - art. L232-8 (M)
-
-
-###### Article L232-12
-
-Le compte administratif est transmis au représentant de l'Etat dans le département au plus tard quinze jours après le délai
-limite fixé pour son adoption par les articles L. 232-8 et L. 232-11.
-
-A défaut, le représentant de l'Etat saisit, selon la procédure prévue par l'article L. 232-5, la chambre régionale des
-comptes du plus proche budget voté par la commune.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 9-II, issu de loi 86-972 1986-08-19, art 38, et complété par loi 92-125 1992-02-06, art 46 Abrogé par loi 96-142 1996-02-21 art 4-I
-  - Loi n°82-213 du 2 mars 1982 - art. 38 (M)
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 88 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-11 (Ab)
-  - Code des juridictions financières - art. L232-5 (M)
-  - Code des juridictions financières - art. L232-8 (M)
-
-
-###### Article L232-13
-
-Lorsque l'arrêté des comptes communaux fait apparaître dans l'exécution du budget communal, après vérification de la
-sincérité des inscriptions de recettes et de dépenses, un déficit égal ou supérieur à 10 p. 100 des recettes de la section de
-fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et 5 p. 100 dans les autres cas, la chambre régionale
-des comptes, saisie par le représentant de l'Etat, propose à la commune les mesures nécessaires au rétablissement de
-l'équilibre budgétaire, dans le délai d'un mois à compter de cette saisine.
-
-Lorsque le budget d'une commune a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le représentant de
-l'Etat dans le département transmet à la chambre régionale des comptes le budget primitif afférent à l'exercice suivant.
-
-Si, lors de l'examen de ce budget primitif, la chambre régionale des comptes constate que la commune n'a pas pris de mesures
-suffisantes pour résorber ce déficit, elle propose les mesures nécessaires au représentant de l'Etat dans le département dans
-un délai d'un mois à partir de la transmission prévue à l'alinéa précédent. Le représentant de l'Etat règle le budget et le
-rend exécutoire, après application éventuelle des dispositions de l'article L. 235-5 du code des communes. S'il s'écarte des
-propositions formulées par la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
-
-En cas de mise en oeuvre des dispositions des alinéas précédents, la procédure prévue à l'article L. 232-5 n'est pas
-applicable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 9 al 3 à 6 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L235-5 (Ab)
-  - Code des juridictions financières - art. L232-5 (M)
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L232-17 (Ab)
-  - Code des juridictions financières - art. L232-30 (T)
-  - Code des juridictions financières - art. L232-9 (M)
-  - Code des juridictions financières - art. L242-1 (M)
-
-
-###### Article L232-14
-
-Ne sont obligatoires pour les communes que les dépenses nécessaires à l'acquittement des dettes exigibles et les dépenses
-pour lesquelles la loi l'a expressément décidé.
-
-La chambre régionale des comptes, saisie soit par le représentant de l'Etat dans le département, soit par le comptable public
-concerné, soit par toute personne y ayant intérêt, constate qu'une dépense obligatoire n'a pas été inscrite au budget
-communal ou l'a été pour une somme insuffisante. Elle opère cette constatation dans le délai d'un mois à partir de sa saisine
-et adresse une mise en demeure à la commune concernée.
-
-Si, dans un délai d'un mois, cette mise en demeure n'est pas suivie d'effet, la chambre régionale des comptes demande au
-représentant de l'Etat d'inscrire cette dépense au budget de la commune et propose, s'il y a lieu, la création de ressources
-ou la diminution de dépenses facultatives destinées à couvrir la dépense obligatoire. Le représentant de l'Etat dans le
-département règle et rend exécutoire le budget rectifié en conséquence. S'il s'écarte des propositions formulées par la
-chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 11 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 25 (Ab)
-  - Code des juridictions financières - art. L232-16 (Ab)
-  - Code des juridictions financières - art. L232-27 (Ab)
-  - Code des juridictions financières - art. L232-30 (T)
-  - Code des juridictions financières - art. L232-33 (T)
-  - Code des juridictions financières - art. L242-1 (M)
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-
-###### Article L232-15
-
-A défaut de mandatement d'une dépense obligatoire par le maire dans le mois suivant la mise en demeure qui lui en a été faite
-par le représentant de l'Etat dans le département, celui-ci y procède d'office.
-
-Le délai prévu à l'alinéa précédent est porté à deux mois si le montant de la dépense est égal ou supérieur à 5 p. 100 de la
-section de fonctionnement du budget primitif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 12 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L232-27 (Ab)
-
-
-###### Article L232-16
-
-Dans le cadre des commandes publiques, lorsque des intérêts moratoires ne sont pas mandatés en même temps que le principal,
-ce dernier étant d'un montant supérieur à un seuil fixé par voie réglementaire, le comptable assignataire de la dépense en
-informe l'ordonnateur et le représentant de l'Etat dans le département dans un délai de dix jours suivant la réception de
-l'ordre de paiement. Dans un délai de quinze jours, le représentant de l'Etat adresse à l'ordonnateur une mise en demeure de
-mandatement. A défaut d'exécution dans un délai d'un mois, le représentant de l'Etat procède d'office, dans un délai de dix
-jours, au mandatement de la dépense.
-
-Toutefois, si, dans le délai d'un mois dont il dispose, l'ordonnateur notifie un refus d'exécution motivé par une
-insuffisance de crédits disponibles, ou si, dans ce même délai, le représentant de l'Etat constate cette insuffisance, celui-
-ci, dans un délai de quinze jours à compter de cette notification ou de cette constatation, saisit la chambre régionale des
-comptes dans les conditions fixées à l'article L. 232-14. Le représentant de l'Etat procède ensuite au mandatement d'office
-dans les quinze jours suivant la réception de la délibération inscrivant les crédits ou sa décision réglant le budget
-rectifié.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 12-I Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 100 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-14 (Ab)
-
-
-###### Article L232-17
-
-Les dispositions de la présente section sont applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-
-Rhin, à l'exception de celles des articles L. 232-11 et L. 232-13.
-
-Les dispositions relatives au rétablissement de l'équilibre budgétaire ne sont applicables ni aux communes de plus de 25 000
-habitants ni aux communes mentionnées à l'article L. 181-3 du code des communes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 17-I, al 1 et 3 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L181-3 (Ab)
-  - Code des juridictions financières - art. L232-11 (Ab)
-  - Code des juridictions financières - art. L232-13 (Ab)
-
-
-###### Article L232-18
-
-Les dispositions de la présente section sont applicables aux établissements publics communaux et intercommunaux, sous réserve
-des dispositions spécifiques du présent chapitre les concernant.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 16 al 1 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 93 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-
-##### Section 2 : Dispositions particulières aux syndicats de communes<a id=48></a>
-
-###### Article L232-19
-
-La chambre régionale des comptes, saisie par le représentant de l'Etat, donne un avis sur les modifications susceptibles
-d'être apportées aux règles fixant les modalités de répartition des contributions des communes au budget d'un syndicat dont
-elles sont membres dans le cadre défini à l'article L. 163-17-1 du code des communes ci-après reproduit :
-
-Art. L. 163-17-1. -     Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence
-d'augmenter ou de diminuer les ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou
-supérieur à 10 p. 100 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et
-à 5 p. 100 dans les autres cas, chaque commune membre peut demander au comité syndical une modification des règles fixant les
-modalités de répartition des contributions financières des communes au budget du syndicat à compter de l'année suivante.
-
-Si le comité syndical n'a pas fait droit à la demande dans un délai de six mois, ou si la délibération du comité syndical n'a
-pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, troisième et cinquième alinéas de
-l'article L. 163-17, le représentant de l'Etat peut modifier, à la demande de la commune intéressée et après avis de la
-chambre régionale des comptes, les règles fixant les modalités de répartition des contributions financières des communes au
-budget du syndicat.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières l232-3
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L163-17-1 (Ab)
-  - Code des juridictions financières L163-17
-
-
-##### Section 3 : Des départements.<a id=49></a>
-
-###### Article L232-20
-
-Les dispositions des articles L. 232-1 à L. 232-6, premier alinéa, L. 232-7 à L. 232-10 et L. 232-12 sont applicables au
-budget du département.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 51 al 1 Abrogé par loi 96-142 1996-02-21, ar 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières L232-1 à L232-6
-
-
-###### Article L232-21
-
-Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption.
-
-L'arrêté des comptes départementaux est constitué par le vote du conseil général sur le compte administratif présenté par le
-président du conseil général après transmission, au plus tard le 1er juin de l'année suivant l'exercice, du compte de
-gestion, établi par le comptable du département. Le vote du conseil général arrêtant les comptes doit intervenir avant le 30
-juin de l'année suivant l'exercice.
-
-Lorsque l'arrêté des comptes départementaux fait apparaître dans l'exécution du budget départemental, après vérification de
-la sincérité des inscriptions de recettes et de dépenses, un déficit égal ou supérieur à 5 p. 100 des recettes de la section
-de fonctionnement du budget départemental, la chambre régionale des comptes, saisie par le représentant de l'Etat, propose au
-département les mesures nécessaires au rétablissement de l'équilibre budgétaire, dans le délai de deux mois à compter de
-cette saisine.
-
-Lorsque le budget d'un département a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le représentant
-de l'Etat dans le département transmet à la chambre régionale des comptes le budget primitif afférent à l'exercice suivant.
-
-Si, lors de l'examen de ce budget primitif, la chambre régionale des comptes constate que le département n'a pas pris de
-mesures suffisantes pour résorber ce déficit, elle propose les mesures nécessaires au représentant de l'Etat dans le
-département dans un délai d'un mois à partir de la transmission prévue à l'alinéa précédent. Le budget est réglé et rendu
-exécutoire par le représentant de l'Etat. Si celui-ci s'écarte des propositions formulées par la chambre régionale des
-comptes, il assortit sa décision d'une motivation explicite.
-
-En cas de mise en oeuvre des dispositions des alinéas précédents, la procédure prévue à l'article L. 232-5 n'est pas
-applicable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 51, al 2 à 7 Abrogé par loi 96-142 1996-02-21, art 4-I
-  - Loi n°82-213 du 2 mars 1982 - art. 51 (M)
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-5 (M)
-
-
-###### Article L232-22
-
-Ne sont obligatoires pour les départements que les dépenses nécessaires à l'acquittement des dettes exigibles et les dépenses
-nécessaires pour lesquelles la loi l'a expressément décidé.
-
-La chambre régionale des comptes, saisie soit par le représentant de l'Etat dans le département, soit par le comptable du
-département, soit par toute personne y ayant intérêt, constate qu'une dépense obligatoire n'a pas été inscrite au budget
-départemental ou l'a été pour une somme insuffisante. Elle opère cette constatation dans le délai d'un mois à partir de sa
-saisine et adresse une mise en demeure au département intéressé.
-
-Si, dans le délai d'un mois, cette mise en demeure n'est pas suivie d'effet, la chambre régionale des comptes demande au
-représentant de l'Etat dans le département d'inscrire cette dépense au budget départemental et propose, s'il y a lieu, la
-création de ressources ou la diminution de dépenses facultatives destinées à couvrir la dépense obligatoire. Le représentant
-de l'Etat dans le département règle et rend exécutoire le budget rectifié en conséquence. S'il s'écarte des propositions
-formulées par la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 52 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L263-9 (Ab)
-  - Code des juridictions financières - art. L232-24 (Ab)
-  - Code des juridictions financières - art. L232-27 (Ab)
-
-
-###### Article L232-23
-
-A défaut de mandatement d'une dépense obligatoire par le président du conseil général dans le mois suivant la mise en demeure
-qui lui en a été faite par le représentant de l'Etat dans le département, celui-ci y procède d'office.
-
-Le délai prévu à l'alinéa précédent est porté à deux mois si la dépense est égale ou supérieure à 5 p. 100 de la section de
-fonctionnement du budget primitif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 53 Abrogé par loi 96-142 1996-02-21, art 46I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L232-27 (Ab)
-
-
-###### Article L232-24
-
-Dans le cadre des commandes publiques, lorsque des intérêts moratoires ne sont pas mandatés en même temps que le principal,
-ce dernier étant d'un montant supérieur à un seuil fixé par voie réglementaire, le comptable assignataire de la dépense en
-informe l'ordonnateur et le représentant de l'Etat dans le département, dans un délai de dix jours suivant la réception de
-l'ordre de paiement. Dans un délai de quinze jours, le représentant de l'Etat adresse à l'ordonnateur une mise en demeure de
-mandatement. A défaut d'exécution dans un délai d'un mois, le représentant de l'Etat procède d'office dans un délai de dix
-jours au mandatement de la dépense.
-
-Toutefois, si, dans le délai d'un mois dont il dispose, l'ordonnateur notifie un refus d'exécution motivé par une
-insuffisance de crédits disponibles ou si, dans ce même délai, le représentant de l'Etat constate cette insuffisance, celui-
-ci, dans un délai de quinze jours à compter de cette notification ou de cette constatation, saisit la chambre régionale des
-comptes dans les conditions fixées à l'article L. 232-22. Le représentant de l'Etat procède ensuite au mandatement d'office
-dans les quinze jours suivant la réception de la délibération inscrivant les crédits ou sa décision réglant le budget
-rectifié.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée art 51-1, issu de loi 86-29 1986-01-29 Abrogé par loi 96-142 1996-02-21 art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-22 (Ab)
-
-
-###### Article L232-25
-
-Les dispositions de la présente section sont applicables aux établissements publics départementaux, aux établissements
-publics interdépartementaux, aux établissements publics communs aux communes et aux départements ainsi qu'aux établissements
-publics communs à des collectivités locales ou groupements de ces collectivités et à des établissements publics, sous réserve
-des dispositions spécifiques du présent chapitre les concernant.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 56 al 1 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-
-##### Section 4 : Des régions.<a id=50></a>
-
-###### Article L232-26
-
-Les dispositions des articles L. 232-20 à L. 232-24 sont applicables aux actes budgétaires des régions et de leurs
-établissements publics.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 83 Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L232-27 (Ab)
-  - Code des juridictions financières - art. L242-1 (M)
-
-_Cite_:
-
-  - Code des juridictions financières L232-20 à L232-24
-
-
-##### Section 5 : Dispositions communes aux collectivités territoriales, à leurs groupements et aux établissements publics locaux.<a id=51></a>
-
-###### Article L232-27
-
-Les dispositions des articles L. 232-14, L. 232-15, L. 232-22, L. 232-23 et L. 232-26 ne sont pas applicables à l'inscription
-et au mandatement des dépenses obligatoires résultant pour les collectivités territoriales, leurs groupements et leurs
-établissements publics d'une décision juridictionnelle passée en force de chose jugée. Ces opérations demeurent régies par
-l'article 1er de la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à
-l'exécution des jugements par les personnes morales de droit public.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°80-539 du 16 juillet 1980 - art. 1, v. init.
-  - Code des juridictions financières - art. L232-14 (Ab)
-  - Code des juridictions financières - art. L232-15 (Ab)
-  - Code des juridictions financières - art. L232-22 (Ab)
-  - Code des juridictions financières - art. L232-23 (Ab)
-  - Code des juridictions financières - art. L232-26 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 98-I Abrogé par loi 96-142 1996-02-21, art 4-I
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-
-##### Section 6 : Des établissements publics locaux d'enseignement.<a id=52></a>
-
-###### Article L232-28
 
 Le budget d'un établissement public local d'enseignement est préparé, adopté et devient exécutoire dans les conditions
 suivantes :
@@ -5653,122 +4932,136 @@ les indicateurs qualitatifs de la scolarisation.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code des juridictions financières - art. L232-29 (T)
-  - Code des juridictions financières - art. L232-30 (T)
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières l232-4
+  - Code des juridictions financières l232-28 : loi 83-663 1983-07-22, art 15-9, modifié par loi 85-97 1985-01-25, art 9
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
+_Cité par_:
 
-###### Article L232-29
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+  - Code des juridictions financières - art. L232-5 (M)
+  - Code des juridictions financières - art. L232-6 (Ab)
+  - Code des juridictions financières - art. R232-3 (V)
+  - Code rural - art. R811-26 (V)
 
-A l'exclusion de la date mentionnée au a de l'article L. 232-28, les dispositions de cet article sont applicables aux budgets
+
+###### Article L232-5
+
+A l'exclusion de la date mentionnée au a de l'article L. 232-4, les dispositions de cet article sont applicables aux budgets
 modificatifs.
 
 **Liens relatifs à cet article**
 
-_Nouveaux textes_:
-
-  - Code des juridictions financières l232-5
-  - Code des juridictions financières - art. L232-5 (V)
-
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-28 (T)
 
 _Cité par_:
 
+  - Décret n°95-945 du 23 août 1995 - art. 81 (Ab)
+  - Décret n°95-945 du 23 août 1995 - art. 83 (Ab)
+  - Décret n°95-945 du 23 août 1995 - art. 84 (Ab)
+  - Décret n°95-945 du 23 août 1995 - art. 85 (Ab)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+  - Code des juridictions financières - art. L232-12 (Ab)
+  - Code des juridictions financières - art. L232-13 (Ab)
+  - Code des juridictions financières - art. L232-21 (Ab)
   - Code des juridictions financières - art. L232-30 (T)
+  - Code des juridictions financières - art. L232-6 (Ab)
+  - Code des juridictions financières - art. L232-8 (M)
+  - Code des juridictions financières - art. L232-9 (M)
+  - Code des juridictions financières - art. L242-1 (M)
 
-
-###### Article L232-30
-
-a) Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de l'article L. 232-5 ou
-du troisième alinéa de l'article L. 232-14, le représentant de l'Etat ne peut, par rapport à l'exercice antérieur, sauf
-exceptions liées à l'évolution des effectifs ou à la consistance du parc des matériels ou des locaux, majorer la
-participation de la collectivité de rattachement que dans une proportion n'excédant ni l'évolution du produit de la fiscalité
-directe de la collectivité de rattachement, ni l'évolution des recettes allouées par l'Etat et destinées à pourvoir aux
-dépenses pédagogiques de cet établissement.
-
-b) Pour l'application des dispositions des articles L. 232-1, L. 232-5, L. 232-8, L. 232-11, premier alinéa, L. 232-14, L.
-232-15 et L. 242-2, les prérogatives du maire et du conseil municipal sont exercées respectivement par le chef
-d'établissement et le conseil d'administration.
-
-Toutefois, lorsque le budget a été arrêté conformément au premier alinéa du e de l'article L. 232-28 et qu'il n'est pas en
-équilibre réel, une décision conjointe de la collectivité de rattachement et de l'autorité académique tient lieu de la
-nouvelle délibération mentionnée au deuxième alinéa de l'article L. 232-5.
-
-c) Par dérogation aux dispositions du premier alinéa de l'article L. 232-11, le compte financier est soumis par le chef
-d'établissement au conseil d'administration avant l'expiration du sixième mois suivant la clôture de l'exercice.
-
-Les autres dispositions de l'article L. 232-11 et celles de l'article L. 232-13 ne sont pas applicables.
-
-Le budget de l'établissement est exécuté en équilibre réel.
-
-d) Pour l'application des dispositions du présent article et des articles L. 232-28 et L. 232-29, le conseil général ou le
-conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles relatives à la
-fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 232-28.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cite_:
 
-  - Code des juridictions financières - art. L232-1 (M)
-  - Code des juridictions financières - art. L232-11 (Ab)
-  - Code des juridictions financières - art. L232-13 (Ab)
-  - Code des juridictions financières - art. L232-14 (Ab)
-  - Code des juridictions financières - art. L232-28 (T)
-  - Code des juridictions financières - art. L232-29 (T)
-  - Code des juridictions financières - art. L232-5 (M)
-  - Code des juridictions financières - art. L232-8 (M)
+  - Code des juridictions financières - art. L232-4 (M)
+
+_Anciens textes_:
+
+  - Code des juridictions financières l232-29 : loi 83-663 1983-07-22, art 15-10, modifié par loi 85-97 1985-01-25, art 9
+
+
+###### Article L232-6
+
+a) Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de l'article L. 1612-5
+du code général des collectivités territoriales et du troisième alinéa de l'article L. 1612-15 du même code, le représentant
+de l'Etat n peut, par rapport à l'exercice antérieur, sauf exceptions liées à l'évolution des effectifs ou à la consistance
+du parc des matériels ou des locaux, majorer la participation de la collectivité de rattachement que dans une proportion
+n'excédant ni l'évolution du produit de la fiscalité directe de la collectivité de rattachement, ni l'évolution des recettes
+allouées par l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établissement.
+
+b) Pour l'application des dispositions des articles L. 1612-1, L. 1612-5, L. 1612-9, L. 1612-12, premier alinéa, L. 1612-15,
+L. 1612-16, du code général des collectivités territoriales et L. 242-2, les prérogatives du maire et du conseil municipal
+sont exercées respectivement par le chef d'établissement et le conseil d'administration.
+
+Toutefois, lorsque le budget a été arrêté conformément au premier alinéa du e de l'article L. 232-4 et qu'il n'est pas en
+équilibre réel, une décision conjointe de la collectivité de rattachement et de l'autorité académique tient lieu de la
+nouvelle délibération mentionnée au deuxième alinéa de l'article L. 1612-5 du code général des collectivités territoriales.
+
+c) Par dérogation aux dispositions du premier alinéa de l'article L. 1612-12 du code général des collectivités territoriales
+le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration du sixième mois
+suivant la clôture de l'exercice.
+
+Les autres dispositions de l'article L. 1612-12 du code général des collectivités territoriales et celles de l'article L.
+1612-14 du même code ne sont pas applicables.
+
+Le budget de l'établissement est exécuté en équilibre réel.
+
+d) Pour l'application des dispositions du présent article et des articles L. 232-4 et L. 232-5, le conseil général ou le
+conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles relatives à la
+fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 232-4.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des juridictions financières l232-30 : loi 89-663 1989-07-22, art 15-11, modifié par loi 85-97 1985-01-25, art 9
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+_Abrogé par_:
+
+  - Rapport - art. 4 ()
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
 
 _Nouveaux textes_:
 
-  - Code des juridictions financières l232-6
+  - Code de l'éducation - art. L421-13 (V)
+
+_Cite_:
+
+  - Code des juridictions financières - art. L232-4 (M)
+  - Code des juridictions financières - art. L232-5 (M)
+  - Code général des collectivités territoriales - art. L1612-12 (M)
+  - Code général des collectivités territoriales - art. L1612-14 (V)
+  - Code général des collectivités territoriales - art. L1612-15 (V)
+  - Code général des collectivités territoriales - art. L1612-5 (M)
 
 
-##### Section 7 : Des établissements publics de santé.<a id=53></a>
+##### Section 4 : Des établissements publics de santé<a id=50></a>
 
-###### Article L232-31
+###### Article L232-7
 
 Les chambres régionales des comptes exercent le contrôle des actes budgétaires et de l'exécution des budgets des
 établissements publics de santé régis par le livre VII du code de la santé publique conformément aux dispositions du deuxième
@@ -5785,125 +5078,143 @@ il s'applique, le représentant de l'Etat saisit sans délai la chambre régiona
 jours, formule des propositions permettant d'arrêter le budget. Le président du conseil d'administration peut, à sa demande,
 présenter oralement ses observations à la chambre régionale des comptes. Il est assisté par le directeur de l'établissement.
 Le représentant de l'Etat arrête le budget et le rend exécutoire. Si le représentant de l'Etat s'écarte des propositions de
-la chambre régionale des comptes, il assortit sa décision d'une motivation explicite. "
+la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
 
 **Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières l232-7
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cité par_:
 
-  - Code des juridictions financières - art. L232-32 (T)
+  - Code des juridictions financières - art. L232-5 (M)
+  - Code des juridictions financières - art. L232-8 (T)
+  - Code des juridictions financières - art. L242-1 (M)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L232-5 (V)
+  - Code des juridictions financières l232-5
 
 _Cite_:
 
   - Code des juridictions financières L714-5
   - Code de la santé publique - art. L714-9 (M)
 
+_Anciens textes_:
 
-###### Article L232-32
+  - Code de la santé publique - art. L714-9 (M)
+  - Code de la santé publique L714-9, issu de loi 91-748 1991-07-31, art 8
+  - Code des juridictions financières l232-31 : Code de la santé publique L714-5-1° al 2, issu de loi 91-748 1991-07-31, art 8
 
-Les dispositions de l'article L. 232-31 sont applicables aux syndicats interhospitaliers sous réserve des dispositions des
+
+###### Article L232-8
+
+Les dispositions de l'article L. 232-7 sont applicables aux syndicats interhospitaliers sous réserve des dispositions des
 articles L. 713-5 à L. 713-7 du code de la santé publique concernant les modalités de création, d'organisation et d'activité
 de ces établissements.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Code des juridictions financières l232-32 : Code de la santé publique L713-8 al 1, issu de loi 91-748 1991-07-31, art 15-I-4° et 15-II-12°
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières l232-6
+
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Décret n°95-945 du 23 août 1995 - art. 86 (Ab)
+  - Décret n°95-945 du 23 août 1995 - art. 87 (Ab)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+  - Code des juridictions financières - art. L232-10 (M)
+  - Code des juridictions financières - art. L232-12 (Ab)
+  - Code des juridictions financières - art. L232-30 (T)
+  - Code des juridictions financières - art. L232-7 (M)
+  - Code des juridictions financières - art. L242-1 (M)
 
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cite_:
 
-  - Code des juridictions financières - art. L232-31 (T)
   - Code de la santé publique L713-5 à L713-7
+
+
+##### Section 5 : Des offices publics d'aménagement et de construction    soumis aux règles applicables aux entreprises de    commerce.<a id=51></a>
+
+###### Article L232-9
+
+Conformément aux dispositions de l'article L. 421-1-1, deuxième à cinquième alinéas, du code de la construction et de
+l'habitation, les offices publics d'aménagement et de construction, lorsqu'ils sont soumis, en matière de gestion financière
+et comptable, aux règles applicables aux entreprises de commerce, demeurent soumis aux dispositions des articles L. 1612-2,
+L. 1612-4, L. 1612-9 et L. 1612-15 du code général des collectivités territoriales et L. 242-2 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Cité par_:
+
+  - Décret n°95-945 du 23 août 1995 - art. 104 (Ab)
+  - Code des juridictions financières - art. L232-10 (M)
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L421-1-1, L1612-2, L1612-4, L1612-9, L1612-15
+  - Code de la construction et de l'habitation. - art. L421-1-1 (Ab)
+
+_Anciens textes_:
+
+  - Code des juridictions financières l232-33 : Code de la construction et de l'habitation L421-1-1 al 2
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières l232-7
+
+
+##### Section 6 : Du centre national de la fonction publique territoriale<a id=52></a>
+
+###### Article L232-10
+
+La chambre régionale des comptes, dans le ressort de laquelle est situé le siège du Centre national de la fonction publique
+territoriale, exerce le contrôle des actes budgétaires de cet établissement, mis en oeuvre par le représentant de l'Etat dans
+le département où est situé ce siège, dans les conditions prévues aux articles L. 1612-1 à L. 1612-16 et l1612-18 do code
+général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des juridictions financières l232-34 : Loi 84-53 1984-01-26, art 12quater, modifié par loi 87-529 1987-07-13, art 12
 
 _Nouveaux textes_:
 
   - Code des juridictions financières l232-8
 
-
-##### Section 8 : Des offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce.<a id=54></a>
-
-###### Article L232-33
-
-Conformément aux dispositions de l'article L. 421-1-1, deuxième à cinquième alinéas, du code de la construction et de
-l'habitation, les offices publics d'aménagement et de construction, lorsqu'ils sont soumis, en matière de gestion financière
-et comptable, aux règles applicables aux entreprises de commerce, demeurent soumis aux dispositions des articles L. 232-2, L.
-232-4 à L. 232-8, L. 232-14 et L. 242-2.
-
-**Liens relatifs à cet article**
-
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-14 (Ab)
-  - Code des juridictions financières - art. L232-2 (M)
-  - Code des juridictions financières - art. L242-2 (V)
-  - Code des juridictions financières L232-2, L232-4 à L232-8, L232-14, L242-2
-  - Code de la construction et de l'habitation. - art. L421-1-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières l232-9
-
-
-##### Section 9 : Du Centre national de la fonction publique territoriale.<a id=55></a>
-
-###### Article L232-34
-
-La chambre régionale des comptes, dans le ressort de laquelle est situé le siège du Centre national de la fonction publique
-territoriale, exerce le contrôle des actes budgétaires de cet établissement, mis en oeuvre par le représentant de l'Etat dans
-le département où est situé ce siège, dans les conditions prévues aux articles L. 232-1 à L. 232-16.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières l232-10
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
@@ -5912,7 +5223,7 @@ _Cite_:
   - Code des juridictions financières L232-1 à L232-16
 
 
-##### CHAPITRE III : Ordres de réquisition<a id=56></a>
+##### CHAPITRE III : Ordres de réquisition<a id=53></a>
 
 ###### Article L233-1
 
@@ -5957,131 +5268,10 @@ _Cité par_:
   - Code des juridictions financières - art. L312-2 (V)
 
 
-###### Article L233-2
-
-Les dispositions de l'article L. 233-1 sont applicables aux établissements publics communaux et intercommunaux, à l'exception
-des établissements publics de santé soumis aux dispositions spécifiques de l'article L. 233-4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 16 al 1 Abrogé par loi 96-142 1996-02-21, art 4-XIII
-  - Code des juridictions financières - art. L233-4 (T)
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cite_:
-
-  - Code des juridictions financières - art. L233-1 (M)
-  - Code des juridictions financières - art. L233-4 (T)
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L250-11 (Ab)
-
-
 ###### Article L233-3
 
-Les dispositions de l'article L. 233-1 sont applicables aux établissements publics départementaux, aux établissements publics
-interdépartementaux, aux établissements publics communs aux communes et aux départements ainsi qu'aux établissements publics
-communs à des collectivités locales ou groupements de ces collectivités, à l'exception des établissements publics de santé
-soumis aux dispositions spécifiques de l'article L. 233-4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 56 al 1 Abrogé par loi 96-142 1996-02-21, art 4-XIII
-  - Code des juridictions financières - art. L233-5 (T)
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Cité par_:
-
-  - Code de l'éducation - art. R421-115 (M)
-
-_Cite_:
-
-  - Code des juridictions financières - art. L233-1 (M)
-  - Code des juridictions financières - art. L233-4 (T)
-
-
-###### Article L233-4
-
-Les chambres régionales des comptes sont destinataires des ordres de réquisition notifiés au comptable de l'établissement par
-l'ordonnateur d'un établissement public de santé ou d'un syndicat interhospitalier, régis par le livre VII du code de la
-santé publique, conformément aux dispositions de l'article L. 714-15, deuxième à septième alinéas, de ce code reproduit ci-
-après :
-
-Art. L. 714-15, deuxième à septième alinéas. -     Lorsque le comptable de l'établissement notifie à l'ordonnateur sa
-décision de suspendre une dépense, celui-ci peut lui adresser un ordre de réquisition. Le comptable est tenu de s'y
-conformer, sauf en cas :
-
-1° D'insuffisance de fonds disponibles ;
-
-2° De dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur
-lesquels elle devrait être imputée ;
-
-3° D'absence de justification du service fait ou de défaut de caractère libératoire du règlement.
-
-L'ordre de réquisition est porté à la connaissance du conseil d'administration de l'établissement et notifié au trésorier-
-payeur général du département qui le transmet à la chambre régionale des comptes.
-
-En cas de réquisition, le comptable est déchargé de sa responsabilité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières - art. L233-2 (Ab)
-
-_Cité par_:
-
-  - Code des juridictions financières - art. L233-2 (Ab)
-  - Code des juridictions financières - art. L233-3 (Ab)
-
-_Cite_:
-
-  - Code de la santé publique - art. L714-15 (M)
-
-
-###### Article L233-5
-
 Les dispositions de l'article L. 233-1 sont applicables aux agents comptables des établissements publics locaux
-d'enseignement.
+d'enseignement. 
 
 Lorsque l'agent comptable a été requis de payer par le chef d'établissement, celui-ci rend compte à la collectivité de
 rattachement, à l'autorité académique et au conseil d'administration. L'agent comptable en rend compte au comptable supérieur
@@ -6091,71 +5281,114 @@ du Trésor territorialement compétent qui transmet l'ordre de réquisition à l
 
 _Codifié par_:
 
-  - Loi n°94-1040 1994-12-02
+  - Loi n°94-1040 du 2 décembre 1994
 
 _Créé par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Transféré par_:
-
   - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-115 (M)
 
 _Cite_:
 
-  - Code des juridictions financières - art. L233-1 (M)
-
-_Nouveaux textes_:
-
-  - Code des juridictions financières - art. L233-3 (Ab)
-
-
-##### CHAPITRE IV : Contrôle de certaines conventions<a id=57></a>
-
-###### Article L234-1
-
-Les conventions relatives aux marchés ou à des délégations de service public peuvent être transmises par le représentant de
-l'Etat dans le département à la chambre régionale des comptes. Il en informe l'autorité territoriale concernée. La chambre
-régionale des comptes examine cette convention. Elle formule ses observations dans un délai d'un mois à compter de sa
-saisine. L'avis de la chambre régionale des comptes est transmis à la collectivité territoriale ou à l'établissement public
-intéressé et au représentant de l'Etat. Les dispositions de l'article L. 242-2 sont applicables. L'assemblée délibérante est
-informée de l'avis de la chambre régionale des comptes dès sa plus proche réunion.
-
-**Liens relatifs à cet article**
+  - Code des juridictions financières - art. L233-1
 
 _Anciens textes_:
 
-  - Loi n°82-213 1982-03-02 modifiée, art 87 dernier alinéa, issu de loi 92-215 1995-02-06, art 47-III et complété par loi 93-122 1993-01-23, art 75-III Modifié par loi 96-142 1996-02-21, art 4-XVI
+  - Code des juridictions financières - art. L233-5 (T)
+
+
+##### CHAPITRE IV : Contrôle de certaines conventions<a id=54></a>
+
+###### Article L234-1
+
+Le contrôle des conventions relatives à des délégations de service public est régi par les dispositions de l'article L.
+1411-18 du code général des collectivités territoriales ci-après reproduit : 
+
+Art.L. 1411-18.-Les conventions relatives à des délégations de service public peuvent être transmises par le représentant de
+l'Etat dans le département à la chambre régionale des comptes. Il en informe l'autorité territoriale concernée. La chambre
+régionale des comptes examine cette convention. Elle formule ses observations dans un délai d'un mois à compter de sa
+saisine. L'avis de la chambre régionale des comptes est transmis à la collectivité territoriale ou à l'établissement public
+intéressé et au représentant de l'Etat. Les dispositions de l'article L. 242-2 du code des juridictions financières sont
+applicables. L'assemblée délibérante est informée de l'avis de la chambre régionale des comptes dès sa plus proche réunion.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
 _Cité par_:
 
   - Décret n°95-945 du 23 août 1995 - art. 131 (Ab)
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cite_:
 
   - Code des juridictions financières - art. L242-2 (V)
 
+**Liens**:
 
-##### CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales<a id=58></a>
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L1411-18 (V)
+
+
+###### Article L234-2
+
+Les conventions relatives aux marchés peuvent être transmises par le représentant de l'Etat dans le département à la chambre
+régionale des comptes. Il en informe l'autorité territoriale concernée. La chambre régionale des comptes examine cette
+convention. Elle formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la chambre régionale des
+comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au représentant de l'Etat. Les
+dispositions de l'article L. 242-2 sont applicables. L'assemblée délibérante est informée de l'avis de la chambre régionale
+des comptes dès sa plus proche réunion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Anciens textes_:
+
+  - Loi n°96-142 1996-02-21, art 4-XVII
+
+_Créé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+_Cite_:
+
+  - Code des juridictions financières - art. L242-2 (V)
+
+_Cité par_:
+
+  - Code des juridictions financières - art. R234-2 (M)
+  - Code des juridictions financières - art. R253-18 (T)
+
+
+##### CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales<a id=55></a>
 
 ###### Article L235-1
 
-Si le représentant de l'Etat estime qu'une délibération du conseil d'administration, du conseil de surveillance ou des
-assemblées générales d'une société d'économie mixte locale est de nature à augmenter gravement la charge financière d'une ou
-plusieurs des collectivités territoriales ou de leurs groupements, actionnaires, ou le risque encouru par la ou les
-collectivités territoriales ou leurs groupements qui ont apporté leur garantie à un emprunt contracté par la société, il
-saisit, dans le délai d'un mois suivant la date de réception, la chambre régionale des comptes, à charge pour lui d'en
-informer simultanément la société et les assemblées délibérantes des collectivités territoriales ou de leurs groupements,
-actionnaires ou garants. La saisine de la chambre régionale des comptes entraîne une seconde lecture par le conseil
-d'administration ou de surveillance ou par les assemblées générales de la délibération contestée.
+Le contrôle des actes des sociétés d'économie mixte locales est régi par les dispositions de l'article L. 1524-2 du code
+général des collectivités territoriales ci-après reproduit : 
+
+Art.L. 1524-2.-Si le représentant de l'Etat estime qu'une délibération du conseil d'administration, du conseil de
+surveillance ou des assemblées générales d'une société d'économie mixte locale est de nature à augmenter gravement la charge
+financière d'une ou plusieurs des collectivités territoriales ou de leurs groupements actionnaires, ou le risque encouru par
+la ou les collectivités territoriales ou leurs groupements qui ont apporté leur garantie à un emprunt contracté par la
+société, il saisit, dans le délai d'un mois suivant la date de réception, la chambre régionale des comptes, à charge pour lui
+d'en informer simultanément la société et les assemblées délibérantes des collectivités territoriales ou de leurs
+groupements, actionnaires ou garants. La saisine de la chambre régionale des comptes entraîne une seconde lecture par le
+conseil d'administration ou de surveillance ou par les assemblées générales de la délibération contestée. 
 
 La chambre régionale des comptes dispose d'un délai d'un mois à compter de la saisine pour faire connaître son avis au
 représentant de l'Etat, à la société et aux assemblées délibérantes des collectivités territoriales et de leurs groupements,
@@ -6163,24 +5396,28 @@ actionnaires ou garants.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Décret n°95-945 du 23 août 1995 - art. 132 (Ab)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L1524-2 (V)
+
 _Anciens textes_:
 
-  - Loi n°83-597 1983-07-07, art 6 al 3 et 4 Modifié âr loi 96-142 1996-02-21, art 4-XVIII
+  - Loi n°83-597 0983-07-07, art 6 al 3 et 4 Modifié par loi 96-142 1996-02-21, art 4-XVIII
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-_Cité par_:
-
-  - Décret n°95-945 du 23 août 1995 - art. 132 (Ab)
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 
-##### CHAPITRE VI : Prestation de serment des comptables<a id=59></a>
+##### CHAPITRE VI : Prestation de serment des comptables<a id=56></a>
 
 ###### Article L236-1
 
@@ -6214,12 +5451,17 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. L242-1 (VD)
 
 
-##### CHAPITRE VII : Dispositions particulières concernant la collectivité territoriale de Corse<a id=60></a>
+##### CHAPITRE VII : Dispositions particulières concernant la collectivité territoriale de Corse<a id=57></a>
 
 ###### Article L237-1
 
-La chambre régionale des comptes participe au contrôle des actes budgétaires de la collectivité territoriale de Corse et de
-ses établissements publics et assure le contrôle de leurs comptes, dans les conditions prévues au présent code.
+Le contrôle des actes budgétaires et des comptes de la collectivité territoriale de Corse et de ses établissements publics
+par la chambre régionale des comptes est régi par les dispositions particulières de l'article L. 4425-7, premier et deuxième
+alinéas, du code général des collectivités territoriales ci-après reproduits :
+
+Art. L. 4425-7 (premier et deuxième alinéas). - La chambre régionale des comptes participe au contrôle des actes budgétaires
+de la collectivité territoriale de Corse et de ses établissements publics et assure le contrôle de leurs comptes, dans les
+conditions prévues au livre VI de la première partie.
 
 Elle peut, en outre, procéder à des vérifications sur demande motivée soit du représentant de l'Etat dans la collectivité
 territoriale de Corse, soit du président du conseil exécutif.
@@ -6234,41 +5476,47 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 
 ###### Article L237-2
 
-Si le représentant de l'Etat dans la collectivité territoriale de Corse estime qu'une délibération du conseil
-d'administration d'un établissement public de cette collectivité est de nature à augmenter gravement le charge financière ou
-le risque encouru par elle, il saisit, dans le délai d'un mois suivant la date de réception, la chambre régionale des
-comptes, à charge pour lui d'en informer simultanément l'établissement public concerné et la collectivité territoriale de
-Corse. La saisine de la chambre régionale des comptes entraîne une seconde lecture par le conseil d'administration de la
-délibération contestée. La saisine n'a pas d'effet suspensif.
+La saisine de la chambre régionale des comptes par le représentant de l'Etat dans la collectivité territoriale de Corse
+lorsque ce dernier estime qu'une délibération du conseil d'administration d'un établissement public de cette collectivité est
+de nature à augmenter gravement la charge financière ou le risque encouru par la collectivité est régie par les dispositions
+de l'article L. 4425-7, troisième et quatrième alinéas, du code général des collectivités territoriales ci-après reproduits :
 
-La chambre régionale des comptes dispose d'un délai d'un mois pour faire connaître son avis au représentant de l'Etat, à
-l'établissement public et à la collectivité territoriale.
+Art. L. 4425-7 (troisième et quatrième alinéas). - Si le représentant de l'Etat dans la collectivité territoriale de Corse
+estime qu'une délibération du conseil d'administration d'un établissement public de la collectivité territoriale de Corse est
+de nature à augmenter gravement la charge financière ou le risque encouru par la collectivité territoriale de Corse, il
+saisit, dans le délai d'un mois suivant la date de réception, la chambre régionale des comptes, à charge pour lui d'en
+informer simultanément l'établissement public concerné et la collectivité territoriale de Corse. La saisine de la chambre
+régionale des comptes entraîne une seconde lecture par le conseil d'administration de la délibération contestée. La saisine
+n'a pas d'effet suspensif.
+
+La chambre régionale des comptes dispose d'un délai d'un mois pour faire connaître son avis au représentant de l'Etat dans la
+collectivité territoriale de Corse, à l'établissement public et à la collectivité territoriale de Corse.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°91-428 1991-05-13, art 43 al 3 et 4 Modifié par loi 96-142-02-21, art 4-XX
+  - Loi n°91-428 1991-05-13, art 43 al 3 et 4 Modifié par loi 96-142 1996-02-21, art 4-XX
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 
-#### TITRE IV : Procédure<a id=61></a>
+#### TITRE IV : Procédure<a id=58></a>
 
-##### CHAPITRE Ier : Règles générales de procédure<a id=62></a>
+##### CHAPITRE Ier : Règles générales de procédure<a id=59></a>
 
 ###### Article L241-1
 
@@ -6766,13 +6014,13 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. L241-9 (VD)
 
 
-##### CHAPITRE II : Contrôle budgétaire.<a id=63></a>
+##### CHAPITRE II : Contrôle budgétaire.<a id=60></a>
 
 ###### Article L242-1
 
-Lorsqu'elle est saisie en application des dispositions des articles L. 232-2, L. 232-3, L. 232-5, L. 232-7, L. 232-8, L.
-232-13, L. 232-14, L. 232-20 à L. 232-22 et L. 232-26, la chambre régionale des comptes dispose, pour l'instruction de ces
-affaires, des pouvoirs définis aux articles L. 241-1 à L. 241-5.
+Lorsqu'elle est saisie en application des dispositions de la section 1 du chapitre II du titre III de la première partie du
+présent livre, la chambre régionale des comptes dispose, pour l'instruction de ces affaires, des pouvoirs définis aux
+articles L. 241-1 à L. 241-5..
 
 **Liens relatifs à cet article**
 
@@ -6785,21 +6033,17 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+
+_Transféré par_:
+
+  - Loi n°2008-1091 du 28 octobre 2008 - art. 25
 
 _Cite_:
 
-  - Code des juridictions financières - art. L232-13 (Ab)
-  - Code des juridictions financières - art. L232-14 (Ab)
-  - Code des juridictions financières - art. L232-2 (M)
-  - Code des juridictions financières - art. L232-26 (Ab)
-  - Code des juridictions financières - art. L232-3 (M)
-  - Code des juridictions financières - art. L232-5 (M)
-  - Code des juridictions financières - art. L232-7 (M)
-  - Code des juridictions financières - art. L232-8 (M)
-  - Code des juridictions financières L232-2, L232-3, L232-5, L232-7, L232-8, L232-13, L232-14, L232-20 à L232-22, L232-26, L241-1 à L241-5
+  - Code des juridictions financières - art. L241-1 (V)
 
 _Nouveaux textes_:
 
@@ -6853,7 +6097,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. L244-2 (VD)
 
 
-##### CHAPITRE III : Voies de recours.<a id=64></a>
+##### CHAPITRE III : Voies de recours.<a id=61></a>
 
 ###### Article L243-1
 
@@ -6960,7 +6204,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. L245-3 (VD)
 
 
-#### TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte.<a id=65></a>
+#### TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte.<a id=62></a>
 
 ###### Article L250-1
 
@@ -7242,11 +6486,11 @@ _Abrogé par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 
-### DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer.<a id=66></a>
+### DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer.<a id=63></a>
 
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.<a id=67></a>
+#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.<a id=64></a>
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=68></a>
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=65></a>
 
 ###### Article L261-1
 
@@ -7269,9 +6513,9 @@ _Anciens textes_:
   - Loi n°97-483 1967-06-22, art 11 al 2, modifié par loi 82-594 1982-07-10 art 19-II
 
 
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.<a id=69></a>
+#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.<a id=66></a>
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=70></a>
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=67></a>
 
 ###### Article L261-2
 
@@ -7315,9 +6559,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes<a id=71></a>
+##### CHAPITRE II : De la chambre territoriale des comptes<a id=68></a>
 
-##### Section préliminaire : Création.<a id=72></a>
+##### Section préliminaire : Création.<a id=69></a>
 
 ###### Article L262-1
 
@@ -7338,7 +6582,7 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 1 : Missions.<a id=73></a>
+##### Section 1 : Missions.<a id=70></a>
 
 ###### Article L262-3
 
@@ -7681,9 +6925,9 @@ _Créé par_:
   - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
-##### Section 2 : Organisation<a id=74></a>
+##### Section 2 : Organisation<a id=71></a>
 
-##### Sous-section 1 : Organisation de la juridiction.<a id=75></a>
+##### Sous-section 1 : Organisation de la juridiction.<a id=72></a>
 
 ###### Article L262-14
 
@@ -7976,7 +7220,7 @@ _Cité par_:
   - Code des juridictions financières - art. R262-16 (V)
 
 
-##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.<a id=76></a>
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.<a id=73></a>
 
 ###### Article L262-27
 
@@ -8022,7 +7266,7 @@ _Cité par_:
   - Arrêté du 16 décembre 2016 - art. 12 (V)
 
 
-##### Section 3 : Dispositions statutaires.<a id=77></a>
+##### Section 3 : Dispositions statutaires.<a id=74></a>
 
 ###### Article L262-29
 
@@ -8064,9 +7308,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 4 : Compétences et attributions juridictionnelles<a id=78></a>
+##### Section 4 : Compétences et attributions juridictionnelles<a id=75></a>
 
-##### Sous-section 1 : Jugement des comptes.<a id=79></a>
+##### Sous-section 1 : Jugement des comptes.<a id=76></a>
 
 ###### Article L262-32
 
@@ -8152,7 +7396,7 @@ _Créé par_:
   - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
-##### Sous-section 2 : Contrôle de l'apurement administratif des comptes.<a id=80></a>
+##### Sous-section 2 : Contrôle de l'apurement administratif des comptes.<a id=77></a>
 
 ###### Article L262-35
 
@@ -8235,7 +7479,7 @@ _Cité par_:
   - Code des juridictions financières - art. L262-38 (VD)
 
 
-##### Sous-section 3 : Condamnation des comptables à l'amende.<a id=81></a>
+##### Sous-section 3 : Condamnation des comptables à l'amende.<a id=78></a>
 
 ###### Article L262-38
 
@@ -8328,7 +7572,7 @@ _Cité par_:
   - Code des juridictions financières - art. R262-53 (V)
 
 
-##### Section 5 : Contrôle des actes des sociétés d'économie mixte locales.<a id=82></a>
+##### Section 5 : Contrôle des actes des sociétés d'économie mixte locales.<a id=79></a>
 
 ###### Article L262-41
 
@@ -8365,9 +7609,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 6 : Procédure<a id=83></a>
+##### Section 6 : Procédure<a id=80></a>
 
-##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=84></a>
+##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=81></a>
 
 ###### Article LO262-42
 
@@ -8414,7 +7658,7 @@ _Créé par_:
   - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
-##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=85></a>
+##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=82></a>
 
 ###### Article L262-44
 
@@ -8472,7 +7716,7 @@ _Cité par_:
   - Code des juridictions financières - art. L263-26 (VT)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=86></a>
+##### Sous-section 3 : Dispositions communes.<a id=83></a>
 
 ###### Article L262-46
 
@@ -8738,7 +7982,7 @@ _Cité par_:
   - Code des juridictions financières - art. L262-57 (V)
 
 
-##### Section 7 : Voies de recours.<a id=87></a>
+##### Section 7 : Voies de recours.<a id=84></a>
 
 ###### Article L262-56
 
@@ -8810,9 +8054,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=88></a>
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=85></a>
 
-##### Section 1 : Des provinces et du territoire.<a id=89></a>
+##### Section 1 : Des provinces et du territoire.<a id=86></a>
 
 ###### Article LO263-1
 
@@ -9026,7 +8270,7 @@ _Créé par_:
   - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
-##### Section 2 : Des communes et des établissements publics communaux et intercommunaux.<a id=90></a>
+##### Section 2 : Des communes et des établissements publics communaux et intercommunaux.<a id=87></a>
 
 ###### Article L263-8
 
@@ -9683,9 +8927,9 @@ _Anciens textes_:
   - Loi n°82-594 1982-03-02, art 9 Loi 82-594 1982-03-02, art 5 al 6
 
 
-##### CHAPITRE IV : Des comptables<a id=91></a>
+##### CHAPITRE IV : Des comptables<a id=88></a>
 
-##### Section 1 : Dispositions statutaires.<a id=92></a>
+##### Section 1 : Dispositions statutaires.<a id=89></a>
 
 ###### Article L264-1
 
@@ -9747,9 +8991,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 2 : Obligations et missions<a id=93></a>
+##### Section 2 : Obligations et missions<a id=90></a>
 
-##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=94></a>
+##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.<a id=91></a>
 
 ###### Article LO264-4
 
@@ -9805,7 +9049,7 @@ _Cité par_:
   - Code des juridictions financières - art. L312-2 (V)
 
 
-##### Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux.<a id=95></a>
+##### Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux.<a id=92></a>
 
 ###### Article L264-6
 
@@ -9862,9 +9106,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D1617-20 (V)
 
 
-#### TITRE VII : Dispositions applicables en Polynésie française<a id=96></a>
+#### TITRE VII : Dispositions applicables en Polynésie française<a id=93></a>
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=97></a>
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes.<a id=94></a>
 
 ###### Article L271-1
 
@@ -9929,9 +9173,9 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes<a id=98></a>
+##### CHAPITRE II : De la chambre territoriale des comptes<a id=95></a>
 
-##### Section préliminaire : Création.<a id=99></a>
+##### Section préliminaire : Création.<a id=96></a>
 
 ###### Article L272-1
 
@@ -9952,7 +9196,7 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 1 : Missions.<a id=100></a>
+##### Section 1 : Missions.<a id=97></a>
 
 ###### Article L272-3
 
@@ -10309,9 +9553,9 @@ _Créé par_:
   - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
-##### Section 2 : Organisation<a id=101></a>
+##### Section 2 : Organisation<a id=98></a>
 
-##### Sous-section 1 : Organisation de la juridiction.<a id=102></a>
+##### Sous-section 1 : Organisation de la juridiction.<a id=99></a>
 
 ###### Article L272-15
 
@@ -10603,7 +9847,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-2 (V)
 
 
-##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.<a id=103></a>
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.<a id=100></a>
 
 ###### Article L272-28
 
@@ -10649,7 +9893,7 @@ _Cité par_:
   - Arrêté du 16 décembre 2016 - art. 12 (V)
 
 
-##### Section 3 : Dispositions statutaires.<a id=104></a>
+##### Section 3 : Dispositions statutaires.<a id=101></a>
 
 ###### Article L272-30
 
@@ -10695,9 +9939,9 @@ _Cité par_:
   - Arrêté du 16 décembre 2016 - art. 12 (V)
 
 
-##### Section 4 : Compétences et attributions juridictionnelles<a id=105></a>
+##### Section 4 : Compétences et attributions juridictionnelles<a id=102></a>
 
-##### Sous-section 1 : Jugement des comptes.<a id=106></a>
+##### Sous-section 1 : Jugement des comptes.<a id=103></a>
 
 ###### Article L272-33
 
@@ -10787,7 +10031,7 @@ _Cité par_:
   - Loi n°2004-192 du 27 février 2004 - art. 184 (V)
 
 
-##### Sous-section 2 : Condamnation des comptables à l'amende.<a id=107></a>
+##### Sous-section 2 : Condamnation des comptables à l'amende.<a id=104></a>
 
 ###### Article L272-36
 
@@ -10877,7 +10121,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-38 (V)
 
 
-##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire.<a id=108></a>
+##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire.<a id=105></a>
 
 ###### Article L272-39
 
@@ -10913,9 +10157,9 @@ _Cité par_:
   - Loi n°2004-193 du 27 février 2004 - art. 20 (V)
 
 
-##### Section 6 : Procédure<a id=109></a>
+##### Section 6 : Procédure<a id=106></a>
 
-##### Sous-section 1 : A l'égard du territoire<a id=110></a>
+##### Sous-section 1 : A l'égard du territoire<a id=107></a>
 
 ###### Article LO272-40
 
@@ -10966,7 +10210,7 @@ _Cité par_:
   - Code des juridictions financières - art. LO273-4 (VD)
 
 
-##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=111></a>
+##### Sous-section 2 : A l'égard des autres collectivités et organismes.<a id=108></a>
 
 ###### Article L272-42
 
@@ -11023,7 +10267,7 @@ _Cité par_:
   - Code des juridictions financières - art. L273-6 (VD)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=112></a>
+##### Sous-section 3 : Dispositions communes.<a id=109></a>
 
 ###### Article L272-44
 
@@ -11292,7 +10536,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-59 (V)
 
 
-##### Section 7 : Voies de recours.<a id=113></a>
+##### Section 7 : Voies de recours.<a id=110></a>
 
 ###### Article L272-54
 
@@ -11360,7 +10604,7 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993.<a id=114></a>
+##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993.<a id=111></a>
 
 ###### Article L272-57
 
@@ -11470,7 +10714,7 @@ _Cite_:
   - Code des juridictions financières - art. L272-59 (M)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics.<a id=115></a>
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics.<a id=112></a>
 
 ###### Article LO273-1
 
@@ -11602,9 +10846,9 @@ _Créé par_:
   - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
-##### CHAPITRE IV : Du comptable du territoire<a id=116></a>
+##### CHAPITRE IV : Du comptable du territoire<a id=113></a>
 
-##### Section 1 : Dispositions statutaires.<a id=117></a>
+##### Section 1 : Dispositions statutaires.<a id=114></a>
 
 ###### Article L274-1
 
@@ -11665,7 +10909,7 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Section 2 : Obligations et missions.<a id=118></a>
+##### Section 2 : Obligations et missions.<a id=115></a>
 
 ###### Article LO274-4
 
@@ -11728,11 +10972,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. LO6223-2 (V)
 
 
-## LIVRE III : Les institutions associées à la Cour des comptes<a id=119></a>
+## LIVRE III : Les institutions associées à la Cour des comptes<a id=116></a>
 
-### TITRE Ier : La Cour de discipline budgétaire et financière<a id=120></a>
+### TITRE Ier : La Cour de discipline budgétaire et financière<a id=117></a>
 
-#### CHAPITRE Ier : Organisation<a id=121></a>
+#### CHAPITRE Ier : Organisation<a id=118></a>
 
 ###### Article L311-1
 
@@ -11925,7 +11169,7 @@ _Abrogé par_:
   - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
 
-#### CHAPITRE II : Personnes justiciables de la Cour<a id=122></a>
+#### CHAPITRE II : Personnes justiciables de la Cour<a id=119></a>
 
 ###### Article L312-1
 
@@ -11945,20 +11189,18 @@ II. - Toutefois, ne sont pas justiciables de la Cour à raison des actes accompl
 
 a) Les membres du Gouvernement ;
 
-b) Les présidents de conseil régional et, quand ils agissent dans le cadre des dispositions du c de l'article 11 de la loi n°
-72-619 du 5 juillet 1972 portant création et organisation des régions, les vice-présidents et autres membres du conseil
-régional ;
+b) Les présidents de conseil régional et, quand ils agissent dans le cadre des dispositions des articles L. 4132-3 à L.
+4132-10, L. 4132-13, L. 4132-15, L. 4132-21, L. 4132-22, L. 4132-25, L. 4133-1, L. 4133-2, L. 4133-4 à  L. 4133-8, L. 4231-1
+à L. 4231-5 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil régional ;
 
 c) Le président du conseil exécutif de Corse et, quand ils agissent dans le cadre des dispositions du dernier alinéa de
-l'article 33 de la loi n° 91-428 du 13 mai 1991 portant statut de la collectivité territoriale de Corse, les conseillers
-exécutifs ;
+l'article L. 4424-4 du code général des collectivités territoriales, les conseillers exécutifs ;
 
-d) Les présidents de conseil général et, quand ils agissent dans le cadre des dispositions de l'article 31 de la loi n°
-82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions, les vice-présidents et
-autres membres du conseil général ;
+d) Les présidents de conseil général et, quand ils agissent dans le cadre des dispositions des articles L. 3221-3 et L.
+3221-7 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ;
 
-e) Les maires et, quand ils agissent dans le cadre des dispositions des articles L. 122-11 et L. 122-13 du code des communes,
-les adjoints et autres membres du conseil municipal ;
+e) Les maires et, quand ils agissent dans le cadre des dispositions des articles L. 2122-17 à L. 2122-20 et L. 2122-25 du
+code général des collectivités territoriales, les adjoints et autres membres du conseil municipal ;
 
 f) Les présidents élus de groupements de collectivités territoriales et, quand ils agissent par délégation du président, les
 vice-présidents et autres membres de l'organe délibérant du groupement ;
@@ -11975,21 +11217,13 @@ en raison de dispositions législatives ou réglementaires, sont l'accessoire ob
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°72-619 du 5 juillet 1972 - art. 11 (M)
-  - Loi n°82-213 du 2 mars 1982 - art. 31 (M)
-  - Loi n°91-428 1991-05-13 art. 33
-  - CODE DES COMMUNES. - art. L122-11 (M)
-  - CODE DES COMMUNES. - art. L122-13 (Ab)
-
 _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
 
 _Cité par_:
 
@@ -12010,6 +11244,21 @@ _Cité par_:
   - Code des juridictions financières - art. L314-19 (VT)
   - Code monétaire et financier - art. L612-34-1 (V)
   - Code monétaire et financier - art. L613-51 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2122-25 (V)
+  - Code général des collectivités territoriales - art. L3221-3 (M)
+  - Code général des collectivités territoriales - art. L3221-7 (V)
+  - Code général des collectivités territoriales - art. L4132-13 (M)
+  - Code général des collectivités territoriales - art. L4132-15 (V)
+  - Code général des collectivités territoriales - art. L4132-21 (M)
+  - Code général des collectivités territoriales - art. L4132-22 (V)
+  - Code général des collectivités territoriales - art. L4132-25 (V)
+  - Code général des collectivités territoriales - art. L4133-1 (M)
+  - Code général des collectivités territoriales - art. L4133-2 (V)
+  - Code général des collectivités territoriales - art. L4424-4 (T)
+  - Code général des collectivités territoriales L4132-3 à L4132-10, L4132-13, L4132-15, L4132-21, L4132-22, L4132-25, L4133-1, L4133-2, L4133-4 à L4133-8, L4231-1 à L4231-5, L4424-4, L3221-3, L3221-7, L2122-17 à L2122-20, L2122-25
 
 
 ###### Article L312-2
@@ -12042,7 +11291,7 @@ _Cité par_:
   - Code des juridictions financières - art. L313-13 (V)
 
 
-#### CHAPITRE III : Infractions et sanctions<a id=123></a>
+#### CHAPITRE III : Infractions et sanctions<a id=120></a>
 
 ###### Article L313-1
 
@@ -12352,10 +11601,14 @@ _Cité par_:
 
 Les dispositions de l'article L. 313-9 s'appliquent aux fonctionnaires et agents des collectivités territoriales et de leurs
 groupements qui peuvent exciper d'un ordre écrit donné préalablement par leur supérieur hiérarchique ou par la personne
-légalement habilitée à donner un tel ordre, le maire, le président du conseil général, le président du conseil régional ou le
-président élu d'un des groupements susvisés, dès lors que ces autorités ont été dûment informées sur l'affaire. Si l'ordre
-émane du supérieur hiérarchique ou de la personne légalement habilitée à donner un tel ordre, la responsabilité de ces
-derniers se substituera à celle du subordonné.
+légalement habilitée à donner un tel ordre, le maire, le président du conseil général, le président du conseil régional, le
+président du conseil exécutif de Corse ou le président élu d'un des groupements susvisés, dès lors que ces autorités ont été
+dûment informées sur l'affaire. Si l'ordre émane du supérieur hiérarchique ou de la personne légalement habilitée à donner un
+tel ordre, la responsabilité de ces derniers se substituera à celle du subordonné.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12363,14 +11616,14 @@ _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 _Anciens textes_:
 
   - Loi n°95-851 1995-07-24, art 1er, modifié par loi 96-142 1996-02-21, art 4-XXII
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 4 ()
 
 _Cite_:
 
@@ -12488,7 +11741,7 @@ _Anciens textes_:
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
 
-#### CHAPITRE IV : Procédure devant la Cour<a id=124></a>
+#### CHAPITRE IV : Procédure devant la Cour<a id=121></a>
 
 ###### Article L314-1
 
@@ -13071,7 +12324,7 @@ _Abrogé par_:
   - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 
-#### CHAPITRE V : Voies de recours<a id=125></a>
+#### CHAPITRE V : Voies de recours<a id=122></a>
 
 ###### Article L315-1
 
@@ -13134,7 +12387,7 @@ _Anciens textes_:
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
 
-#### CHAPITRE VI : Rapport public<a id=126></a>
+#### CHAPITRE VI : Rapport public<a id=123></a>
 
 ###### Article L316-1
 
