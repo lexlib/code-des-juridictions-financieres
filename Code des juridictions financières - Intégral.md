@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-09-28
+Version Consolidée au 2002-12-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -1744,6 +1744,35 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
+
+
+###### Article L132-3-2
+
+Dans le cadre de sa mission de contrôle de l'application des lois de financement de la sécurité sociale, la Cour des comptes,
+sans préjudice des dispositions des articles L. 211-1 et L. 211-8, est habilitée à recueillir, en liaison avec les chambres
+régionales des comptes, des informations auprès des établissements mentionnés à l'article L. 6141-2 du code de la santé
+publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°2002-1487 du 20 décembre 2002 - art. 3 ()
+
+_Cité par_:
+
+  - Loi n°2016-41 du 26 janvier 2016 - art. 109
+  - Code de la santé publique - art. L6161-3 (VD)
+
+_Cite_:
+
+  - Code des juridictions financières - art. L211-1 (V)
+  - Code des juridictions financières - art. L211-8 (M)
+  - Code de la santé publique - art. L6141-2 (V)
 
 
 ###### Article L132-4
