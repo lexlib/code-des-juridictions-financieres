@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-07-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -139,7 +139,7 @@ Version Consolidée au 2004-07-02
       - [TITRE II : Dispositions statutaires (art. R*121-1 à R125-3)](#136)
         - [CHAPITRE Ier : Nominations (art. R*121-1 à R*121-2)](#137)
         - [CHAPITRE II : Avancements (art. R*122-1 à R*122-5)](#138)
-        - [CHAPITRE III : Mobilité (art. R*123-2 à R123-1)](#139)
+        - [CHAPITRE III : Mobilité (art. R*123-1 à R*123-2)](#139)
         - [CHAPITRE IV : Assistants de la Cour des comptes (art. R124-1 à R124-2)](#140)
         - [CHAPITRE V : Rapporteurs extérieurs (art. R125-1 à R125-3)](#141)
       - [TITRE III : Compétences et attributions (art. R131-1 à R136-3)](#142)
@@ -197,8 +197,8 @@ Version Consolidée au 2004-07-02
           - [CHAPITRE II : Obligations et incompatibilités (art. R222-1 à R222-6)](#194)
           - [CHAPITRE III : Discipline (art. R223-1 à R223-8)](#195)
           - [CHAPITRE IV : Avancement (art. R224-1 à R224-8)](#196)
-          - [CHAPITRE VI : Positions des magistrats (art. R226-2 à R226-8)](#197)
-            - [Section 1 : Mobilité (art. R226-2 à R226-4)](#198)
+          - [CHAPITRE VI : Positions des magistrats (art. R226-1 à R226-8)](#197)
+            - [Section 1 : Mobilité (art. R226-1 à R226-4)](#198)
             - [Section 2 : Détachement (art. R226-5 à R226-6)](#199)
             - [Section 3 : Disponibilité (art. R226-7)](#200)
             - [Section 4 : Délégation dans les fonctions du ministère public (art. R226-8)](#201)
@@ -268,20 +268,18 @@ Version Consolidée au 2004-07-02
               - [Paragraphe 3 : Absence de transmission ou déficit du compte administratif (art. R263-28 à R263-33)](#265)
               - [Paragraphe 4 : Dépense obligatoire (art. R263-34 à R263-46)](#266)
             - [Section 3 : Dispositions communes (art. R263-47 à R263-49)](#267)
-    - [LIVRE II : Les chambres régionales et territoriales des comptes. (art. R224-5 à R232-4)](#268)
-      - [DEUXIEME PARTIE : Les chambres régionales des comptes. (art. R224-5 à R232-4)](#269)
-        - [TITRE II : DISPOSITIONS STATUTAIRES (art. R224-5 à R226-1)](#270)
-          - [CHAPITRE IV : Avancement. (art. R224-5 à R224-7)](#271)
+    - [LIVRE II : Les chambres régionales et territoriales des comptes. (art. R224-7 à R232-4)](#268)
+      - [DEUXIEME PARTIE : Les chambres régionales des comptes. (art. R224-7 à R232-4)](#269)
+        - [TITRE II : DISPOSITIONS STATUTAIRES (art. R224-7 à R225-1)](#270)
+          - [CHAPITRE IV : Avancement. (art. R224-7)](#271)
           - [CHAPITRE V : Notation. (art. R225-1)](#272)
-          - [CHAPITRE VI : Positions des magistrats (art. R226-1)](#273)
-            - [Section 1 : Mobilité. (art. R226-1)](#274)
-        - [TITRE III : COMPÉTENCES ET ATTRIBUTIONS (art. R232-4)](#275)
-          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-4)](#276)
-            - [Section 3 : Des établissements publics locaux d'enseignement. (art. R232-4)](#277)
-    - [LIVRE III : Les institutions associées à la Cour des comptes (art. D320-1 à D340-8)](#278)
-      - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#279)
-      - [TITRE III : LE CONSEIL DES IMPÔTS. (art. D330-1 à D330-6)](#280)
-      - [TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE. (art. D340-1 à D340-8)](#281)
+        - [TITRE III : COMPÉTENCES ET ATTRIBUTIONS (art. R232-4)](#273)
+          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-4)](#274)
+            - [Section 3 : Des établissements publics locaux d'enseignement. (art. R232-4)](#275)
+    - [LIVRE III : Les institutions associées à la Cour des comptes (art. D320-1 à D340-8)](#276)
+      - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#277)
+      - [TITRE III : LE CONSEIL DES IMPÔTS. (art. D330-1 à D330-6)](#278)
+      - [TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE. (art. D340-1 à D340-8)](#279)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : La Cour des comptes<a id=2></a>
@@ -14446,8 +14444,8 @@ _Cite_:
 ###### Article R112-13
 
 Les rapporteurs affectés à la Cour avec l'accord du premier président et du procureur général, en application du décret n°
-97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale
-d'administration et des administrateurs des postes et télécommunications, exercent leur fonction à temps plein.
+2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps recrutés par la voie de
+l'Ecole nationale d'administration, exercent leur fonction à temps plein.
 
 Un arrêté du premier président fixe leur affectation.
 
@@ -14457,17 +14455,17 @@ _Anciens textes_:
 
   - Décret n°85-199 1985-02-11, art 12-I
 
-_Cite_:
-
-  - Décret n°97-274 1997-03-21
-
 _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2004-708 2004-07-16
+
+_Modifié par_:
+
+  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
 
 _Cité par_:
 
@@ -15249,6 +15247,33 @@ _Cite_:
 
 #### CHAPITRE III : Mobilité<a id=139></a>
 
+###### Article R*123-1
+
+Les magistrats peuvent accomplir une période dite de mobilité dans les conditions définies par le décret n° 2004-708 du 16
+juillet 2004 relatif à la mobilité et au détachement des fonctionnaires de corps recrutés par la voie de l'Ecole nationale
+d'administration.
+
+Les magistrats recrutés à la Cour par la voie du tour extérieur sont considérés comme ayant accompli la mobilité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°73-369 1973-03-27, art 1er
+
+_Codifié par_:
+
+  - Décret n°2000-337 2000-04-14
+
+_Cite_:
+
+  - Décret n°2004-708 2004-07-16
+
+_Modifié par_:
+
+  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+
+
 ###### Article R*123-2
 
 Les mesures individuelles prises en application de l'article précédent sont prononcées sur demande des intéressés après
@@ -15260,33 +15285,6 @@ finances et des ministres intéressés.
 _Anciens textes_:
 
   - Décret n°73-369 1973-03-27, art 2
-
-_Codifié par_:
-
-  - Décret n°2000-337 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R123-1
-
-Les magistrats peuvent accomplir une période dite de mobilité dans les conditions définies par le décret n° 97-274 du 21 mars
-1997 relatif à la mobilité des fonctionnaires de corps recrutés par la voie de l'Ecole nationale d'administration et des
-administrateurs des postes et télécommunications.
-
-Les magistrats recrutés à la Cour par la voie du tour extérieur sont considérés comme ayant accompli la mobilité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-369 1973-03-27, art 1er
-
-_Cite_:
-
-  - Décret n°97-274 1997-03-21
 
 _Codifié par_:
 
@@ -21983,6 +21981,53 @@ _Modifié par_:
   - Décret n°2002-1153 du 10 septembre 2002 - art. 9 ()
 
 
+###### Article R224-5
+
+Peuvent être inscrits au tableau d'avancement :
+
+1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
+
+2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 7e échelon.
+
+Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
+
+Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
+
+1° Par mutation dans une autre chambre régionale ou territoriale des comptes ;
+
+2° Par détachement ou mise à disposition à la Cour des comptes ;
+
+3° Par détachement ou mise à disposition dans un service, une juridiction, un organisme, une collectivité ou une entreprise
+publique pouvant accueillir, au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole
+nationale d'administration ;
+
+4° Par mobilité au sens du décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires
+des corps recrutés par la voie de l'Ecole nationale d'administration.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°82-970 du 16 novembre 1982 - art. 22 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Cite_:
+
+  - Décret n°2004-708 2004-07-16
+  - Code des juridictions financières - art. L221-2-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+
+_Cité par_:
+
+  - Code des juridictions financières - art. R212-55-1 (Ab)
+
+
 ###### Article R224-6
 
 Les conseillers promus premiers conseillers sont classés au 1er échelon de leur nouveau grade et conservent, dans la limite
@@ -22036,6 +22081,46 @@ _Modifié par_:
 ##### CHAPITRE VI : Positions des magistrats<a id=197></a>
 
 ##### Section 1 : Mobilité<a id=198></a>
+
+###### Article R226-1
+
+Les magistrats des chambres régionales des comptes peuvent accomplir une période dite de mobilité dans les conditions
+définies par le décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps
+recrutés par la voie de l'Ecole nationale d'administration.
+
+Toutefois, les intéressés ne peuvent accomplir cette mobilité en exerçant des fonctions :
+
+a) Dans un cabinet ministériel ;
+
+b) Auprès d'une collectivité territoriale ou d'un organisme soumis au contrôle de la chambre régionale des comptes où ils
+exercent leurs fonctions au moment de leur départ en mobilité ;
+
+c) Dans l'administration préfectorale ou dans un secrétariat général pour les affaires régionales situé dans la région au
+sein de laquelle la chambre régionale des comptes exerce ses compétences.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°82-970 du 16 novembre 1982 - art. 57 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Cité par_:
+
+  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
+  - Code des juridictions financières - art. R226-5 (V)
+
+_Cite_:
+
+  - Décret n°2004-708 2004-07-16
+
+_Modifié par_:
+
+  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+
 
 ###### Article R226-2
 
@@ -30291,53 +30376,6 @@ _Cite_:
 
 ##### CHAPITRE IV : Avancement.<a id=271></a>
 
-###### Article R224-5
-
-Peuvent être inscrits au tableau d'avancement :
-
-1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
-
-2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 7e échelon.
-
-Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
-
-Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
-
-1° Par mutation dans une autre chambre régionale ou territoriale des comptes ;
-
-2° Par détachement ou mise à disposition à la Cour des comptes ;
-
-3° Par détachement ou mise à disposition dans un service, une juridiction, un organisme, une collectivité ou une entreprise
-publique pouvant accueillir, au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole
-nationale d'administration ;
-
-4° Par mobilité au sens du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par
-la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°82-970 du 16 novembre 1982 - art. 22 (Ab)
-
-_Cite_:
-
-  - Décret n°97-274 1997-03-21
-  - Code des juridictions financières - art. L221-2-1 (V)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Modifié par_:
-
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 46 ()
-
-_Cité par_:
-
-  - Code des juridictions financières - art. R212-55-1 (Ab)
-
-
 ###### Article R224-7
 
 Le tableau d'avancement est, pour chaque grade, commun à tous les membres du corps des chambres régionales des comptes. Il
@@ -30398,55 +30436,11 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### CHAPITRE VI : Positions des magistrats<a id=273></a>
+#### TITRE III : COMPÉTENCES ET ATTRIBUTIONS<a id=273></a>
 
-##### Section 1 : Mobilité.<a id=274></a>
+##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=274></a>
 
-###### Article R226-1
-
-Les magistrats des chambres régionales des comptes peuvent accomplir une période dite de mobilité dans les conditions
-définies par le décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de
-l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
-
-Toutefois, les intéressés ne peuvent accomplir cette mobilité en exerçant des fonctions :
-
-a) Dans un cabinet ministériel ;
-
-b) Auprès d'une collectivité territoriale ou d'un organisme soumis au contrôle de la chambre régionale des comptes où ils
-exercent leurs fonctions au moment de leur départ en mobilité ;
-
-c) Dans l'administration préfectorale ou dans un secrétariat général pour les affaires régionales situé dans la région au
-sein de laquelle la chambre régionale des comptes exerce ses compétences.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°82-970 du 16 novembre 1982 - art. 57 (Ab)
-
-_Cite_:
-
-  - Décret n°97-274 1997-03-21
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Modifié par_:
-
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
-
-_Cité par_:
-
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
-  - Code des juridictions financières - art. R226-5 (V)
-
-
-#### TITRE III : COMPÉTENCES ET ATTRIBUTIONS<a id=275></a>
-
-##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=276></a>
-
-##### Section 3 : Des établissements publics locaux d'enseignement.<a id=277></a>
+##### Section 3 : Des établissements publics locaux d'enseignement.<a id=275></a>
 
 ###### Article R232-4
 
@@ -30491,9 +30485,9 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-## LIVRE III : Les institutions associées à la Cour des comptes<a id=278></a>
+## LIVRE III : Les institutions associées à la Cour des comptes<a id=276></a>
 
-### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=279></a>
+### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=277></a>
 
 ###### Article D320-1
 
@@ -30762,7 +30756,7 @@ _Abrogé par_:
   - Décret n°2017-671 du 28 avril 2017 - art. 180
 
 
-### TITRE III : LE CONSEIL DES IMPÔTS.<a id=280></a>
+### TITRE III : LE CONSEIL DES IMPÔTS.<a id=278></a>
 
 ###### Article D330-1
 
@@ -30938,7 +30932,7 @@ _Abrogé par_:
   - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
 
 
-### TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE.<a id=281></a>
+### TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE.<a id=279></a>
 
 ###### Article D340-1
 
