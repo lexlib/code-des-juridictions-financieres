@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -645,6 +645,25 @@ _Cité par_:
 _Cite_:
 
   - Code des juridictions financières - art. L135-3 (V)
+
+
+###### Article L111-8-3
+
+La " Fondation pour les études comparatives " est soumise au contrôle de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°2002-282 du 28 février 2002 - art. 7 ()
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 144
 
 
 ###### Article L111-9
