@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2001-12-27
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -1965,7 +1965,7 @@ _Nouveaux textes_:
 ###### Article L133-3
 
 Lorsque des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique, auxquels les
-collectivités territoriales ou leurs établissements publics apportent un concours financier supérieur à 10 000 F ou dans
+collectivités territoriales ou leurs établissements publics apportent un concours financier supérieur à 1 500 euros ou dans
 lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou
 exercent un pouvoir prépondérant de décision ou de gestion, relèvent du contrôle de plusieurs chambres régionales ou
 territoriales des comptes, la Cour des comptes est compétente pour assurer la vérification de leurs comptes. Toutefois, cette
@@ -1987,9 +1987,18 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L111-17 (VD)
+  - Code des juridictions financières - art. L111-8 (VD)
 
 _Cité par_:
 
@@ -2550,23 +2559,31 @@ La Cour des comptes est habilitée à se faire communiquer tous documents, de qu
 des services et organismes soumis à son contrôle.
 
 Le fait de faire obstacle, de quelque façon que ce soit, à l'exercice des pouvoirs attribués aux magistrats, conseillers
-maîtres en service extraordinaire et rapporteurs de la Cour des comptes par le présent code est puni de 100 000 F d'amende.
-Le procureur général près la Cour des comptes peut saisir le parquet près la juridiction compétente en vue de déclencher
-l'action publique.
+maîtres en service extraordinaire et rapporteurs de la Cour des comptes par le présent code est puni de 15 000 euros
+d'amende. Le procureur général près la Cour des comptes peut saisir le parquet près la juridiction compétente en vue de
+déclencher l'action publique.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - loi 67-483 1967-06-22 art 9 dernier alinéa, issu de loi 93-122 1993-01-29, art 79-I
+  - Loi n°67-483 1967-06-22, art 9 al 1, modifié par loi 76-539 1976-06-22 art 7-V, et par loi 82-594 1982-07-10, art 18
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L141-1 (VD)
 
 
 ###### Article L140-1-1
@@ -6235,7 +6252,7 @@ La chambre régionale des comptes est habilitée à se faire communiquer tous do
 à la gestion des collectivités publiques, des établissements publics et des autres organismes soumis à son contrôle.
 
 Le fait de faire obstacle, de quelque façon que ce soit, à l'exercice des pouvoirs attribués aux magistrats et rapporteurs de
-la chambre régionale des comptes par le présent code est puni de 100 000 F d'amende. Le ministère public près la chambre
+la chambre régionale des comptes par le présent code est puni de 15 000 euros d'amende. Le ministère public près la chambre
 régionale des comptes peut saisir le parquet près la juridiction compétente en vue de déclencher l'action publique.
 
 **Liens relatifs à cet article**
@@ -6248,10 +6265,6 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
-
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
 _Cité par_:
 
   - Décret n°95-945 du 23 août 1995 - art. 27 (Ab)
@@ -6261,6 +6274,18 @@ _Cité par_:
   - Code des juridictions financières - art. L253-15 (V)
   - Code des juridictions financières - art. L254-4 (VD)
   - Code des juridictions financières - art. R212-22 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 26
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L241-5 (VD)
 
 
 ###### Article L241-2
@@ -7111,7 +7136,7 @@ _Abrogé par_:
 
 La chambre régionale des comptes de la Réunion peut assurer la vérification des comptes des établissements, sociétés,
 groupements et organismes, quel que soit leur statut juridique, auxquels la collectivité territoriale, les communes ou leurs
-établissements publics apportent un concours financier supérieur à 10 000 F ou dans lesquels ils détiennent, séparément ou
+établissements publics apportent un concours financier supérieur à 1 500 euros ou dans lesquels ils détiennent, séparément ou
 ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de
 décision ou de gestion.
 
@@ -7135,7 +7160,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V)
 
 _Abrogé par_:
 
@@ -7488,7 +7513,7 @@ _Cité par_:
 ###### Article L262-4
 
 Les comptes des communes ou groupements de communes dont la population n'excède pas 2 000 habitants et dont le montant des
-recettes ordinaires figurant au dernier compte administratif est inférieur à 2 000 000 F ainsi que ceux de leurs
+recettes ordinaires figurant au dernier compte administratif est inférieur à 305 000 euros ainsi que ceux de leurs
 établissements publics font l'objet, sous réserve des dispositions des articles L. 262-35 à L. 262-37, d'un apurement
 administratif par les comptables supérieurs du Trésor.
 
@@ -7504,7 +7529,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -7552,7 +7577,7 @@ _Cite_:
 
 La chambre territoriale des comptes peut assurer la vérification des comptes des établissements, sociétés, groupements et
 organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales ou leurs établissements publics
-apportent un concours financier supérieur à 10 000 F ou dans lesquels elles détiennent, séparément ou ensemble, plus de la
+apportent un concours financier supérieur à 1 500 euros ou dans lesquels elles détiennent, séparément ou ensemble, plus de la
 moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
 
 **Liens relatifs à cet article**
@@ -7567,7 +7592,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -7653,7 +7678,7 @@ _Cite_:
 ###### Article L262-10
 
 Lorsque des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique, auxquels les
-collectivités territoriales ou leurs établissements publics apportent un concours financier supérieur à 10 000 F ou dans
+collectivités territoriales ou leurs établissements publics apportent un concours financier supérieur à 1 500 euros ou dans
 lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou
 exercent un pouvoir prépondérant de décision ou de gestion, relèvent du contrôle de plusieurs chambres régionales ou
 territoriales des comptes, la Cour des comptes est compétente pour assurer la vérification de leurs comptes.
@@ -7677,7 +7702,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 _Cité par_:
 
@@ -7686,6 +7715,10 @@ _Cité par_:
   - Code des juridictions financières - art. L262-11 (VT)
   - Code des juridictions financières - art. L262-3 (VT)
   - Code des juridictions financières - art. R262-134 (V)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L262-11 (VD)
 
 
 ###### Article L262-11
@@ -10445,7 +10478,7 @@ _Nouveaux textes_:
 
 La chambre territoriale des comptes peut assurer la vérification des comptes des établissements, sociétés, groupements et
 organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales ou leurs établissements publics
-apportent un concours financier supérieur à 10 000 F ou dans lesquels elles détiennent, séparément ou ensemble, plus de la
+apportent un concours financier supérieur à 1 500 euros ou dans lesquels elles détiennent, séparément ou ensemble, plus de la
 moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
 
 **Liens relatifs à cet article**
@@ -10460,7 +10493,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -10540,7 +10573,7 @@ _Cite_:
 ###### Article L272-9
 
 Lorsque des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique, auxquels les
-collectivités territoriales ou leurs établissements publics apportent un concours financier supérieur à 10 000 F ou dans
+collectivités territoriales ou leurs établissements publics apportent un concours financier supérieur à 1 500 euros ou dans
 lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou
 exercent un pouvoir prépondérant de décision ou de gestion relèvent du contrôle de plusieurs chambres régionales ou
 territoriales des comptes, la Cour des comptes est compétente pour assurer la vérification de leurs comptes.
@@ -10564,7 +10597,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11910,7 +11943,7 @@ _Modifié par_:
 ###### Article L272-57
 
 Les comptes des communes ou groupements de communes dont la population n'excède pas 2 000 habitants et dont le montant des
-recettes ordinaires figurant au dernier compte administratif est inférieur à 2 000 000 F ainsi que ceux de leurs
+recettes ordinaires figurant au dernier compte administratif est inférieur à 305 000 euros ainsi que ceux de leurs
 établissements publics font l'objet, sous réserve des dispositions des articles L. 272-58 à L. 272-60 d'un apurement
 administratif par les comptables supérieurs du Trésor.
 
@@ -11922,7 +11955,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 _Cité par_:
 
@@ -12608,8 +12645,8 @@ _Cité par_:
 
 Toute personne visée à l'article L. 312-1 qui aura engagé une dépense sans respecter les règles applicables en matière de
 contrôle financier portant sur l'engagement des dépenses sera passible d'une amende dont le minimum ne pourra être inférieur
-à 1 000 F et dont le maximum pourra atteindre le montant du traitement ou salaire brut annuel qui lui était alloué à la date
-à laquelle le fait a été commis.
+à 150 euros et dont le maximum pourra atteindre le montant du traitement ou salaire brut annuel qui lui était alloué à la
+date à laquelle le fait a été commis.
 
 **Liens relatifs à cet article**
 
@@ -12617,17 +12654,17 @@ _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 _Anciens textes_:
 
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code des juridictions financières - art. L312-1 (M)
+  - Code des juridictions financières - art. L312-1 (V)
 
 _Cité par_:
 
@@ -12761,7 +12798,7 @@ _Cite_:
 Toute personne visée à l'article L. 312-1 qui, dans l'exercice de ses fonctions ou attributions, aura, en méconnaissance de
 ses obligations, procuré à autrui un avantage injustifié, pécuniaire ou en nature, entraînant un préjudice pour le Trésor, la
 collectivité ou l'organisme intéressé, ou aura tenté de procurer un tel avantage sera passible d'une amende dont le minimum
-ne pourra être inférieur à 2 000 F et dont le maximum pourra atteindre le double du montant du traitement ou salaire brut
+ne pourra être inférieur à 300 euros et dont le maximum pourra atteindre le double du montant du traitement ou salaire brut
 annuel qui lui était alloué à la date de l'infraction.
 
 **Liens relatifs à cet article**
@@ -12770,17 +12807,17 @@ _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 _Anciens textes_:
 
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code des juridictions financières - art. L312-1 (M)
+  - Code des juridictions financières - art. L312-1 (V)
 
 _Cité par_:
 
@@ -12793,7 +12830,7 @@ _Cité par_:
 Toute personne mentionnée à l'article L. 312-1 dont les agissements auront entraîné la condamnation d'une personne morale de
 droit public ou d'un organisme de droit privé chargé de la gestion d'un service public à une astreinte en raison de
 l'inexécution totale ou partielle ou de l'exécution tardive d'une décision de justice sera passible d'une amende dont le
-minimum ne pourra être inférieur à 2 000 F et dont le maximum pourra atteindre le montant du traitement ou salaire brut
+minimum ne pourra être inférieur à 300 euros et dont le maximum pourra atteindre le montant du traitement ou salaire brut
 annuel qui lui était alloué à la date où la décision de justice aurait dû recevoir exécution.
 
 **Liens relatifs à cet article**
@@ -12802,17 +12839,17 @@ _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 _Anciens textes_:
 
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code des juridictions financières - art. L312-1 (M)
+  - Code des juridictions financières - art. L312-1 (V)
 
 _Cité par_:
 
@@ -13005,8 +13042,8 @@ _Cité par_:
 
 ###### Article L313-13
 
-Le montant maximum de l'amende infligée aux personnes visées à l'article L. 312-2 pourra atteindre 5 000 F ou le montant
-annuel brut de l'indemnité de fonction qui leur était allouée à la date de l'infraction, si ce montant excédait 5 000 F.
+Le montant maximum de l'amende infligée aux personnes visées à l'article L. 312-2 pourra atteindre 750 euros ou le montant
+annuel brut de l'indemnité de fonction qui leur était allouée à la date de l'infraction, si ce montant excédait 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -13014,17 +13051,17 @@ _Codifié par_:
 
   - Loi n°95-851 1995-07-24
 
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 _Anciens textes_:
 
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code des juridictions financières - art. L312-2 (M)
+  - Code des juridictions financières - art. L312-2 (V)
 
 
 ###### Article L313-14
@@ -16014,8 +16051,8 @@ _Cite_:
 ###### Article D131-37
 
 Dans la limite fixée pour les comptes d'un même exercice par l'article L. 131-7, le taux maximum de l'amende pouvant être
-infligée à un comptable principal de l'Etat pour retard dans la production de ses comptes est fixé à 500 F par compte et par
-mois de retard.
+infligée à un comptable principal de l'Etat pour retard dans la production de ses comptes est fixé à 75 euros par compte et
+par mois de retard.
 
 **Liens relatifs à cet article**
 
@@ -16027,9 +16064,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16046,7 +16083,7 @@ _Cite_:
 
 Dans la limite fixée pour les comptes d'un même exercice par l'article L. 131-7, le taux maximum de l'amende pouvant être
 infligée à un comptable public ne relevant pas de l'article précédent et dont les comptes sont soumis à l'apurement
-juridictionnel, pour retard dans la production de ses comptes, est fixé à 150 F par compte et par mois de retard.
+juridictionnel, pour retard dans la production de ses comptes, est fixé à 22 euros par compte et par mois de retard.
 
 **Liens relatifs à cet article**
 
@@ -16058,9 +16095,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -16071,7 +16108,7 @@ _Cite_:
 
 Dans la limite fixée pour les comptes d'un même exercice par l'article L. 131-7, le taux maximum de l'amende pouvant être
 infligée à un comptable public dont les comptes sont arrêtés par les comptables supérieurs du Trésor pour retard dans la
-production de ses comptes, est fixé à 20 F par compte et par mois de retard.
+production de ses comptes, est fixé à 3 euros par compte et par mois de retard.
 
 **Liens relatifs à cet article**
 
@@ -16083,9 +16120,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
