@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-03-07
+Version Consolidée au 2003-06-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -207,7 +207,7 @@ Version Consolidée au 2003-03-07
             - [Section 1 : Jugement des comptes (art. R231-1 à R231-17)](#204)
               - [Sous-section 1 : Jugement des comptes des comptables patents (art. R231-2 à R231-13)](#205)
               - [Sous-section 2 : Jugement et apurement des comptes des comptables de fait (art. R231-14 à R231-17)](#206)
-            - [Section 2 : Contrôle de l'apurement administratif des comptes (art. D231-19 à D231-31)](#207)
+            - [Section 2 : Contrôle de l'apurement administratif des comptes (art. D231-18 à D231-31)](#207)
             - [Section 3 : Condamnation des comptables à l'amende (art. R231-32 à R231-33)](#208)
           - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-1 à R232-6)](#209)
             - [Section 1 : Dispositions communes aux collectivités territoriales et à leurs établissements publics (art. R232-1)](#210)
@@ -246,48 +246,41 @@ Version Consolidée au 2003-03-07
               - [Sous-section 1 : Jugement des comptes (art. R262-35 à R262-51)](#243)
                 - [Paragraphe 1 : Jugement des comptes des comptables patents (art. R262-36 à R262-47)](#244)
                 - [Paragraphe 2 : Jugement et apurement des comptes des comptables de fait (art. R262-48 à R262-51)](#245)
-              - [Sous-section 3 : Condamnation des comptables à l'amende (art. R262-53 à R262-54)](#246)
-            - [Section 4 bis : Contrôle de certaines conventions (art. R262-54-1 à R262-54-2)](#247)
-            - [Section 5 : Contrôle des actes de sociétés d'économie mixte locales (art. R262-55)](#248)
-            - [Section 7 : Voies de recours (art. R262-83 à R262-96)](#249)
-            - [Section 6 : Procédure (art. R262-56 à R262-82)](#250)
-            - [Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes. (art. D262-97)](#251)
-            - [Section 10 : Notification des jugements (art. D262-103)](#252)
-            - [Section 9 : Règles propres au prononcé des amendes (art. R262-98 à R262-102)](#253)
-            - [Section 11 : Dispositions diverses (art. D262-104)](#254)
-          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. R263-1 à R263-49)](#255)
-            - [Section 1 : Des provinces et de la Nouvelle-Calédonie (art. R263-1 à R263-17)](#256)
-              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-1 à R263-3)](#257)
-              - [Paragraphe 2 : Absence d'équilibre du budget (art. R263-4 à R263-8)](#258)
-              - [Paragraphe 3 : Dépense obligatoire (art. R263-9 à R263-17)](#259)
-            - [Section 2 : Des communes et établissements publics communaux et intercommunaux (art. R263-18 à R263-46)](#260)
-              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-18 à R263-20)](#261)
-              - [Paragraphe 2 : Absence d'équilibre réel du budget (art. R263-21 à R263-27)](#262)
-              - [Paragraphe 3 : Absence de transmission ou déficit du compte administratif (art. R263-28 à R263-33)](#263)
-              - [Paragraphe 4 : Dépense obligatoire (art. R263-34 à R263-46)](#264)
-            - [Section 3 : Dispositions communes (art. R263-47 à R263-49)](#265)
-    - [LIVRE II : Les chambres régionales et territoriales des comptes. (art. R224-5 à R232-4)](#266)
-      - [DEUXIEME PARTIE : Les chambres régionales des comptes. (art. R224-5 à R232-4)](#267)
-        - [TITRE II : DISPOSITIONS STATUTAIRES (art. R224-5 à R226-1)](#268)
-          - [CHAPITRE IV : Avancement. (art. R224-5 à R224-7)](#269)
-          - [CHAPITRE V : Notation. (art. R225-1)](#270)
-          - [CHAPITRE VI : Positions des magistrats (art. R226-1)](#271)
-            - [Section 1 : Mobilité. (art. R226-1)](#272)
-        - [TITRE III : COMPÉTENCES ET ATTRIBUTIONS (art. D231-18 à R232-4)](#273)
-          - [CHAPITRE Ier : Compétences juridictionnelles (art. D231-18)](#274)
-            - [Section 2 : Contrôle de l'apurement administratif des comptes. (art. D231-18)](#275)
-          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-4)](#276)
-            - [Section 3 : Des établissements publics locaux d'enseignement. (art. R232-4)](#277)
-    - [LIVRE II : Les chambres régionales des comptes et territoriales des comptes. (art. R262-52)](#278)
-      - [DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie. (art. R262-52)](#279)
-        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie. (art. R262-52)](#280)
-          - [CHAPITRE II : De la chambre territoriale des comptes. (art. R262-52)](#281)
-            - [Section 4 : Compétences et attributions juridictionnelles (art. R262-52)](#282)
-              - [Sous-section 2 : Contrôle de l'apurement administratif des comptes (art. R262-52)](#283)
-    - [LIVRE III : Les institutions associées à la Cour des comptes (art. D320-1 à D340-8)](#284)
-      - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#285)
-      - [TITRE III : LE CONSEIL DES IMPÔTS. (art. D330-1 à D330-6)](#286)
-      - [TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE. (art. D340-1 à D340-8)](#287)
+              - [Sous-section 2 : Contrôle de l'apurement administratif des comptes (art. R262-52)](#246)
+              - [Sous-section 3 : Condamnation des comptables à l'amende (art. R262-53 à R262-54)](#247)
+            - [Section 4 bis : Contrôle de certaines conventions (art. R262-54-1 à R262-54-2)](#248)
+            - [Section 5 : Contrôle des actes de sociétés d'économie mixte locales (art. R262-55)](#249)
+            - [Section 7 : Voies de recours (art. R262-83 à R262-96)](#250)
+            - [Section 6 : Procédure (art. R262-56 à R262-82)](#251)
+            - [Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes. (art. D262-97)](#252)
+            - [Section 10 : Notification des jugements (art. D262-103)](#253)
+            - [Section 9 : Règles propres au prononcé des amendes (art. R262-98 à R262-102)](#254)
+            - [Section 11 : Dispositions diverses (art. D262-104)](#255)
+          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. R263-1 à R263-49)](#256)
+            - [Section 1 : Des provinces et de la Nouvelle-Calédonie (art. R263-1 à R263-17)](#257)
+              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-1 à R263-3)](#258)
+              - [Paragraphe 2 : Absence d'équilibre du budget (art. R263-4 à R263-8)](#259)
+              - [Paragraphe 3 : Dépense obligatoire (art. R263-9 à R263-17)](#260)
+            - [Section 2 : Des communes et établissements publics communaux et intercommunaux (art. R263-18 à R263-46)](#261)
+              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-18 à R263-20)](#262)
+              - [Paragraphe 2 : Absence d'équilibre réel du budget (art. R263-21 à R263-27)](#263)
+              - [Paragraphe 3 : Absence de transmission ou déficit du compte administratif (art. R263-28 à R263-33)](#264)
+              - [Paragraphe 4 : Dépense obligatoire (art. R263-34 à R263-46)](#265)
+            - [Section 3 : Dispositions communes (art. R263-47 à R263-49)](#266)
+    - [LIVRE II : Les chambres régionales et territoriales des comptes. (art. R224-5 à R232-4)](#267)
+      - [DEUXIEME PARTIE : Les chambres régionales des comptes. (art. R224-5 à R232-4)](#268)
+        - [TITRE II : DISPOSITIONS STATUTAIRES (art. R224-5 à R226-1)](#269)
+          - [CHAPITRE IV : Avancement. (art. R224-5 à R224-7)](#270)
+          - [CHAPITRE V : Notation. (art. R225-1)](#271)
+          - [CHAPITRE VI : Positions des magistrats (art. R226-1)](#272)
+            - [Section 1 : Mobilité. (art. R226-1)](#273)
+        - [TITRE III : COMPÉTENCES ET ATTRIBUTIONS (art. R232-4)](#274)
+          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-4)](#275)
+            - [Section 3 : Des établissements publics locaux d'enseignement. (art. R232-4)](#276)
+    - [LIVRE III : Les institutions associées à la Cour des comptes (art. D320-1 à D340-8)](#277)
+      - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#278)
+      - [TITRE III : LE CONSEIL DES IMPÔTS. (art. D330-1 à D330-6)](#279)
+      - [TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE. (art. D340-1 à D340-8)](#280)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : La Cour des comptes<a id=2></a>
@@ -22728,6 +22721,33 @@ _Cite_:
 
 ##### Section 2 : Contrôle de l'apurement administratif des comptes<a id=207></a>
 
+###### Article D231-18
+
+Le seuil de 3 500 habitants, prévu à l'article L. 211-2, est apprécié tous les cinq exercices sur la base du dernier résultat
+du recensement de la population publié et, le cas échéant, des arrêtés ministériels homologuant les résultats des
+recensements complémentaires, dans les conditions fixées par les articles R. 2151-2 à R. 2151-7 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Modifié par_:
+
+  - Décret n°2003-485 du 5 juin 2003 - art. 10 () JORF 8 juin 2003
+
+_Cité par_:
+
+  - Code des juridictions financières - art. D253-5 (Ab)
+
+_Cite_:
+
+  - Code des juridictions financières - art. L211-2 (M)
+  - Code général des collectivités territoriales R2151-2 à R2151-7
+
+
 ###### Article D231-19
 
 Le seuil de 3 500 habitants prévu à l'article L. 211-2 s'apprécie, pour les établissements publics de coopération
@@ -27279,7 +27299,62 @@ _Cite_:
   - Code des juridictions financières - art. L262-39
 
 
-##### Sous-section 3 : Condamnation des comptables à l'amende<a id=246></a>
+##### Sous-section 2 : Contrôle de l'apurement administratif des comptes<a id=246></a>
+
+###### Article R262-52
+
+I. - Le seuil de 2 000 habitants, prévu à l'article L. 262-4, est apprécié annuellement à la clôture de l'exercice sur la
+base des résultats du recensement général de la population effectué par l'INSEE et, le cas échéant, des arrêtés ministériels
+homologuant les résultats des recensements complémentaires, dans les conditions fixées par les articles R. 2151-2 à R. 2151-7
+du code général des collectivités territoriales.
+
+II. - Le seuil de 2 000 habitants prévu à l'article L. 262-4 s'apprécie, pour les groupements de communes, en prenant en
+compte la population totale des communes qui sont membres de ces groupements.
+
+III. - Le seuil des 305 000 euros de recettes ordinaires, prévu à l'article L. 262-4, est apprécié, pour chaque exercice, sur
+la base du compte administratif de la commune ou du groupement de communes.
+
+IV. - Les dispositions des articles D. 231-21 à D. 231-23 et D. 231-25 à D. 231-31 sont applicables au contrôle de
+l'apurement administratif des comptes prévu aux articles L. 262-35 à L. 262-37.
+
+V. - Les contribuables qui demandent à la chambre la réformation d'un arrêté de décharge dans les conditions prévues à
+l'article D. 231-30 doivent être dûment autorisés à cet effet dans les conditions prévues à l'article L. 316-5 du code des
+communes de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°89-342 du 25 mai 1989 - art. 13 (Ab)
+  - Décret n°90-364 1990-04-23, art 9
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Modifié par_:
+
+  - Décret n°2003-485 du 5 juin 2003 - art. 18 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 165
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L316-5 (Ab)
+  - Code des juridictions financières - art. D231-30 (M)
+  - Code des juridictions financières - art. L262-4 (M)
+  - Code des juridictions financières L262-4, D231-21 à D231-23, D231-25 à D231-31, L262-35 à L262-37, D231-30
+  - Code général des collectivités territoriales R2151-2 à R2151-7
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R262-40 (V)
+  - Code des juridictions financières - art. R262-43 (V)
+
+
+##### Sous-section 3 : Condamnation des comptables à l'amende<a id=247></a>
 
 ###### Article R262-53
 
@@ -27343,7 +27418,7 @@ _Cite_:
   - Code des juridictions financières - art. L262-38
 
 
-##### Section 4 bis : Contrôle de certaines conventions<a id=247></a>
+##### Section 4 bis : Contrôle de certaines conventions<a id=248></a>
 
 ###### Article R262-54-1
 
@@ -27437,7 +27512,7 @@ _Cite_:
   - Code des juridictions financières - art. R263-48
 
 
-##### Section 5 : Contrôle des actes de sociétés d'économie mixte locales<a id=248></a>
+##### Section 5 : Contrôle des actes de sociétés d'économie mixte locales<a id=249></a>
 
 ###### Article R262-55
 
@@ -27480,7 +27555,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-56 (V)
 
 
-##### Section 7 : Voies de recours<a id=249></a>
+##### Section 7 : Voies de recours<a id=250></a>
 
 ###### Article R262-83
 
@@ -27869,7 +27944,7 @@ _Abrogé par_:
   - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
-##### Section 6 : Procédure<a id=250></a>
+##### Section 6 : Procédure<a id=251></a>
 
 ###### Article R262-56
 
@@ -28609,7 +28684,7 @@ _Cite_:
   - Code des juridictions financières - art. R262-62 (V)
 
 
-##### Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes.<a id=251></a>
+##### Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes.<a id=252></a>
 
 ###### Article D262-97
 
@@ -28639,7 +28714,7 @@ _Cite_:
   - Code des juridictions financières
 
 
-##### Section 10 : Notification des jugements<a id=252></a>
+##### Section 10 : Notification des jugements<a id=253></a>
 
 ###### Article D262-103
 
@@ -28675,7 +28750,7 @@ _Cite_:
   - Code des juridictions financières D246-1 à D246-8
 
 
-##### Section 9 : Règles propres au prononcé des amendes<a id=253></a>
+##### Section 9 : Règles propres au prononcé des amendes<a id=254></a>
 
 ###### Article R262-98
 
@@ -28806,7 +28881,7 @@ _Cite_:
   - Code des juridictions financières - art. R262-66
 
 
-##### Section 11 : Dispositions diverses<a id=254></a>
+##### Section 11 : Dispositions diverses<a id=255></a>
 
 ###### Article D262-104
 
@@ -28836,11 +28911,11 @@ _Cité par_:
   - Code des juridictions financières - art. D262-107 (V)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=255></a>
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=256></a>
 
-##### Section 1 : Des provinces et de la Nouvelle-Calédonie<a id=256></a>
+##### Section 1 : Des provinces et de la Nouvelle-Calédonie<a id=257></a>
 
-##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=257></a>
+##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=258></a>
 
 ###### Article R263-1
 
@@ -28916,7 +28991,7 @@ _Cité par_:
   - Code des juridictions financières - art. R263-49 (V)
 
 
-##### Paragraphe 2 : Absence d'équilibre du budget<a id=258></a>
+##### Paragraphe 2 : Absence d'équilibre du budget<a id=259></a>
 
 ###### Article R263-4
 
@@ -29031,7 +29106,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Paragraphe 3 : Dépense obligatoire<a id=259></a>
+##### Paragraphe 3 : Dépense obligatoire<a id=260></a>
 
 ###### Article R263-9
 
@@ -29250,9 +29325,9 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Section 2 : Des communes et établissements publics communaux et intercommunaux<a id=260></a>
+##### Section 2 : Des communes et établissements publics communaux et intercommunaux<a id=261></a>
 
-##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=261></a>
+##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=262></a>
 
 ###### Article R263-18
 
@@ -29329,7 +29404,7 @@ _Cité par_:
   - Code des juridictions financières - art. R263-49 (V)
 
 
-##### Paragraphe 2 : Absence d'équilibre réel du budget<a id=262></a>
+##### Paragraphe 2 : Absence d'équilibre réel du budget<a id=263></a>
 
 ###### Article R263-21
 
@@ -29527,7 +29602,7 @@ _Cite_:
   - Code des juridictions financières - art. R263-23 (V)
 
 
-##### Paragraphe 3 : Absence de transmission ou déficit du compte administratif<a id=263></a>
+##### Paragraphe 3 : Absence de transmission ou déficit du compte administratif<a id=264></a>
 
 ###### Article R263-28
 
@@ -29694,7 +29769,7 @@ _Cite_:
   - Code des juridictions financières - art. L263-20 (V)
 
 
-##### Paragraphe 4 : Dépense obligatoire<a id=264></a>
+##### Paragraphe 4 : Dépense obligatoire<a id=265></a>
 
 ###### Article R263-34
 
@@ -30016,7 +30091,7 @@ _Cite_:
   - Code des communes - art. L235-5 (Ab)
 
 
-##### Section 3 : Dispositions communes<a id=265></a>
+##### Section 3 : Dispositions communes<a id=266></a>
 
 ###### Article R263-47
 
@@ -30098,13 +30173,13 @@ _Cite_:
   - Code des juridictions financières - art. R263-3 (V)
 
 
-## LIVRE II : Les chambres régionales et territoriales des comptes.<a id=266></a>
+## LIVRE II : Les chambres régionales et territoriales des comptes.<a id=267></a>
 
-### DEUXIEME PARTIE : Les chambres régionales des comptes.<a id=267></a>
+### DEUXIEME PARTIE : Les chambres régionales des comptes.<a id=268></a>
 
-#### TITRE II : DISPOSITIONS STATUTAIRES<a id=268></a>
+#### TITRE II : DISPOSITIONS STATUTAIRES<a id=269></a>
 
-##### CHAPITRE IV : Avancement.<a id=269></a>
+##### CHAPITRE IV : Avancement.<a id=270></a>
 
 ###### Article R224-5
 
@@ -30189,7 +30264,7 @@ _Modifié par_:
   - Décret n°2002-1201 du 27 septembre 2002 - art. 47 ()
 
 
-##### CHAPITRE V : Notation.<a id=270></a>
+##### CHAPITRE V : Notation.<a id=271></a>
 
 ###### Article R225-1
 
@@ -30213,9 +30288,9 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### CHAPITRE VI : Positions des magistrats<a id=271></a>
+##### CHAPITRE VI : Positions des magistrats<a id=272></a>
 
-##### Section 1 : Mobilité.<a id=272></a>
+##### Section 1 : Mobilité.<a id=273></a>
 
 ###### Article R226-1
 
@@ -30257,42 +30332,11 @@ _Cité par_:
   - Code des juridictions financières - art. R226-5 (V)
 
 
-#### TITRE III : COMPÉTENCES ET ATTRIBUTIONS<a id=273></a>
+#### TITRE III : COMPÉTENCES ET ATTRIBUTIONS<a id=274></a>
 
-##### CHAPITRE Ier : Compétences juridictionnelles<a id=274></a>
+##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=275></a>
 
-##### Section 2 : Contrôle de l'apurement administratif des comptes.<a id=275></a>
-
-###### Article D231-18
-
-Le seuil de 3 500 habitants, prévu à l'article L. 211-2, est apprécié tous les cinq exercices sur la base du dernier résultat
-du recensement de la population publié et, le cas échéant, des arrêtés ministériels homologuant les résultats des
-recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants du code général des
-collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Modifié par_:
-
-  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
-
-_Cité par_:
-
-  - Code des juridictions financières - art. D253-5 (Ab)
-
-_Cite_:
-
-  - Code des juridictions financières - art. L211-2 (M)
-  - Code général des collectivités territoriales - art. D2151-1 (Ab)
-
-
-##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=276></a>
-
-##### Section 3 : Des établissements publics locaux d'enseignement.<a id=277></a>
+##### Section 3 : Des établissements publics locaux d'enseignement.<a id=276></a>
 
 ###### Article R232-4
 
@@ -30337,65 +30381,9 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-## LIVRE II : Les chambres régionales des comptes et territoriales des comptes.<a id=278></a>
+## LIVRE III : Les institutions associées à la Cour des comptes<a id=277></a>
 
-### DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie.<a id=279></a>
-
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.<a id=280></a>
-
-##### CHAPITRE II : De la chambre territoriale des comptes.<a id=281></a>
-
-##### Section 4 : Compétences et attributions juridictionnelles<a id=282></a>
-
-##### Sous-section 2 : Contrôle de l'apurement administratif des comptes<a id=283></a>
-
-###### Article R262-52
-
-I. - Le seuil de 2 000 habitants, prévu à l'article L. 262-4, est apprécié annuellement à la clôture de l'exercice sur la
-base des résultats du recensement général de la population effectué par l'INSEE et, le cas échéant, des arrêtés ministériels
-homologuant les résultats des recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants
-du code général des collectivités territoriales.
-
-II. - Le seuil de 2 000 habitants prévu à l'article L. 262-4 s'apprécie, pour les groupements de communes, en prenant en
-compte la population totale des communes qui sont membres de ces groupements.
-
-III. - Le seuil des 305 000 euros de recettes ordinaires, prévu à l'article L. 262-4, est apprécié, pour chaque exercice, sur
-la base du compte administratif de la commune ou du groupement de communes.
-
-IV. - Les dispositions des articles D. 231-21 à D. 231-23 et D. 231-25 à D. 231-31 sont applicables au contrôle de
-l'apurement administratif des comptes prévu aux articles L. 262-35 à L. 262-37.
-
-V. - Les contribuables qui demandent à la chambre la réformation d'un arrêté de décharge dans les conditions prévues à
-l'article D. 231-30 doivent être dûment autorisés à cet effet dans les conditions prévues à l'article L. 316-5 du code des
-communes de la Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-342 du 25 mai 1989 - art. 13 (Ab)
-  - Décret n°90-364 1990-04-23, art 9
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Modifié par_:
-
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 66 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L316-5 (Ab)
-  - Code des juridictions financières - art. D231-30 (M)
-  - Code des juridictions financières - art. L262-4 (M)
-  - Code des juridictions financières L262-4, D231-21 à D231-23, D231-25 à D231-31, L262-35 à L262-37, D231-30
-  - Code général des collectivités territoriales - art. D2151-1 (Ab)
-
-
-## LIVRE III : Les institutions associées à la Cour des comptes<a id=284></a>
-
-### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=285></a>
+### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=278></a>
 
 ###### Article D320-1
 
@@ -30664,7 +30652,7 @@ _Abrogé par_:
   - Décret n°2017-671 du 28 avril 2017 - art. 180
 
 
-### TITRE III : LE CONSEIL DES IMPÔTS.<a id=286></a>
+### TITRE III : LE CONSEIL DES IMPÔTS.<a id=279></a>
 
 ###### Article D330-1
 
@@ -30840,7 +30828,7 @@ _Abrogé par_:
   - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
 
 
-### TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE.<a id=287></a>
+### TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE.<a id=280></a>
 
 ###### Article D340-1
 
