@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1995-11-30
+Version Consolidée au 1995-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -1954,7 +1954,9 @@ _Cité par_:
 ###### Article L135-5
 
 Le premier président peut donner connaissance aux commissions des finances et aux commissions d'enquête du Parlement des
-constatations et observations de la Cour des comptes.
+constatations et observations de la Cour des comptes. Toutefois, les communications de la Cour aux ministres, auxquelles il
+n'a pas été répondu sur le fond dans un délai de six mois, sont communiquées de droit aux commissions des finances du
+Parlement.
 
 **Liens relatifs à cet article**
 
@@ -1966,15 +1968,15 @@ _Cité par_:
 _Anciens textes_:
 
   - Loi n°67-483 1967-06-22, art 10 al 2
-  - loi 76-539 1976-06-22, art 7-XII modifié par 95-1347 1995-12-30, art 41
+  - loi 76-539 1976-06-22, art 7-XII modifié par loi 95-1347 1995-12-30, art 41
 
 _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi - art. 41 ()
 
 
 #### CHAPITRE VI : Rapport public.<a id=23></a>
