@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1999-12-30
+Version Consolidée au 2000-04-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L316-1)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -81,7 +81,7 @@ Version Consolidée au 1999-12-30
             - [Section 5 : Contrôle des actes des sociétés d'économie mixte locales (art. L262-41)](#78)
             - [Section 6 : Procédure (art. LO262-42 à L262-55)](#79)
               - [Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics. (art. LO262-42 à LO262-43)](#80)
-              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45)](#81)
+              - [Sous-section 2 : A l'égard des autres collectivités et organismes. (art. L262-44 à L262-45-1)](#81)
               - [Sous-section 3 : Dispositions communes (art. L262-46 à L262-55)](#82)
             - [Section 7 : Voies de recours (art. L262-56 à L262-58)](#83)
           - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. LO263-1 à L263-27)](#84)
@@ -116,7 +116,7 @@ Version Consolidée au 1999-12-30
             - [Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire (art. L272-39)](#113)
             - [Section 6 : Procédure (art. LO272-40 à L272-53)](#114)
               - [Sous-section 1 : A l'égard du territoire (art. LO272-40 à LO272-41)](#115)
-              - [Sous-section 2 : A l'égard des autres collectivités et organismes (art. L272-42 à L272-43)](#116)
+              - [Sous-section 2 : A l'égard des autres collectivités et organismes (art. L272-42 à L272-43-1)](#116)
               - [Sous-section 3 : Dispositions communes (art. L272-44 à L272-53)](#117)
             - [Section 7 : Voies de recours (art. L272-54 à L272-56)](#118)
             - [Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993 (art. L272-57 à L272-60)](#119)
@@ -320,7 +320,9 @@ _Cite_:
 
 La Cour des comptes peut exercer, dans les conditions fixées par voie réglementaire, un contrôle sur les organismes qui
 bénéficient du concours financier de l'Etat, d'une autre personne soumise à son contrôle ainsi que de la Communauté
-européenne.
+européenne et sur les organismes qui sont habilités à recevoir des taxes parafiscales, des impositions de toute nature et des
+cotisations légalement obligatoires, de même que sur les organismes habilités à percevoir des versements libératoires d'une
+obligation légale de faire.
 
 **Liens relatifs à cet article**
 
@@ -344,9 +346,7 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°67-483 1967-06-22, art 1er al 6, modifié par Loi 76-539 1976-06-22, art 7-I, Loi 82-594 1982-07-10, art 10-III et par Loi 96-314 1996-04-12, art 10
   - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-  - Loi n°67-483 du 22 juin 1967 - art. 10 (M)
 
 _Codifié par_:
 
@@ -354,7 +354,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-314 du 12 avril 1996 - art. 45 ()
+  - Loi n°2000-321 du 12 avril 2000 - art. 11 ()
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L111-6 (VD)
 
 
 ###### Article L111-8
@@ -2315,6 +2323,32 @@ _Créé par_:
   - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
+###### Article L140-1-1
+
+Le procureur de la République peut transmettre au procureur général près la Cour des comptes, d'office ou à la demande de ce
+dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à constituer des irrégularités
+dans les comptes ou dans la gestion de l'Etat, des établissements publics ou des organismes relevant de la compétence de la
+Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 12 ()
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L141-2 (VD)
+
+
 ###### Article L140-2
 
 Les magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes peuvent demander aux
@@ -2561,6 +2595,9 @@ Les dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant di
 entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal ne sont pas applicables
 aux mesures d'instruction, rapports et diverses communications de la Cour des comptes.
 
+A ce titre, elles ne sont notamment pas applicables aux rapports de vérification et avis des comités régionaux ou
+départementaux d'examen des comptes des organismes de sécurité sociale visés à l'article L. 134-2.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -2569,7 +2606,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°78-753 1978-07-17
+  - Loi n°78-753 du 17 juillet 1978 -  Titre Ier : De la liberté d'accès aux documents... (V)
 
 _Cité par_:
 
@@ -2579,9 +2616,17 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°2000-321 du 12 avril 2000 - art. 8 ()
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L141-10 (VD)
 
 
 ## LIVRE II : Les chambres régionales et territoriales des comptes<a id=25></a>
@@ -5898,6 +5943,24 @@ _Cité par_:
   - Livre des procédures fiscales - art. L140 (V)
 
 
+###### Article L241-2-1
+
+Le procureur de la République peut transmettre au commissaire du Gouvernement d'une chambre régionale des comptes, d'office
+ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à constituer
+des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes relevant de la compétence de cette
+chambre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 12 ()
+
+
 ###### Article L241-3
 
 La chambre régionale des comptes peut recourir, pour des enquêtes de caractère technique, à l'assistance d'experts désignés
@@ -6540,6 +6603,11 @@ comptabilités de la collectivité territoriale, des communes et de leurs établ
 régulier des crédits, fonds et valeurs. Elle dispose des mêmes droits et pouvoirs que ceux prévus pour la Cour des comptes
 par le titre IV du livre Ier du présent code.
 
+Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre régionale des comptes, d'office
+ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à constituer
+des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes relevant de la compétence de cette
+chambre.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -6550,9 +6618,9 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°2000-321 du 12 avril 2000 - art. 13 ()
 
 _Cité par_:
 
@@ -8038,6 +8106,28 @@ _Cite_:
 _Cité par_:
 
   - Code des juridictions financières - art. L263-26 (VT)
+
+
+###### Article L262-45-1
+
+Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
+d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
+constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes mentionnés à l'article L.
+262-44.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 13 ()
+
+_Cite_:
+
+  - Code des juridictions financières - art. L262-44 (M)
 
 
 ##### Sous-section 3 : Dispositions communes<a id=82></a>
@@ -10977,6 +11067,28 @@ _Cité par_:
   - Code des juridictions financières - art. L273-6 (VD)
 
 
+###### Article L272-43-1
+
+Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
+d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
+constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes mentionnés à l'article L.
+272-42.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°94-1040 1994-12-02
+
+_Créé par_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 13 ()
+
+_Cite_:
+
+  - Code des juridictions financières - art. L272-42 (M)
+
+
 ##### Sous-section 3 : Dispositions communes<a id=117></a>
 
 ###### Article L272-44
@@ -12998,24 +13110,37 @@ Si la Cour estime, en statuant sur les poursuites, qu'une sanction disciplinaire
 dossier à l'autorité compétente. Cette autorité doit, dans le délai de six mois, faire connaître à la Cour, par une
 communication motivée, les mesures qu'elle a prises.
 
+Le procureur de la République peut transmettre au procureur général près la Cour des comptes, ministère public près la Cour
+de discipline budgétaire et financière, d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure
+judiciaire relative à des faits de nature à constituer des infractions prévues et sanctionnées par les articles L. 313-1 à L.
+313-14.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°95-851 1995-07-24
-
-_Créé par_:
-
-  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+  - Loi n°95-851 du 24 juillet 1995
 
 _Anciens textes_:
 
   - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
+_Modifié par_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 12 ()
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
 _Cite_:
 
-  - Code des juridictions financières - art. L312-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 40 (M)
+  - Code des juridictions financières - art. L312-1
+  - Code de procédure pénale - art. 40
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L314-15 (VD)
 
 
 ###### Article L314-19
