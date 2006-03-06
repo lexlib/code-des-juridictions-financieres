@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-03-01
+Version Consolidée au 2006-03-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -31226,7 +31226,7 @@ Le comité d'enquête est composé comme suit :
 
 - le secrétaire général du Gouvernement ;
 
-- le commissaire au Plan ;
+- le directeur général du Centre d'analyse stratégique ;
 
 - le directeur du budget ;
 
@@ -31274,9 +31274,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
 
 
 ###### Article D320-3
