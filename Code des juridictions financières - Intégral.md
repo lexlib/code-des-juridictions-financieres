@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-07-09
+Version Consolidée au 2006-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -184,7 +184,7 @@ Version Consolidée au 2006-07-09
               - [Sous-section 1 : Dispositions générales (art. R212-1 à R212-28)](#181)
                 - [Paragraphe 1 : Le siège, la désignation et la gestion des chambres (art. R212-1 à R212-4)](#182)
                 - [Paragraphe 2 : Les sections (art. R212-5 à R212-6)](#183)
-                - [Paragraphe 3 : Le président (art. R212-7 à R212-8-1)](#184)
+                - [Paragraphe 3 : Le président (art. R*212-7-1 à R212-8-1)](#184)
                 - [Paragraphe 4 : Le président de section (art. R212-9 à R212-12-2)](#185)
                 - [Paragraphe 5 : Les rapporteurs auprès des chambres (art. R212-13)](#186)
                 - [Paragraphe 6 : Prestation de serment des magistrats (art. R212-14)](#187)
@@ -20844,6 +20844,22 @@ _Modifié par_:
 
 
 ##### Paragraphe 3 : Le président<a id=184></a>
+
+###### Article R*212-7-1
+
+Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses de la juridiction qu'il préside. En
+cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de cette juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2006-1098 du 31 août 2006 - art. 1 () JORF 1er septembre 2006
+
 
 ###### Article R212-7
 
