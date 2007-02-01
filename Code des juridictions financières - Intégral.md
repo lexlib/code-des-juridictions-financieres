@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-10-17
+Version Consolidée au 2007-02-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -55,7 +55,7 @@ Version Consolidée au 2006-10-17
             - [Section 2 : Dispositions particulières aux syndicats de communes (art. L232-3)](#52)
             - [Section 3 : Des établissements publics locaux d'enseignement (art. L232-4)](#53)
             - [Section 4 : Des établissements publics de santé (art. L232-5 à L232-6)](#54)
-            - [Section 5 : Des offices publics d'aménagement et de construction    soumis aux règles applicables aux entreprises de    commerce. (art. L232-7)](#55)
+            - [Section 5 : Des offices publics de l'habitat soumis aux règles applicables aux entreprises de commerce (art. L232-7)](#55)
             - [Section 6 : Du centre national de la fonction publique territoriale (art. L232-8)](#56)
           - [CHAPITRE III : Ordres de réquisition (art. L233-1 à L233-3)](#57)
           - [CHAPITRE IV : Contrôle de certaines conventions (art. L234-1 à L234-2)](#58)
@@ -6570,14 +6570,14 @@ _Cite_:
   - Code de la santé publique
 
 
-##### Section 5 : Des offices publics d'aménagement et de construction    soumis aux règles applicables aux entreprises de    commerce.<a id=55></a>
+##### Section 5 : Des offices publics de l'habitat soumis aux règles applicables aux entreprises de commerce<a id=55></a>
 
 ###### Article L232-7
 
-Conformément aux dispositions de l'article L. 421-1-1, deuxième à cinquième alinéas, du code de la construction et de
-l'habitation, les offices publics d'aménagement et de construction, lorsqu'ils sont soumis, en matière de gestion financière
-et comptable, aux règles applicables aux entreprises de commerce, demeurent soumis aux dispositions des articles L. 1612-2,
-L. 1612-4, L. 1612-9 et L. 1612-15 du code général des collectivités territoriales et L. 242-2 du présent code.
+Le contrôle des actes budgétaires des offices publics de l'habitat soumis aux règles applicables aux entreprises de commerce
+s'exerce dans les conditions prévues par l'article L. 421-21 du code de la construction et de l'habitation. 
+
+La chambre régionale des comptes peut assurer la vérification des comptes de ces offices et en examiner la gestion.
 
 **Liens relatifs à cet article**
 
@@ -6587,7 +6587,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Rapport - art. 4 ()
+  - Ordonnance n°2007-137 du 1 février 2007 - art. 4 () JORF 2 février 2007
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 22
 
 _Cité par_:
 
@@ -6598,21 +6602,17 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code des juridictions financières - art. L232-5 (V)
+  - Code des juridictions financières - art. L232-6 (V)
 
 _Anciens textes_:
 
+  - Code de la santé publique - art. L714-9 (M)
   - Code des juridictions financières l232-31 :
   - Code des juridictions financières l232-9
-  - Code de la santé publique  L714-5-1° al 2, issu de loi 91-748 1991-07-31, art 8
-  - Code de la santé publique - art. L714-9 (M)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1612-15 (V)
-  - Code général des collectivités territoriales - art. L1612-2 (M)
-  - Code général des collectivités territoriales - art. L1612-4 (V)
-  - Code général des collectivités territoriales - art. L1612-9 (V)
-  - Code de la construction et de l'habitation. - art. L421-1-1 (Ab)
+  - Code de la construction et de l'habitation. - art. L421-21 (V)
 
 
 ##### Section 6 : Du centre national de la fonction publique territoriale<a id=56></a>
