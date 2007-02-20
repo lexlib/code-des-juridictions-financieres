@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-02-02
+Version Consolidée au 2007-02-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -7236,6 +7236,9 @@ _Cité par_:
 Les documents d'instruction et les communications provisoires de la chambre régionale des comptes sont couverts par le secret
 professionnel que les experts sont tenus de respecter en application de l'article L. 241-3.
 
+L'instruction conduite par la chambre régionale des comptes dans le cadre de la préparation du rapport provisoire et
+confidentiel est menée avec, en particulier, l'ordonnateur dont la gestion est contrôlée.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -7257,11 +7260,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+  - Loi n°2007-209 du 19 février 2007 - art. 64 () JORF 21 février 2007
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 26
 
 _Cite_:
 
-  - Code des juridictions financières - art. L241-3 (M)
+  - Code des juridictions financières - art. L241-3 (VD)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L241-4 (VD)
 
 
 ###### Article L241-7
@@ -7487,6 +7498,16 @@ _Nouveaux textes_:
 
 Les parties peuvent se faire assister ou représenter par un avocat.
 
+L'ordonnateur ou le dirigeant qui était en fonctions au cours d'un exercice examiné peut se faire assister ou représenter par
+la personne de son choix, désignée à sa demande par le président de la chambre régionale des comptes. S'il s'agit d'un agent
+public, son chef de service en est informé. Cette personne peut être désignée pour une affaire qu'elle a eu à connaître dans
+le cadre de ses fonctions. Elle est habilitée à se faire communiquer par la collectivité territoriale ou l'établissement
+public tout document, de quelque nature qu'il soit, relatif à la gestion de l'exercice examiné.
+
+Lorsque l'ordonnateur ou le dirigeant n'est plus en fonctions au moment où l'exercice est examiné par la chambre régionale
+des comptes, les honoraires de l'avocat demeurent à la charge de la collectivité territoriale ou de l'établissement public
+concerné dans la limite d'un plafond fixé par décret.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7497,9 +7518,17 @@ _Codifié par_:
 
   - Loi n°94-1040 1994-12-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+  - Loi n°2007-209 du 19 février 2007 - art. 64 () JORF 21 février 2007
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 21
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L241-7 (VD)
 
 _Cité par_:
 
