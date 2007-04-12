@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-04-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -167,146 +167,147 @@ Version Consolidée au 2007-02-22
           - [Section 5 : Formations (art. R112-15 à R112-24)](#164)
           - [Section 6 : Assistants de la Cour des comptes (art. R112-25 à R112-27)](#165)
           - [Section 7 : Le Conseil supérieur de la Cour des comptes (art. R112-28 à R112-30)](#166)
-      - [TITRE II : Dispositions statutaires (art. R*121-1 à R125-3)](#167)
+      - [TITRE II : Dispositions statutaires (art. R*121-1 à R126-8)](#167)
         - [CHAPITRE Ier : Nominations (art. R*121-1 à R*121-2)](#168)
-        - [CHAPITRE II : Avancements (art. R*122-1 à R*122-7)](#169)
+        - [CHAPITRE II : Avancements (art. R*122-1 à R122-8)](#169)
         - [CHAPITRE III : Mobilité (art. R*123-1 à R*123-2)](#170)
         - [CHAPITRE IV : Assistants de la Cour des comptes (art. R124-1 à R124-2)](#171)
         - [CHAPITRE V : Rapporteurs extérieurs (art. R125-1 à R125-3)](#172)
-      - [TITRE III : Compétences et attributions (art. R131-1 à R136-3)](#173)
-        - [CHAPITRE Ier : Compétences juridictionnelles (art. R131-1 à R131-46)](#174)
-          - [Section 1 : Jugement des comptes (art. R131-2 à R131-13)](#175)
-            - [Sous-section 1 : Jugement des comptes des comptables patents (art. R131-2 à D131-11)](#176)
-              - [Paragraphe 1  : Dispositions générales. (art. R131-2 à R131-6)](#177)
-              - [Paragraphe 2 : Dispositions concernant les receveurs des administrations financières. (art. D131-8 à D131-11)](#178)
-            - [Sous-section 2 : Jugement des gestions de fait. (art. R131-12 à R131-13)](#179)
-          - [Section 2 : Contrôle de la Caisse des dépôts et consignations (art. R131-14 à R131-25)](#180)
-          - [Section 3 : Contrôle de l'apurement administratif des comptes (art. D131-26 à D131-36)](#181)
-          - [Section 4 : Condamnation des comptables à l'amende pour retard (art. D131-37 à D131-40)](#182)
-          - [Section 5 : Jugement des appels (art. R131-41 à R131-46)](#183)
-        - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. R133-1 à R133-4)](#184)
-        - [CHAPITRE IV : Contrôle de la sécurité sociale (art. D134-6 à R134-23)](#185)
-          - [Section 1 : Le contrôle de la Cour des comptes et le comité de pilotage (art. D134-6 à R134-5)](#186)
-          - [Section 2 : Composition et compétence des comités d'examen des comptes. (art. D134-9 à R134-8)](#187)
-          - [Section 3 : Les attributions des comités d'examen des comptes. (art. D134-15 à R134-14)](#188)
-          - [Section 4 : Les contrôles des comptes et de la gestion. (art. D134-17 à D134-20)](#189)
-          - [Section 5 : Les suites données aux contrôles par la Cour des comptes. (art. D134-24 à R134-23)](#190)
-        - [CHAPITRE V : Communication des observations (art. R135-1 à R135-4)](#191)
-        - [CHAPITRE VI : Rapport public (art. R136-1 à R136-3)](#192)
-      - [TITRE IV : Procédure (art. R141-1 à D145-3)](#193)
-        - [CHAPITRE Ier : Règles générales de procédure (art. R141-1 à R141-13)](#194)
-          - [Section 1 : Règles générales de procédure. (art. R141-1 à R141-8)](#195)
-          - [Section 2 : Règles propres à l'audience publique. (art. R141-9 à R141-13)](#196)
-        - [CHAPITRE II : Règles particulières concernant le contrôle des comptes d'emploi des organismes faisant appel à la générosité publique (art. R142-1 à R142-3)](#197)
-        - [CHAPITRE II :  Dispositions relatives aux activités juridictionnelles (art. R142-2)](#198)
-          - [Section 1 : Dispositions relatives au jugement des comptes des comptables patents (art. R142-2)](#199)
-        - [CHAPITRE III : Voies de recours et révision (art. R143-1 à R143-3)](#200)
-        - [Chapitre IV : Notification des arrêts. (art. D144-1 à D144-6)](#201)
-        - [CHAPITRE V : Dispositions diverses (art. D145-1 à D145-3)](#202)
-    - [LIVRE II : Les chambres régionales et territoriales des comptes (art. R211-1 à R263-49)](#203)
-      - [PREMIÈRE PARTIE : Les chambres régionales des comptes (art. R211-1 à D247-2)](#204)
-        - [TITRE Ier : Missions et organisation (art. R211-1 à R212-54)](#205)
-          - [CHAPITRE Ier : Missions (art. R211-1 à R211-3)](#206)
-          - [CHAPITRE II : Organisation (art. R*212-2-1 à R212-54)](#207)
-            - [Section 1 : Organisation des juridictions (art. R*212-2-1 à R212-33)](#208)
-              - [Sous-section 1 : Dispositions générales (art. R*212-2-1 à R212-28)](#209)
-                - [Paragraphe 1 : Le siège, la désignation et la gestion des chambres (art. R*212-2-1 à R212-4)](#210)
-                - [Paragraphe 2 : Les sections (art. R212-5 à R212-6)](#211)
-                - [Paragraphe 3 : Le président (art. R*212-7-1 à R212-8-1)](#212)
-                - [Paragraphe 4 : Le président de section (art. R212-9 à R212-12-2)](#213)
-                - [Paragraphe 5 : Les rapporteurs auprès des chambres (art. R212-13)](#214)
-                - [Paragraphe 6 : Prestation de serment des magistrats (art. R212-14)](#215)
-                - [Paragraphe 7 : Le ministère public (art. R212-15 à R212-22)](#216)
-                - [Paragraphe 8 : Le secrétaire général (art. R212-23 à R212-25)](#217)
-                - [Paragraphe 9 : Le greffe (art. R212-26 à R212-28)](#218)
-              - [Sous-section 2 : Dispositions particulières aux régions d'outre-mer (art. R212-29)](#219)
-              - [Sous-section 4 : Fonctionnement des chambres (art. R212-30 à R212-33)](#220)
-            - [Section 2 : Le Conseil supérieur des chambres régionales des comptes (art. R212-34 à R212-54)](#221)
-              - [Sous-section 1 : Désignation des membres du Conseil supérieur des chambres régionales des comptes (art. R212-34 à R212-51)](#222)
-              - [Sous-section 2 : Fonctionnement du Conseil supérieur des chambres régionales des comptes (art. R212-52 à R212-54)](#223)
-        - [TITRE II : Dispositions statutaires (art. R221-1 à R227-2)](#224)
-          - [CHAPITRE Ier : Nominations (art. R221-1 à R221-15)](#225)
-          - [CHAPITRE II : Obligations et incompatibilités (art. R222-1 à R222-6)](#226)
-          - [CHAPITRE III : Discipline (art. R223-1 à R223-8)](#227)
-          - [CHAPITRE IV : Avancement (art. R224-1 à R224-8)](#228)
-          - [CHAPITRE V : Evaluation et notation (art. R225-1 à R225-2)](#229)
-          - [CHAPITRE VI : Positions des magistrats (art. R226-1 à R226-8)](#230)
-            - [Section 1 : Mobilité (art. R226-1 à R226-4)](#231)
-            - [Section 2 : Détachement (art. R226-5 à R226-6)](#232)
-            - [Section 3 : Disponibilité (art. R226-7)](#233)
-            - [Section 4 : Délégation dans les fonctions du ministère public (art. R226-8)](#234)
-          - [CHAPITRE VII : Emploi de président de chambre régionale et territoriale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France (art. R227-1 à R227-2)](#235)
-        - [TITRE III : Compétences et attributions (art. R231-1 à R235-1)](#236)
-          - [CHAPITRE Ier : Compétences juridictionnelles (art. R231-1 à R231-33)](#237)
-            - [Section 1 : Jugement des comptes (art. R231-1 à R231-17)](#238)
-              - [Sous-section 1 : Jugement des comptes des comptables patents (art. R231-2 à R231-13)](#239)
-              - [Sous-section 2 : Jugement et apurement des comptes des comptables de fait (art. R231-14 à R231-17)](#240)
-            - [Section 2 : Contrôle de l'apurement administratif des comptes (art. D231-18 à D231-31)](#241)
-            - [Section 3 : Condamnation des comptables à l'amende (art. R231-32 à R231-33)](#242)
-          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-1 à R232-6)](#243)
-            - [Section 1 : Dispositions communes aux collectivités territoriales et à leurs établissements publics (art. R232-1)](#244)
-            - [Section 2 : Dispositions particulières aux syndicats de communes (art. R232-2)](#245)
-            - [Section 3 : Des établissements publics locaux d'enseignement (art. R232-3 à R232-5)](#246)
-            - [Section 4 : Des établissements publics de santé (art. R232-6)](#247)
-          - [CHAPITRE IV : Contrôle de certaines conventions (art. R234-1 à R234-2)](#248)
-          - [CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales (art. R235-1)](#249)
-        - [TITRE IV : Procédure (art. R241-1 à D247-2)](#250)
-          - [CHAPITRE Ier : Règles générales de procédure (art. R241-1 à R241-31)](#251)
-          - [CHAPITRE II : Contrôle budgétaire (art. R242-1 à R242-3)](#252)
-          - [CHAPITRE III : Voies de recours (art. R243-1 à R243-14)](#253)
-          - [CHAPITRE IV : Apurement administratif et voies de recours devant les chambres régionales des comptes (art. D244-1 à D244-5)](#254)
-          - [CHAPITRE V : Règles propres à l'audience publique. (art. R245-1 à R245-5)](#255)
-          - [CHAPITRE VI : Notification des jugements. (art. D246-1 à D246-8)](#256)
-          - [CHAPITRE VII : Dispositions diverses (art. D247-1 à D247-2)](#257)
-      - [DEUXIÈME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. R261-1 à R263-49)](#258)
-        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie (art. R261-1 à R263-49)](#259)
-          - [CHAPITRE Ier : Du rapport public de la Cour des comptes (art. R261-1)](#260)
-          - [CHAPITRE II : De la chambre territoriale des comptes (art. R262-1 à D262-104)](#261)
-            - [Section préliminaire : Siège (art. R262-1)](#262)
-            - [Section 1 : Missions (art. R262-2 à R262-4)](#263)
-            - [Section 2 : Organisation (art. R262-5 à R262-33)](#264)
-              - [Sous-section 1 : Organisation de la juridiction (art. R262-5 à R262-27)](#265)
-                - [Paragraphe 1 : Le président (art. R262-7 à R262-8)](#266)
-                - [Paragraphe 2 : Le président de section (art. R262-9 à R262-12)](#267)
-                - [Paragraphe 3 : Les rapporteurs auprès de la chambre (art. R262-13)](#268)
-                - [Paragraphe 4 : Prestation de serment des magistrats (art. R262-14)](#269)
-                - [Paragraphe 5 : Le ministère public (art. R262-15 à R262-21)](#270)
-                - [Paragraphe 6 : Le secrétaire général (art. R262-22 à R262-24)](#271)
-                - [Paragraphe 7 : Le greffe (art. R262-25 à R262-27)](#272)
-              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes (art. R262-28)](#273)
-              - [Sous-section 3 : Fonctionnement de la chambre (art. R262-29 à R262-33)](#274)
-            - [Section 3 : Dispositions statutaires (art. R262-34)](#275)
-            - [Section 4 : Compétences et attributions juridictionnelles (art. R262-35 à R262-54)](#276)
-              - [Sous-section 1 : Jugement des comptes (art. R262-35 à R262-51)](#277)
-                - [Paragraphe 1 : Jugement des comptes des comptables patents (art. R262-36 à R262-47)](#278)
-                - [Paragraphe 2 : Jugement et apurement des comptes des comptables de fait (art. R262-48 à R262-51)](#279)
-              - [Sous-section 2 : Contrôle de l'apurement administratif des comptes (art. R262-52)](#280)
-              - [Sous-section 3 : Condamnation des comptables à l'amende (art. R262-53 à R262-54)](#281)
-            - [Section 4 bis : Contrôle de certaines conventions (art. R262-54-1 à R262-54-2)](#282)
-            - [Section 5 : Contrôle des actes de sociétés d'économie mixte locales (art. R262-55)](#283)
-            - [Section 7 : Voies de recours (art. R262-83 à R262-96)](#284)
-            - [Section 6 : Procédure (art. R262-56 à R262-82)](#285)
-            - [Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes. (art. D262-97)](#286)
-            - [Section 10 : Notification des jugements (art. D262-103)](#287)
-            - [Section 9 : Règles propres au prononcé des amendes (art. R262-98 à R262-102)](#288)
-            - [Section 11 : Dispositions diverses (art. D262-104)](#289)
-          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. R263-1 à R263-49)](#290)
-            - [Section 1 : Des provinces et de la Nouvelle-Calédonie (art. R263-1 à R263-17)](#291)
-              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-1 à R263-3)](#292)
-              - [Paragraphe 2 : Absence d'équilibre du budget (art. R263-4 à R263-8)](#293)
-              - [Paragraphe 3 : Dépense obligatoire (art. R263-9 à R263-17)](#294)
-            - [Section 2 : Des communes et établissements publics communaux et intercommunaux (art. R263-18 à R263-46)](#295)
-              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-18 à R263-20)](#296)
-              - [Paragraphe 2 : Absence d'équilibre réel du budget (art. R263-21 à R263-27)](#297)
-              - [Paragraphe 3 : Absence de transmission ou déficit du compte administratif (art. R263-28 à R263-33)](#298)
-              - [Paragraphe 4 : Dépense obligatoire (art. R263-34 à R263-46)](#299)
-            - [Section 3 : Dispositions communes (art. R263-47 à R263-49)](#300)
-    - [LIVRE III : Les institutions associées à la Cour des comptes (art. R311-1 à R350-5)](#301)
-      - [TITRE Ier : La Cour de discipline budgétaire et financière (art. R311-1 à R314-3)](#302)
-        - [CHAPITRE Ier : Organisation (art. R311-1 à R311-5)](#303)
-        - [CHAPITRE IV : Procédure devant la cour (art. R314-1 à R314-3)](#304)
-      - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#305)
-      - [TITRE V : Le conseil des prélèvements obligatoires (art. D350-6 à R350-5)](#306)
+        - [CHAPITRE VI : Discipline (art. R126-1 à R126-8)](#173)
+      - [TITRE III : Compétences et attributions (art. R131-1 à R136-3)](#174)
+        - [CHAPITRE Ier : Compétences juridictionnelles (art. R131-1 à R131-46)](#175)
+          - [Section 1 : Jugement des comptes (art. R131-2 à R131-13)](#176)
+            - [Sous-section 1 : Jugement des comptes des comptables patents (art. R131-2 à D131-11)](#177)
+              - [Paragraphe 1  : Dispositions générales. (art. R131-2 à R131-6)](#178)
+              - [Paragraphe 2 : Dispositions concernant les receveurs des administrations financières. (art. D131-8 à D131-11)](#179)
+            - [Sous-section 2 : Jugement des gestions de fait. (art. R131-12 à R131-13)](#180)
+          - [Section 2 : Contrôle de la Caisse des dépôts et consignations (art. R131-14 à R131-25)](#181)
+          - [Section 3 : Contrôle de l'apurement administratif des comptes (art. D131-26 à D131-36)](#182)
+          - [Section 4 : Condamnation des comptables à l'amende pour retard (art. D131-37 à D131-40)](#183)
+          - [Section 5 : Jugement des appels (art. R131-41 à R131-46)](#184)
+        - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. R133-1 à R133-4)](#185)
+        - [CHAPITRE IV : Contrôle de la sécurité sociale (art. D134-6 à R134-23)](#186)
+          - [Section 1 : Le contrôle de la Cour des comptes et le comité de pilotage (art. D134-6 à R134-5)](#187)
+          - [Section 2 : Composition et compétence des comités d'examen des comptes. (art. D134-9 à R134-8)](#188)
+          - [Section 3 : Les attributions des comités d'examen des comptes. (art. D134-15 à R134-14)](#189)
+          - [Section 4 : Les contrôles des comptes et de la gestion. (art. D134-17 à D134-20)](#190)
+          - [Section 5 : Les suites données aux contrôles par la Cour des comptes. (art. D134-24 à R134-23)](#191)
+        - [CHAPITRE V : Communication des observations (art. R135-1 à R135-4)](#192)
+        - [CHAPITRE VI : Rapport public (art. R136-1 à R136-3)](#193)
+      - [TITRE IV : Procédure (art. R141-1 à D145-3)](#194)
+        - [CHAPITRE Ier : Règles générales de procédure (art. R141-1 à R141-13)](#195)
+          - [Section 1 : Règles générales de procédure. (art. R141-1 à R141-8)](#196)
+          - [Section 2 : Règles propres à l'audience publique. (art. R141-9 à R141-13)](#197)
+        - [CHAPITRE II : Règles particulières concernant le contrôle des comptes d'emploi des organismes faisant appel à la générosité publique (art. R142-1 à R142-3)](#198)
+        - [CHAPITRE II :  Dispositions relatives aux activités juridictionnelles (art. R142-2)](#199)
+          - [Section 1 : Dispositions relatives au jugement des comptes des comptables patents (art. R142-2)](#200)
+        - [CHAPITRE III : Voies de recours et révision (art. R143-1 à R143-3)](#201)
+        - [Chapitre IV : Notification des arrêts. (art. D144-1 à D144-6)](#202)
+        - [CHAPITRE V : Dispositions diverses (art. D145-1 à D145-3)](#203)
+    - [LIVRE II : Les chambres régionales et territoriales des comptes (art. R211-1 à R263-49)](#204)
+      - [PREMIÈRE PARTIE : Les chambres régionales des comptes (art. R211-1 à D247-2)](#205)
+        - [TITRE Ier : Missions et organisation (art. R211-1 à R212-54)](#206)
+          - [CHAPITRE Ier : Missions (art. R211-1 à R211-3)](#207)
+          - [CHAPITRE II : Organisation (art. R*212-2-1 à R212-54)](#208)
+            - [Section 1 : Organisation des juridictions (art. R*212-2-1 à R212-33)](#209)
+              - [Sous-section 1 : Dispositions générales (art. R*212-2-1 à R212-28)](#210)
+                - [Paragraphe 1 : Le siège, la désignation et la gestion des chambres (art. R*212-2-1 à R212-4)](#211)
+                - [Paragraphe 2 : Les sections (art. R212-5 à R212-6)](#212)
+                - [Paragraphe 3 : Le président (art. R*212-7-1 à R212-8-1)](#213)
+                - [Paragraphe 4 : Le président de section (art. R212-9 à R212-12-2)](#214)
+                - [Paragraphe 5 : Les rapporteurs auprès des chambres (art. R212-13)](#215)
+                - [Paragraphe 6 : Prestation de serment des magistrats (art. R212-14)](#216)
+                - [Paragraphe 7 : Le ministère public (art. R212-15 à R212-22)](#217)
+                - [Paragraphe 8 : Le secrétaire général (art. R212-23 à R212-25)](#218)
+                - [Paragraphe 9 : Le greffe (art. R212-26 à R212-28)](#219)
+              - [Sous-section 2 : Dispositions particulières aux régions d'outre-mer (art. R212-29)](#220)
+              - [Sous-section 4 : Fonctionnement des chambres (art. R212-30 à R212-33)](#221)
+            - [Section 2 : Le Conseil supérieur des chambres régionales des comptes (art. R212-34 à R212-54)](#222)
+              - [Sous-section 1 : Désignation des membres du Conseil supérieur des chambres régionales des comptes (art. R212-34 à R212-51)](#223)
+              - [Sous-section 2 : Fonctionnement du Conseil supérieur des chambres régionales des comptes (art. R212-52 à R212-54)](#224)
+        - [TITRE II : Dispositions statutaires (art. R221-1 à R227-2)](#225)
+          - [CHAPITRE Ier : Nominations (art. R221-1 à R221-15)](#226)
+          - [CHAPITRE II : Obligations et incompatibilités (art. R222-1 à R222-6)](#227)
+          - [CHAPITRE III : Discipline (art. R223-1 à R223-8)](#228)
+          - [CHAPITRE IV : Avancement (art. R224-1 à R224-8)](#229)
+          - [CHAPITRE V : Evaluation et notation (art. R225-1 à R225-2)](#230)
+          - [CHAPITRE VI : Positions des magistrats (art. R226-1 à R226-8)](#231)
+            - [Section 1 : Mobilité (art. R226-1 à R226-4)](#232)
+            - [Section 2 : Détachement (art. R226-5 à R226-6)](#233)
+            - [Section 3 : Disponibilité (art. R226-7)](#234)
+            - [Section 4 : Délégation dans les fonctions du ministère public (art. R226-8)](#235)
+          - [CHAPITRE VII : Emploi de président de chambre régionale et territoriale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France (art. R227-1 à R227-2)](#236)
+        - [TITRE III : Compétences et attributions (art. R231-1 à R235-1)](#237)
+          - [CHAPITRE Ier : Compétences juridictionnelles (art. R231-1 à R231-33)](#238)
+            - [Section 1 : Jugement des comptes (art. R231-1 à R231-17)](#239)
+              - [Sous-section 1 : Jugement des comptes des comptables patents (art. R231-2 à R231-13)](#240)
+              - [Sous-section 2 : Jugement et apurement des comptes des comptables de fait (art. R231-14 à R231-17)](#241)
+            - [Section 2 : Contrôle de l'apurement administratif des comptes (art. D231-18 à D231-31)](#242)
+            - [Section 3 : Condamnation des comptables à l'amende (art. R231-32 à R231-33)](#243)
+          - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-1 à R232-6)](#244)
+            - [Section 1 : Dispositions communes aux collectivités territoriales et à leurs établissements publics (art. R232-1)](#245)
+            - [Section 2 : Dispositions particulières aux syndicats de communes (art. R232-2)](#246)
+            - [Section 3 : Des établissements publics locaux d'enseignement (art. R232-3 à R232-5)](#247)
+            - [Section 4 : Des établissements publics de santé (art. R232-6)](#248)
+          - [CHAPITRE IV : Contrôle de certaines conventions (art. R234-1 à R234-2)](#249)
+          - [CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales (art. R235-1)](#250)
+        - [TITRE IV : Procédure (art. R241-1 à D247-2)](#251)
+          - [CHAPITRE Ier : Règles générales de procédure (art. R241-1 à R241-31)](#252)
+          - [CHAPITRE II : Contrôle budgétaire (art. R242-1 à R242-3)](#253)
+          - [CHAPITRE III : Voies de recours (art. R243-1 à R243-14)](#254)
+          - [CHAPITRE IV : Apurement administratif et voies de recours devant les chambres régionales des comptes (art. D244-1 à D244-5)](#255)
+          - [CHAPITRE V : Règles propres à l'audience publique. (art. R245-1 à R245-5)](#256)
+          - [CHAPITRE VI : Notification des jugements. (art. D246-1 à D246-8)](#257)
+          - [CHAPITRE VII : Dispositions diverses (art. D247-1 à D247-2)](#258)
+      - [DEUXIÈME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. R261-1 à R263-49)](#259)
+        - [TITRE VI : Dispositions applicables en Nouvelle-Calédonie (art. R261-1 à R263-49)](#260)
+          - [CHAPITRE Ier : Du rapport public de la Cour des comptes (art. R261-1)](#261)
+          - [CHAPITRE II : De la chambre territoriale des comptes (art. R262-1 à D262-104)](#262)
+            - [Section préliminaire : Siège (art. R262-1)](#263)
+            - [Section 1 : Missions (art. R262-2 à R262-4)](#264)
+            - [Section 2 : Organisation (art. R262-5 à R262-33)](#265)
+              - [Sous-section 1 : Organisation de la juridiction (art. R262-5 à R262-27)](#266)
+                - [Paragraphe 1 : Le président (art. R262-7 à R262-8)](#267)
+                - [Paragraphe 2 : Le président de section (art. R262-9 à R262-12)](#268)
+                - [Paragraphe 3 : Les rapporteurs auprès de la chambre (art. R262-13)](#269)
+                - [Paragraphe 4 : Prestation de serment des magistrats (art. R262-14)](#270)
+                - [Paragraphe 5 : Le ministère public (art. R262-15 à R262-21)](#271)
+                - [Paragraphe 6 : Le secrétaire général (art. R262-22 à R262-24)](#272)
+                - [Paragraphe 7 : Le greffe (art. R262-25 à R262-27)](#273)
+              - [Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes (art. R262-28)](#274)
+              - [Sous-section 3 : Fonctionnement de la chambre (art. R262-29 à R262-33)](#275)
+            - [Section 3 : Dispositions statutaires (art. R262-34)](#276)
+            - [Section 4 : Compétences et attributions juridictionnelles (art. R262-35 à R262-54)](#277)
+              - [Sous-section 1 : Jugement des comptes (art. R262-35 à R262-51)](#278)
+                - [Paragraphe 1 : Jugement des comptes des comptables patents (art. R262-36 à R262-47)](#279)
+                - [Paragraphe 2 : Jugement et apurement des comptes des comptables de fait (art. R262-48 à R262-51)](#280)
+              - [Sous-section 2 : Contrôle de l'apurement administratif des comptes (art. R262-52)](#281)
+              - [Sous-section 3 : Condamnation des comptables à l'amende (art. R262-53 à R262-54)](#282)
+            - [Section 4 bis : Contrôle de certaines conventions (art. R262-54-1 à R262-54-2)](#283)
+            - [Section 5 : Contrôle des actes de sociétés d'économie mixte locales (art. R262-55)](#284)
+            - [Section 7 : Voies de recours (art. R262-83 à R262-96)](#285)
+            - [Section 6 : Procédure (art. R262-56 à R262-82)](#286)
+            - [Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes. (art. D262-97)](#287)
+            - [Section 10 : Notification des jugements (art. D262-103)](#288)
+            - [Section 9 : Règles propres au prononcé des amendes (art. R262-98 à R262-102)](#289)
+            - [Section 11 : Dispositions diverses (art. D262-104)](#290)
+          - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets (art. R263-1 à R263-49)](#291)
+            - [Section 1 : Des provinces et de la Nouvelle-Calédonie (art. R263-1 à R263-17)](#292)
+              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-1 à R263-3)](#293)
+              - [Paragraphe 2 : Absence d'équilibre du budget (art. R263-4 à R263-8)](#294)
+              - [Paragraphe 3 : Dépense obligatoire (art. R263-9 à R263-17)](#295)
+            - [Section 2 : Des communes et établissements publics communaux et intercommunaux (art. R263-18 à R263-46)](#296)
+              - [Paragraphe 1 : Absence d'adoption ou de transmission du budget (art. R263-18 à R263-20)](#297)
+              - [Paragraphe 2 : Absence d'équilibre réel du budget (art. R263-21 à R263-27)](#298)
+              - [Paragraphe 3 : Absence de transmission ou déficit du compte administratif (art. R263-28 à R263-33)](#299)
+              - [Paragraphe 4 : Dépense obligatoire (art. R263-34 à R263-46)](#300)
+            - [Section 3 : Dispositions communes (art. R263-47 à R263-49)](#301)
+    - [LIVRE III : Les institutions associées à la Cour des comptes (art. R311-1 à R350-5)](#302)
+      - [TITRE Ier : La Cour de discipline budgétaire et financière (art. R311-1 à R314-4)](#303)
+        - [CHAPITRE Ier : Organisation (art. R311-1 à R311-5)](#304)
+        - [CHAPITRE IV : Procédure devant la cour (art. R314-1 à R314-4)](#305)
+      - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#306)
+      - [TITRE V : Le conseil des prélèvements obligatoires (art. D350-6 à R350-5)](#307)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : La Cour des comptes<a id=2></a>
@@ -16684,6 +16685,30 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R*112-1 (V)
 
 
+###### Article R*112-6
+
+Le premier président est assisté par un secrétaire général et des secrétaires généraux adjoints désignés par décret, sur sa
+proposition. Le secrétaire général et les secrétaires généraux adjoints sont choisis parmi les conseillers maîtres ou les
+conseillers référendaires.
+
+Le premier président peut aussi désigner parmi les magistrats de la Cour un ou plusieurs chargés de mission.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-199 1985-02-11, art 3, 2ème alinéa
+  - Décret n°85-199 du 11 février 1985 - art. 3 (M)
+
+_Codifié par_:
+
+  - Décret n°2000-337 2000-04-14
+
+_Modifié par_:
+
+  - Décret n°2007-542 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+
 ###### Article R*112-10
 
 Les avocats généraux sont désignés par décret parmi les conseillers maîtres ou les conseillers référendaires, après avis du
@@ -16721,7 +16746,8 @@ _Cité par_:
 
 ###### Article R112-2
 
-Le procureur général, qui exerce le ministère public, est assisté d'un premier avocat général et d'avocats généraux.
+Le procureur général, qui exerce le ministère public, est assisté d'un premier avocat général, d'avocats généraux et de
+chargés de mission.
 
 **Liens relatifs à cet article**
 
@@ -16733,9 +16759,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -16750,7 +16776,8 @@ l'organisation générale des travaux de la Cour, il répartit les attributions 
 programme annuel des travaux au vu des propositions des présidents de chambre.
 
 Il préside les audiences solennelles, la chambre du conseil, les chambres réunies, la conférence des présidents et le comité
-du rapport public et des programmes. Il peut présider les séances de chambre.
+du rapport public et des programmes. Il peut présider les séances de chambre, les formations interchambres et les chambres
+réunies statuant en formation restreinte.
 
 Il signe les arrêts et décisions rendus sous sa présidence.
 
@@ -16768,7 +16795,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1262 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+  - Décret n°2007-543 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -16784,7 +16811,9 @@ _Cité par_:
 Le premier président administre les services de la Cour et assure la gestion des magistrats et des personnels affectés à
 cette juridiction.
 
-Il ordonnance les dépenses de la Cour des comptes.
+Le premier président est ordonnateur principal des dépenses et des recettes de la Cour des comptes.
+
+Il conclut les marchés ainsi que les contrats relatifs à la gestion de la Cour des comptes.
 
 Dans le cadre de ces attributions, il peut déléguer sa signature, par arrêté, dans les conditions définies à l'article R.
 112-7 ainsi qu'à des fonctionnaires appartenant à un corps de catégorie A et à des agents publics non titulaires, de même
@@ -16802,7 +16831,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 2 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 3 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -16818,7 +16847,9 @@ _Cite_:
 
 ###### Article R112-5
 
-En cas d'absence ou d'empêchement, le premier président est remplacé par le plus ancien des présidents de chambre.
+En cas d'absence, d'empêchement ou de vacance, le premier président est remplacé par le magistrat le plus ancien dans le
+grade de président de chambre, à l'exception des magistrats mentionnés à l'article 1er de la loi n° 86-1304 du 23 décembre
+1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16827,37 +16858,17 @@ _Anciens textes_:
   - Décret n°85-199 1985-02-11, art 15, 1ère proposition
   - Décret n°85-199 du 11 février 1985 - art. 15 (Ab)
 
+_Cite_:
+
+  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
+
 _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R112-6
-
-Le premier président est assisté par un secrétaire général et des secrétaires généraux adjoints désignés par décret, sur sa
-proposition. Le secrétaire général est choisi parmi les conseillers maîtres ou les conseillers référendaires. Les secrétaires
-généraux adjoints sont choisis parmi les conseillers référendaires.
-
-Le premier président peut aussi désigner parmi les magistrats de la Cour un ou plusieurs chargés de mission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-199 1985-02-11, art 3, 2ème alinéa
-  - Décret n°85-199 du 11 février 1985 - art. 3 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-337 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 4 () JORF 13 avril 2007
 
 
 ###### Article R112-7
@@ -16901,23 +16912,25 @@ _Cité par_:
 
 Le procureur général exerce le ministère public par voie de réquisitions ou de conclusions.
 
+Il requiert l'installation des magistrats dans leurs fonctions en audience solennelle.
+
 Il veille à la production des comptes dans les délais réglementaires et, en cas de retard, requiert l'application de l'amende
 prévue par la loi.
 
 Il défère à la Cour des comptes les opérations qu'il présume constitutives de gestion de fait, à son initiative ou à la
 demande du ministre chargé des finances, des ministres intéressés, des représentants de l'Etat dans les régions ou les
-départements, des procureurs de la République, des trésoriers-payeurs généraux et des comptables principaux du Trésor à
-l'étranger, ou au vu des constatations faites lors de la vérification des comptes, sans préjudice du droit de la Cour de s'en
-saisir d'office dans ce dernier cas. Il requiert en cas de besoin l'application de l'amende pour immixtion dans les fonctions
-de comptable public.
+départements, des procureurs de la République, des trésoriers-payeurs généraux et des autres comptables principaux, ou au vu
+des constatations faites lors de la vérification des comptes, sans préjudice du droit de la Cour de s'en saisir d'office dans
+ce dernier cas. Il requiert en cas de besoin l'application de l'amende pour immixtion dans les fonctions de comptable public.
 
-Il adresse à la Cour des comptes les appels formés contre les jugements des chambres régionales des comptes, sur transmission
-du ministère public près lesdites chambres.
+Il adresse à la Cour des comptes les appels formés contre les jugements des chambres régionales et territoriales des comptes,
+sur transmission du ministère public près lesdites chambres.
 
 Il présente ses conclusions écrites sur les rapports qui lui sont communiqués avec pièces à l'appui. Lui sont obligatoirement
 communiqués les rapports concernant les quitus, les débets, les amendes, les décisions sur la compétence, les comptabilités
-de fait, les pourvois et les révisions ainsi que les appels des jugements rendus par les chambres régionales des comptes. Les
-autres rapports lui sont communiqués soit sur sa demande, soit sur décision des présidents de chambre.
+de fait, les pourvois et les révisions ainsi que les appels des jugements rendus par les chambres régionales et territoriales
+des comptes. Les autres rapports lui sont communiqués soit sur sa demande, soit sur décision des présidents de chambre, de
+formations interchambres ou de formations communes aux juridictions.
 
 Il peut assister aux séances des chambres et des sections et y présenter des observations orales. Il ne prend pas part au
 délibéré.
@@ -16934,7 +16947,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 4 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 5 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -16947,11 +16960,13 @@ Le procureur général surveille l'exécution des travaux de la Cour.
 
 Il est présent ou représenté dans les commissions ou comités constitués au sein de la Cour.
 
-Il peut informer les autorités compétentes des observations qui lui sont renvoyées par la Cour. Il communique avec les
-administrations.
+Il communique avec les administrations.
 
-Il oriente et harmonise, s'il y a lieu par recommandations écrites, l'action du ministère public près les chambres régionales
-des comptes.
+Il assure les échanges d'informations entre la Cour des comptes et les autorités judiciaires et autres autorités chargées
+d'un pouvoir de sanction.
+
+Il oriente et coordonne, s'il y a lieu par recommandations écrites, l'action des commissaires du Gouvernement près les
+chambres régionales et territoriales des comptes.
 
 **Liens relatifs à cet article**
 
@@ -16963,13 +16978,29 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 6 () JORF 13 avril 2007
 
 _Cité par_:
 
   - Code des juridictions financières - art. R112-10-1 (T)
+
+
+###### Article R112-10-1
+
+Les chargés de mission sont désignés parmi les magistrats des juridictions financières et parmi les rapporteurs extérieurs en
+fonction à la Cour ainsi que les magistrats de l'ordre judiciaire, sur proposition du procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-337 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 7 () JORF 13 avril 2007
 
 
 ###### Article R112-11
@@ -16996,8 +17027,8 @@ _Créé par_:
 
 ###### Article R112-12
 
-En cas d'absence ou d'empêchement, le procureur général est remplacé par le premier avocat général ou à défaut par un avocat
-général.
+En cas d'absence, d'empêchement ou de vacance, le procureur général est remplacé par le premier avocat général ou, à défaut,
+par l'avocat général le plus ancien présent à la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -17010,9 +17041,17 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 8 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 9
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R112-14-2 (V)
 
 
 ###### Article R112-12-1
@@ -17169,8 +17208,9 @@ _Nouveaux textes_:
 
 ###### Article R112-15
 
-La Cour des comptes se réunit soit en audience solennelle, soit en chambre du conseil, soit toutes chambres réunies, soit par
-chambre ou section de chambre, soit en formation interchambres dans les conditions prévues à l'article R. 112-21.
+La Cour des comptes se réunit soit en audience solennelle, soit en chambre du conseil, soit toutes chambres réunies statuant
+en formation plénière ou en formation restreinte, soit par chambre ou section de chambre, soit en formation interchambres
+dans les conditions prévues à l'article R. 112-21.
 
 **Liens relatifs à cet article**
 
@@ -17182,9 +17222,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 9 () JORF 13 avril 2007
 
 _Cite_:
 
@@ -17238,15 +17278,16 @@ extraordinaire assistent à la séance avec voix délibérative.
 
 Le procureur général assiste aux séances de la chambre du conseil et participe aux débats.
 
-La chambre du conseil est saisie des projets de rapports publics, de rapport sur le projet de loi de règlement du budget, de
-déclaration générale de conformité, de rapport sur l'application des lois de financement de la sécurité sociale et en arrête
-le texte.
+La chambre du conseil est saisie des projets de rapports publics, de rapports prévus aux articles LO. 132-2-1 et LO. 132-3
+ainsi qu'aux 3°, 4° et 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances et
+en arrête le texte.
 
 Elle délibère également sur toutes affaires ou questions qui lui sont soumises par le premier président, soit de son propre
 chef, soit sur proposition du procureur général.
 
-Le conseiller maître rapporteur peut être assisté de conseillers référendaires ou auditeurs, qui participent aux débats avec
-voix consultative.
+Le rapporteur est soit le rapporteur général du comité du rapport public et des programmes, soit un conseiller maître désigné
+par le premier président. Le rapporteur peut être assisté de conseillers référendaires, d'auditeurs ou de rapporteurs
+extérieurs à temps plein qui participent aux débats avec voix consultative.
 
 Le secrétariat de la chambre du conseil est assuré par le secrétaire général de la Cour des comptes.
 
@@ -17260,9 +17301,16 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Loi n°2001-692 du 1 août 2001 - art. 58 (M)
+  - Code des juridictions financières - art. L132-3 (Ab)
+  - Code des juridictions financières - art. LO132-2-1 (V)
+  - Code des juridictions financières L111-2 à L111-8, LO132-2-1, LO132-3
+
+_Modifié par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 10 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -17272,34 +17320,46 @@ _Cité par_:
   - Code des juridictions financières - art. R120-5 (V)
   - Code des juridictions financières - art. R136-1 (T)
 
-_Cite_:
-
-  - Code des juridictions financières L111-2 à L111-8
-
 
 ###### Article R112-18
 
-La Cour des comptes, toutes chambres réunies, se compose du premier président, des présidents de chambre et de deux
-conseillers maîtres par chambre, élus par le président et les conseillers maîtres de chaque chambre. Chaque chambre élit, en
-outre, un suppléant. La Cour, toutes chambres réunies, est constituée, au début de chaque année judiciaire, par arrêté du
+I. - La Cour des comptes, statuant toutes chambres réunies, comporte une formation plénière et une formation restreinte.
+Elles sont constituées, au début de chaque année, par arrêté du premier président.
+
+Un président de chambre ou le procureur général peuvent saisir le premier président en vue de la réunion de chambres réunies
+en formation plénière ou en formation restreinte sans que le premier président soit tenu d'y procéder.
+
+Les chambres réunies de la Cour des comptes statuant en formation plénière se composent du premier président, des magistrats
+exerçant la présidence d'une chambre de la cour et d'un conseiller maître par chambre élu par le président et les conseillers
+maîtres de chaque chambre. Chaque chambre élit deux suppléants.
+
+Les chambres réunies statuant en formation plénière ne peuvent valablement délibérer que si huit au moins de leurs membres
+sont présents.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Les chambres réunies de la Cour des comptes statuant en formation restreinte se composent d'un magistrat exerçant la
+présidence d'une chambre de la cour qui les préside et est désigné par le premier président ainsi que des conseillers maîtres
+membres, titulaires ou suppléants, de la formation plénière. En cas d'absence ou d'empêchement, le président de la formation
+restreinte est suppléé par un magistrat exerçant ou ayant exercé la présidence d'une chambre de la cour désigné par le
 premier président.
 
-Elle juge les comptes et délibère sur les autres affaires qui lui sont renvoyées par le premier président sur proposition
-d'une chambre ou sur réquisitoire du procureur général.
+Les chambres réunies en formation restreinte ne peuvent valablement délibérer que si cinq au moins de leurs membres sont
+présents.
 
-Elle statue sur les affaires renvoyées devant la Cour après cassation.
+En cas de partage des voix, celle du président est prépondérante.
 
-Elle formule un avis sur les questions de procédure ou de jurisprudence dont elle est saisie par le premier président de sa
-propre initiative ou dans les conditions prévues au deuxième alinéa ci-dessus.
+Le premier président désigne le rapporteur parmi les magistrats de la Cour des comptes et le contre-rapporteur parmi les
+membres des chambres réunies. Il désigne le greffier des chambres réunies.
 
-La Cour, siégeant toutes chambres réunies, ne peut statuer qu'à douze membres au moins.
+II. - Les chambres réunies statuant en formation plénière formulent un avis sur les questions de droit dont elles sont
+saisies par le premier président.
 
-Sous réserve des dispositions du quatrième alinéa de l'article R. 141-8, le magistrat rapporteur devant les chambres réunies
-a voix délibérative.
+Les chambres réunies statuant en formation restreinte jugent les affaires dont elles sont saisies par le premier président
+sur proposition d'une chambre ou sur réquisitoire du procureur général. Elles statuent sur les affaires renvoyées devant la
+cour après cassation.
 
-En cas de partage des voix, la voix du premier président est prépondérante.
-
-Le procureur général assiste aux séances et présente ses conclusions.
+Le premier président peut renvoyer des affaires relevant de la formation restreinte à la formation plénière qui les juge.
 
 **Liens relatifs à cet article**
 
@@ -17313,7 +17373,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 6 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 11 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -17321,10 +17381,6 @@ _Cité par_:
   - Code des juridictions financières - art. R112-11 (M)
   - Code des juridictions financières - art. R141-13 (M)
   - Code des juridictions financières - art. R141-15 (T)
-
-_Cite_:
-
-  - Code des juridictions financières - art. R141-8 (M)
 
 
 ###### Article R112-19
@@ -17412,15 +17468,13 @@ _Cite_:
 
 ###### Article R112-21
 
-Lorsqu'un contrôle soulève des questions relevant des attributions de plusieurs chambres, le premier président peut, par
-arrêté pris après avis du procureur général, l'attribuer à un groupe de magistrats et de rapporteurs appartenant aux chambres
-concernées. Cet arrêté désigne le magistrat chargé de diriger les travaux du groupe. Le rapport est présenté soit devant la
-chambre à laquelle appartient ce magistrat, soit devant une formation interchambres composée comme il est dit ci-après.
-
-Pour l'examen de rapports traitant de questions relevant des attributions de plusieurs chambres, le premier président peut
-constituer, à son initiative ou sur proposition du procureur général ou des présidents des chambres intéressées, une
-formation interchambres comprenant au moins deux conseillers maîtres de chacune de ces chambres, désignés par les présidents
-de chambre. L'arrêté désigne le président de la formation parmi les présidents de chambres intéressés, ainsi que le greffier.
+Lorsqu'une enquête ou un contrôle ressortit à la compétence de deux ou plusieurs chambres, le premier président, après avis
+du procureur général, constitue par arrêté, à son initiative ou sur proposition du procureur général ou des présidents de
+chambre intéressés, une formation interchambres comprenant au moins un conseiller maître ou un conseiller maître en service
+extraordinaire de chacune d'entre elles. Cet arrêté définit la compétence de la formation, fixe sa composition et nomme son
+président ainsi que son greffier. Les présidents de chambre concernés désignent les membres de la formation ainsi que les
+rapporteurs auxquels elle fait appel. Le président de la formation interchambres choisit parmi ces derniers le rapporteur
+général.
 
 **Liens relatifs à cet article**
 
@@ -17432,9 +17486,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 12 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -18115,6 +18169,28 @@ _Créé par_:
   - Décret n°2006-1261 du 11 octobre 2006 - art. 8 () JORF 17 octobre 2006
 
 
+###### Article R122-8
+
+L'attribution d'un emploi de conseiller maître à un magistrat de chambre régionale des comptes, en application du deuxième
+alinéa de l'article L. 122-2, est effectuée, dès lors que dix-sept emplois ont été pourvus au titre des promotions de
+conseillers référendaires prévues au premier alinéa du même article et des nominations au tour extérieur prévues au dernier
+alinéa du même article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-337 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 13 () JORF 13 avril 2007
+
+_Cite_:
+
+  - Code des juridictions financières - art. L122-2 (M)
+
+
 #### CHAPITRE III : Mobilité<a id=170></a>
 
 ###### Article R*123-1
@@ -18305,9 +18381,262 @@ _Cité par_:
   - Décret n°2002-1151 du 9 septembre 2002 - art. 3 (V)
 
 
-### TITRE III : Compétences et attributions<a id=173></a>
+#### CHAPITRE VI : Discipline<a id=173></a>
 
-#### CHAPITRE Ier : Compétences juridictionnelles<a id=174></a>
+###### Article R126-1
+
+Le conseil supérieur de la Cour des comptes est saisi des faits motivant la poursuite disciplinaire par un rapport émanant du
+président de la chambre d'affectation du magistrat intéressé.
+
+Si la procédure concerne un président de chambre ou un magistrat qui n'est pas affecté dans une chambre, le rapport émane du
+premier président.
+
+Si la procédure concerne un magistrat du ministère public, le rapport émane du premier président.
+
+Ce rapport doit indiquer les faits motivant la poursuite disciplinaire et les circonstances dans lesquelles ils ont été
+commis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Cité par_:
+
+  - Décret n°2017-1120 du 29 juin 2017 - art. 5 (V)
+  - Décret n°2017-1120 du 29 juin 2017 - art. 6 (V)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-1, v. 0.2 (V)
+
+
+###### Article R126-2
+
+Le magistrat est convoqué par le président du conseil supérieur de la Cour des comptes quinze jours au moins avant la date de
+la réunion, par lettre recommandée avec demande d'avis de réception.
+
+Ce conseil peut décider, à la majorité de ses membres, de renvoyer, à la demande du magistrat ou de son ou de ses défenseurs,
+l'examen de l'affaire à une nouvelle réunion. Un tel report n'est possible qu'une fois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-2, v. 0.1 (V)
+
+
+###### Article R126-3
+
+Lorsque le conseil supérieur de la Cour des comptes examine l'affaire au fond, son président informe les membres du conseil
+des conditions dans lesquelles le magistrat poursuivi et, le cas échéant, l'un de ses pairs et son ou ses défenseurs ont été
+mis en mesure d'exercer leur droit à communication intégrale du dossier individuel et des documents annexes.
+
+Le rapport établi par le rapporteur désigné par le président du conseil supérieur de la Cour des comptes ainsi que les
+observations écrites que peut présenter le magistrat en cause sont lus en séance.
+
+Le magistrat poursuivi peut citer des témoins. Le droit de citer des témoins appartient aussi à l'administration. Le conseil
+supérieur entend séparément les témoins cités par l'administration et ceux désignés par le magistrat en cause.
+
+Une confrontation des témoins ou une nouvelle audition d'un témoin peut être décidée par le président du conseil supérieur à
+la demande de l'un des membres du conseil ou du magistrat en cause ou de son ou ses défenseurs.
+
+Le magistrat en cause et, le cas échéant, son ou ses défenseurs peuvent, à tout moment de la procédure, demander au président
+du conseil supérieur d'intervenir afin de présenter des observations orales. Ils sont invités à présenter leurs dernières
+observations avant que le conseil supérieur commence à délibérer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-3 (V)
+
+
+###### Article R126-4
+
+Le président du conseil supérieur met aux voix la proposition de sanction la plus sévère parmi celles qui ont été exprimées
+soit par le rapporteur, soit au cours du délibéré. Si cette proposition ne recueille pas l'accord de la majorité des membres
+présents, le président met aux voix les autres sanctions par ordre décroissant de sévérité jusqu'à ce que l'une d'entre elles
+recueille la majorité des membres présents ; à défaut, aucune sanction n'est proposée.
+
+La proposition ayant recueilli l'accord de la majorité des membres présents est motivée et transmise par le président du
+conseil supérieur à l'autorité investie du pouvoir disciplinaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Cité par_:
+
+  - Décret n°2017-1120 du 29 juin 2017 - art. 7 (V)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-4 (V)
+
+
+###### Article R126-5
+
+Lorsque le magistrat fait l'objet de poursuites devant un tribunal répressif, le conseil supérieur de la Cour des comptes
+peut, à la majorité des membres appelés à délibérer, proposer de suspendre la procédure disciplinaire jusqu'à l'intervention
+de la décision du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 du 14 avril 2000
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-5 (V)
+
+
+###### Article R126-6
+
+Les frais de déplacement et de séjour des témoins cités par le magistrat en cause, ainsi que les frais de déplacement et de
+séjour de son ou de ses défenseurs ne sont pas pris en charge par l'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-6 (V)
+
+
+###### Article R126-7
+
+Toute mention au dossier du blâme infligé à un magistrat est effacée au bout de trois ans si aucune autre sanction n'est
+intervenue pendant cette période.
+
+Le magistrat frappé d'une sanction disciplinaire autre que l'avertissement ou le blâme, mais qui n'a pas été exclu du corps
+des magistrats de la Cour des comptes peut, après dix années de services effectifs à compter de la date de sanction
+disciplinaire, introduire auprès de l'autorité de nomination une demande tendant à ce qu'aucune trace de la sanction
+prononcée ne subsiste à son dossier.
+
+Si, par son comportement général, le magistrat a donné toute satisfaction depuis la sanction dont il a fait l'objet, il peut
+être fait droit à sa demande. Celle-ci est examinée comme en matière de sanction disciplinaire.
+
+Le dossier du magistrat doit alors être reconstitué dans sa nouvelle composition sous le contrôle du conseil supérieur.
+
+L'autorité investie du pouvoir de nomination statue sur proposition du conseil supérieur de la Cour des comptes, lequel se
+prononce notamment au vu du comportement général du magistrat depuis la sanction dont il a fait l'objet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-7 (V)
+
+
+###### Article R126-8
+
+Le décret n° 84-961 du 25 octobre 1984 relatif à la procédure disciplinaire concernant les fonctionnaires de l'Etat et le
+décret n° 82-451 du 28 mai 1982 relatif aux commissions administratives paritaires ne s'appliquent pas aux magistrats de la
+Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°82-451 du 28 mai 1982
+  - Décret n°84-961 du 25 octobre 1984
+
+_Codifié par_:
+
+  - Décret n°2000-338 2000-04-14
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R127-8 (V)
+
+
+### TITRE III : Compétences et attributions<a id=174></a>
+
+#### CHAPITRE Ier : Compétences juridictionnelles<a id=175></a>
 
 ###### Article R131-1
 
@@ -18336,11 +18665,11 @@ _Cité par_:
   - Code des juridictions financières - art. R142-18 (V)
 
 
-##### Section 1 : Jugement des comptes<a id=175></a>
+##### Section 1 : Jugement des comptes<a id=176></a>
 
-##### Sous-section 1 : Jugement des comptes des comptables patents<a id=176></a>
+##### Sous-section 1 : Jugement des comptes des comptables patents<a id=177></a>
 
-##### Paragraphe 1  : Dispositions générales.<a id=177></a>
+##### Paragraphe 1  : Dispositions générales.<a id=178></a>
 
 ###### Article R131-2
 
@@ -18490,9 +18819,8 @@ est, dans ce cas, signé par le greffier.
 Les arrêts de débet, de déclaration définitive de gestion de fait et de condamnation définitive à l'amende sont revêtus de la
 formule exécutoire.
 
-Les arrêts sont notifiés aux comptables par les soins du secrétaire général. Le procureur général procède à leur notification
-aux administrations, collectivités ou organismes intéressés. Les conditions dans lesquelles sont effectuées ces notifications
-sont fixées aux articles D. 144-1 à D. 144-6.
+Le secrétaire général ou, en cas d'absence, d'empêchement ou de vacance, un des secrétaires généraux adjoints, notifie les
+arrêts aux comptables et aux administrations, collectivités ou organismes intéressés.
 
 **Liens relatifs à cet article**
 
@@ -18506,7 +18834,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 11 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 15 () JORF 13 avril 2007
+
+_Abrogé par_:
+
+  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+_Cite_:
+
+  - Code des juridictions financières
 
 _Cité par_:
 
@@ -18514,12 +18850,8 @@ _Cité par_:
   - Code des juridictions financières - art. R141-13 (M)
   - Code monétaire et financier - art. R518-28 (V)
 
-_Cite_:
 
-  - Code des juridictions financières D144-1 à D144-6
-
-
-##### Paragraphe 2 : Dispositions concernant les receveurs des administrations financières.<a id=178></a>
+##### Paragraphe 2 : Dispositions concernant les receveurs des administrations financières.<a id=179></a>
 
 ###### Article D131-8
 
@@ -18650,7 +18982,7 @@ _Abrogé par_:
   - Décret n°2008-1398 du 19 décembre 2008 - art. 38
 
 
-##### Sous-section 2 : Jugement des gestions de fait.<a id=179></a>
+##### Sous-section 2 : Jugement des gestions de fait.<a id=180></a>
 
 ###### Article R131-12
 
@@ -18723,7 +19055,7 @@ _Cite_:
   - Code des juridictions financières - art. R131-4 (V)
 
 
-##### Section 2 : Contrôle de la Caisse des dépôts et consignations<a id=180></a>
+##### Section 2 : Contrôle de la Caisse des dépôts et consignations<a id=181></a>
 
 ###### Article R131-14
 
@@ -19121,7 +19453,7 @@ _Anciens textes_:
   - Décret n°70-733 du 5 août 1970 - art. 14 (Ab)
 
 
-##### Section 3 : Contrôle de l'apurement administratif des comptes<a id=181></a>
+##### Section 3 : Contrôle de l'apurement administratif des comptes<a id=182></a>
 
 ###### Article D131-26
 
@@ -19469,7 +19801,7 @@ _Cite_:
   - Code des juridictions financières - art. D131-35 (V)
 
 
-##### Section 4 : Condamnation des comptables à l'amende pour retard<a id=182></a>
+##### Section 4 : Condamnation des comptables à l'amende pour retard<a id=183></a>
 
 ###### Article D131-37
 
@@ -19582,7 +19914,7 @@ _Cité par_:
   - Code des juridictions financières - art. R262-54 (Ab)
 
 
-##### Section 5 : Jugement des appels<a id=183></a>
+##### Section 5 : Jugement des appels<a id=184></a>
 
 ###### Article R131-41
 
@@ -19739,7 +20071,7 @@ _Cite_:
   - Code des juridictions financières - art. R131-41
 
 
-#### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics<a id=184></a>
+#### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics<a id=185></a>
 
 ###### Article R133-1
 
@@ -19898,9 +20230,9 @@ _Cite_:
   - Code des juridictions financières L211-4 à L211-6, L262-7 à L262-9
 
 
-#### CHAPITRE IV : Contrôle de la sécurité sociale<a id=185></a>
+#### CHAPITRE IV : Contrôle de la sécurité sociale<a id=186></a>
 
-##### Section 1 : Le contrôle de la Cour des comptes et le comité de pilotage<a id=186></a>
+##### Section 1 : Le contrôle de la Cour des comptes et le comité de pilotage<a id=187></a>
 
 ###### Article D134-6
 
@@ -20184,7 +20516,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R134-4 (V)
 
 
-##### Section 2 : Composition et compétence des comités d'examen des comptes.<a id=187></a>
+##### Section 2 : Composition et compétence des comités d'examen des comptes.<a id=188></a>
 
 ###### Article D134-9
 
@@ -20432,7 +20764,7 @@ _Cite_:
   - Code des juridictions financières - art. R141-3 (V)
 
 
-##### Section 3 : Les attributions des comités d'examen des comptes.<a id=188></a>
+##### Section 3 : Les attributions des comités d'examen des comptes.<a id=189></a>
 
 ###### Article D134-15
 
@@ -20580,7 +20912,7 @@ _Cite_:
   - Code des juridictions financières - art. R134-5
 
 
-##### Section 4 : Les contrôles des comptes et de la gestion.<a id=189></a>
+##### Section 4 : Les contrôles des comptes et de la gestion.<a id=190></a>
 
 ###### Article D134-17
 
@@ -20735,7 +21067,7 @@ _Cite_:
   - Code des juridictions financières - art. R134-8
 
 
-##### Section 5 : Les suites données aux contrôles par la Cour des comptes.<a id=190></a>
+##### Section 5 : Les suites données aux contrôles par la Cour des comptes.<a id=191></a>
 
 ###### Article D134-24
 
@@ -20970,7 +21302,7 @@ _Cité par_:
   - Code des juridictions financières - art. R134-8 (V)
 
 
-#### CHAPITRE V : Communication des observations<a id=191></a>
+#### CHAPITRE V : Communication des observations<a id=192></a>
 
 ###### Article R135-1
 
@@ -20987,8 +21319,8 @@ Par référés du premier président aux ministres.
 Les observations de la Cour peuvent également être transmises par des communications du procureur général aux autorités
 compétentes.
 
-Certaines observations de la Cour des comptes peuvent faire l'objet de lettres d'un président de chambre aux autorités
-compétentes.
+Certaines observations de la Cour des comptes peuvent faire l'objet de lettres d'un président de chambre ou de formation
+interchambres aux autorités compétentes.
 
 Les rapports particuliers mentionnés ci-dessus sont transmis par le premier président au Premier ministre, aux ministres
 concernés ainsi qu'aux dirigeants de l'organisme contrôlé.
@@ -21010,9 +21342,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 16 () JORF 13 avril 2007
 
 _Cite_:
 
@@ -21130,7 +21462,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R143-4 (M)
 
 
-#### CHAPITRE VI : Rapport public<a id=192></a>
+#### CHAPITRE VI : Rapport public<a id=193></a>
 
 ###### Article R136-1
 
@@ -21217,7 +21549,7 @@ comptes.
 
 Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
 l'accomplissement des travaux du comité. Il est mis, avec son accord, à disposition de la Cour des comptes par arrêté du
-ministre chargé des finances, sur proposition du premier président de la Cour des comptes.
+Premier ministre, sur proposition du premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -21227,11 +21559,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 13 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 17 () JORF 13 avril 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 24
 
 _Cité par_:
 
@@ -21240,12 +21576,16 @@ _Cité par_:
   - Code des juridictions financières - art. R261-1 (V)
   - Code des juridictions financières - art. R271-1 (V)
 
+_Nouveaux textes_:
 
-### TITRE IV : Procédure<a id=193></a>
+  - Code des juridictions financières - art. R143-7 (V)
 
-#### CHAPITRE Ier : Règles générales de procédure<a id=194></a>
 
-##### Section 1 : Règles générales de procédure.<a id=195></a>
+### TITRE IV : Procédure<a id=194></a>
+
+#### CHAPITRE Ier : Règles générales de procédure<a id=195></a>
+
+##### Section 1 : Règles générales de procédure.<a id=196></a>
 
 ###### Article R141-1
 
@@ -21515,7 +21855,7 @@ _Cité par_:
   - Code des juridictions financières - art. R141-13 (M)
 
 
-##### Section 2 : Règles propres à l'audience publique.<a id=196></a>
+##### Section 2 : Règles propres à l'audience publique.<a id=197></a>
 
 ###### Article R141-9
 
@@ -21549,6 +21889,8 @@ _Cité par_:
 
 ###### Article R141-10
 
+L'ordre du jour des audiences publiques est fixé par le président de la formation après consultation du ministère public.
+
 Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire sera appelée à l'audience.
 
 Cette notification est faite sept jours au moins avant l'audience.
@@ -21567,7 +21909,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 18 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -21578,9 +21920,10 @@ _Cité par_:
 
 ###### Article R141-11
 
-Après l'exposé du rapporteur et les conclusions du procureur général, la ou les parties présentes peuvent formuler, soit en
-personne, soit par un avocat au Conseil d'Etat et à la Cour de cassation ou un avocat, des observations complétant et
-précisant celles fournies par écrit sur l'affaire qui la concerne.
+Après l'exposé du rapporteur et les conclusions du procureur général, du premier avocat général, d'un avocat général ou d'un
+chargé de mission, la ou les parties présentes peuvent formuler, soit en personne, soit par un avocat au Conseil d'Etat et à
+la Cour de cassation ou un avocat, des observations complétant et précisant celles fournies par écrit sur l'affaire qui la
+concerne.
 
 **Liens relatifs à cet article**
 
@@ -21594,7 +21937,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 19 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -21660,7 +22003,7 @@ _Cité par_:
   - Code des juridictions financières - art. R141-22 (T)
 
 
-#### CHAPITRE II : Règles particulières concernant le contrôle des comptes d'emploi des organismes faisant appel à la générosité publique<a id=197></a>
+#### CHAPITRE II : Règles particulières concernant le contrôle des comptes d'emploi des organismes faisant appel à la générosité publique<a id=198></a>
 
 ###### Article R142-1
 
@@ -21733,9 +22076,9 @@ _Cité par_:
   - Code des juridictions financières - art. D142-17 (T)
 
 
-#### CHAPITRE II :  Dispositions relatives aux activités juridictionnelles<a id=198></a>
+#### CHAPITRE II :  Dispositions relatives aux activités juridictionnelles<a id=199></a>
 
-##### Section 1 : Dispositions relatives au jugement des comptes des comptables patents<a id=199></a>
+##### Section 1 : Dispositions relatives au jugement des comptes des comptables patents<a id=200></a>
 
 ###### Article R142-2
 
@@ -21786,7 +22129,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-#### CHAPITRE III : Voies de recours et révision<a id=200></a>
+#### CHAPITRE III : Voies de recours et révision<a id=201></a>
 
 ###### Article R143-1
 
@@ -21853,9 +22196,10 @@ _Abrogé par_:
 
 ###### Article R143-3
 
-Les comptables, le ministre chargé des finances, les autres ministres pour ce qui concerne leur département et les
-représentants des établissements publics et des collectivités intéressés peuvent demander au Conseil d'Etat la cassation pour
-vice de forme, incompétence ou violation de la loi des arrêts définitifs rendus par la Cour des comptes.
+Les comptables, le ministre chargé du budget, les autres ministres pour ce qui concerne leur département, les représentants
+des établissements publics et des collectivités intéressées et le procureur général près la Cour des comptes peuvent demander
+au Conseil d'Etat la cassation pour vice de forme, incompétence ou violation de la loi des arrêts définitifs rendus par la
+Cour des comptes.
 
 Le pourvoi doit être introduit dans un délai de deux mois à compter de la notification des arrêts.
 
@@ -21871,12 +22215,12 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-543 du 12 avril 2007 - art. 20 () JORF 13 avril 2007
 
 
-#### Chapitre IV : Notification des arrêts.<a id=201></a>
+#### Chapitre IV : Notification des arrêts.<a id=202></a>
 
 ###### Article D144-1
 
@@ -22061,7 +22405,7 @@ _Abrogé par_:
   - Décret n°2008-1398 du 19 décembre 2008 - art. 38
 
 
-#### CHAPITRE V : Dispositions diverses<a id=202></a>
+#### CHAPITRE V : Dispositions diverses<a id=203></a>
 
 ###### Article D145-1
 
@@ -22160,13 +22504,13 @@ _Cite_:
   - Code des juridictions financières - art. R131-2
 
 
-## LIVRE II : Les chambres régionales et territoriales des comptes<a id=203></a>
+## LIVRE II : Les chambres régionales et territoriales des comptes<a id=204></a>
 
-### PREMIÈRE PARTIE : Les chambres régionales des comptes<a id=204></a>
+### PREMIÈRE PARTIE : Les chambres régionales des comptes<a id=205></a>
 
-#### TITRE Ier : Missions et organisation<a id=205></a>
+#### TITRE Ier : Missions et organisation<a id=206></a>
 
-##### CHAPITRE Ier : Missions<a id=206></a>
+##### CHAPITRE Ier : Missions<a id=207></a>
 
 ###### Article R211-1
 
@@ -22271,13 +22615,13 @@ _Cité par_:
   - Code des juridictions financières - art. R241-15 (V)
 
 
-##### CHAPITRE II : Organisation<a id=207></a>
+##### CHAPITRE II : Organisation<a id=208></a>
 
-##### Section 1 : Organisation des juridictions<a id=208></a>
+##### Section 1 : Organisation des juridictions<a id=209></a>
 
-##### Sous-section 1 : Dispositions générales<a id=209></a>
+##### Sous-section 1 : Dispositions générales<a id=210></a>
 
-##### Paragraphe 1 : Le siège, la désignation et la gestion des chambres<a id=210></a>
+##### Paragraphe 1 : Le siège, la désignation et la gestion des chambres<a id=211></a>
 
 ###### Article R*212-2-1
 
@@ -22407,7 +22751,9 @@ _Créé par_:
 
 Le premier président de la Cour des comptes, président du Conseil supérieur des chambres régionales des comptes, assure la
 gestion des magistrats et des personnels des chambres régionales des comptes ainsi que celle des moyens matériels de ces
-juridictions. Il ordonnance les dépenses des chambres régionales des comptes.
+juridictions. Il est l'ordonnateur principal des dépenses et des recettes des chambres régionales des comptes.
+
+Le premier président conclut les marchés ainsi que les contrats relatifs à la gestion des chambres régionales des comptes.
 
 Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la Cour des comptes. Délégation
 peut également être donnée aux fonctionnaires appartenant à un corps de catégorie A et aux agents publics non titulaires de
@@ -22429,7 +22775,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
+  - Décret n°2007-543 du 12 avril 2007 - art. 21 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -22467,7 +22813,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-5 (M)
 
 
-##### Paragraphe 2 : Les sections<a id=211></a>
+##### Paragraphe 2 : Les sections<a id=212></a>
 
 ###### Article R212-5
 
@@ -22551,12 +22897,13 @@ _Modifié par_:
   - Décret n°2002-982 du 12 juillet 2002 - art. 1 ()
 
 
-##### Paragraphe 3 : Le président<a id=212></a>
+##### Paragraphe 3 : Le président<a id=213></a>
 
 ###### Article R*212-7-1
 
-Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses de la juridiction qu'il préside. En
-cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de cette juridiction.
+Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
+qu'il préside. En cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de
+cette juridiction.
 
 **Liens relatifs à cet article**
 
@@ -22564,9 +22911,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-1098 du 31 août 2006 - art. 1 () JORF 1er septembre 2006
+  - Décret n°2007-542 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
 
 
 ###### Article R212-7
@@ -22669,7 +23016,7 @@ _Cité par_:
   - Code des juridictions financières - art. R227-1 (Ab)
 
 
-##### Paragraphe 4 : Le président de section<a id=213></a>
+##### Paragraphe 4 : Le président de section<a id=214></a>
 
 ###### Article R212-9
 
@@ -22838,7 +23185,7 @@ _Cite_:
   - Code des juridictions financières - art. R222-5
 
 
-##### Paragraphe 5 : Les rapporteurs auprès des chambres<a id=214></a>
+##### Paragraphe 5 : Les rapporteurs auprès des chambres<a id=215></a>
 
 ###### Article R212-13
 
@@ -22899,7 +23246,7 @@ _Cité par_:
   - Code des juridictions financières - art. R272-7 (V)
 
 
-##### Paragraphe 6 : Prestation de serment des magistrats<a id=215></a>
+##### Paragraphe 6 : Prestation de serment des magistrats<a id=216></a>
 
 ###### Article R212-14
 
@@ -22930,7 +23277,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R212-3 (V)
 
 
-##### Paragraphe 7 : Le ministère public<a id=216></a>
+##### Paragraphe 7 : Le ministère public<a id=217></a>
 
 ###### Article R212-15
 
@@ -23180,7 +23527,7 @@ _Cite_:
   - Code des juridictions financières - art. L241-1 (M)
 
 
-##### Paragraphe 8 : Le secrétaire général<a id=217></a>
+##### Paragraphe 8 : Le secrétaire général<a id=218></a>
 
 ###### Article R212-23
 
@@ -23274,7 +23621,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R212-37 (V)
 
 
-##### Paragraphe 9 : Le greffe<a id=218></a>
+##### Paragraphe 9 : Le greffe<a id=219></a>
 
 ###### Article R212-26
 
@@ -23366,7 +23713,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R212-40 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux régions d'outre-mer<a id=219></a>
+##### Sous-section 2 : Dispositions particulières aux régions d'outre-mer<a id=220></a>
 
 ###### Article R212-29
 
@@ -23400,7 +23747,7 @@ _Cité par_:
   - Code des juridictions financières - art. R252-2 (V)
 
 
-##### Sous-section 4 : Fonctionnement des chambres<a id=220></a>
+##### Sous-section 4 : Fonctionnement des chambres<a id=221></a>
 
 ###### Article R212-30
 
@@ -23545,9 +23892,9 @@ _Cité par_:
   - Code des juridictions financières - art. R241-29 (V)
 
 
-##### Section 2 : Le Conseil supérieur des chambres régionales des comptes<a id=221></a>
+##### Section 2 : Le Conseil supérieur des chambres régionales des comptes<a id=222></a>
 
-##### Sous-section 1 : Désignation des membres du Conseil supérieur des chambres régionales des comptes<a id=222></a>
+##### Sous-section 1 : Désignation des membres du Conseil supérieur des chambres régionales des comptes<a id=223></a>
 
 ###### Article R212-34
 
@@ -23831,7 +24178,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R220-12 (V)
 
 
-##### Sous-section 2 : Fonctionnement du Conseil supérieur des chambres régionales des comptes<a id=223></a>
+##### Sous-section 2 : Fonctionnement du Conseil supérieur des chambres régionales des comptes<a id=224></a>
 
 ###### Article R212-52
 
@@ -23919,9 +24266,9 @@ _Modifié par_:
   - Décret n°2002-1201 du 27 septembre 2002 - art. 31 ()
 
 
-#### TITRE II : Dispositions statutaires<a id=224></a>
+#### TITRE II : Dispositions statutaires<a id=225></a>
 
-##### CHAPITRE Ier : Nominations<a id=225></a>
+##### CHAPITRE Ier : Nominations<a id=226></a>
 
 ###### Article R221-1
 
@@ -24027,8 +24374,8 @@ _Cite_:
 
 ###### Article R221-5
 
-La commission consultative de la Cour des comptes désigne, parmi ses membres, le représentant de la Cour des comptes à la
-commission instituée par l'article L. 221-7 et son suppléant.
+Le conseil supérieur de la Cour des comptes désigne, parmi ses membres, le représentant de la Cour des comptes à la
+commission instituée par l'article L. 221-7 et son suppléant. 
 
 Le Conseil supérieur des chambres régionales des comptes désigne, parmi ses membres, les représentants des magistrats des
 chambres régionales des comptes à la commission instituée par l'article L. 221-7 et leurs suppléants.
@@ -24045,11 +24392,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 35 ()
+  - Décret n°2007-543 du 12 avril 2007 - art. 22 () JORF 13 avril 2007
 
 _Cite_:
 
-  - Code des juridictions financières - art. L221-7 (M)
+  - Code des juridictions financières - art. L221-7 (V)
 
 
 ###### Article R221-6
@@ -24366,7 +24713,7 @@ _Cite_:
   - Code des juridictions financières - art. L221-9 (V)
 
 
-##### CHAPITRE II : Obligations et incompatibilités<a id=226></a>
+##### CHAPITRE II : Obligations et incompatibilités<a id=227></a>
 
 ###### Article R222-1
 
@@ -24513,7 +24860,7 @@ _Cite_:
   - Code des juridictions financières - art. L222-7 (M)
 
 
-##### CHAPITRE III : Discipline<a id=227></a>
+##### CHAPITRE III : Discipline<a id=228></a>
 
 ###### Article R223-1
 
@@ -24703,7 +25050,7 @@ _Créé par_:
   - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
 
 
-##### CHAPITRE IV : Avancement<a id=228></a>
+##### CHAPITRE IV : Avancement<a id=229></a>
 
 ###### Article R224-1
 
@@ -24948,7 +25295,7 @@ _Modifié par_:
   - Décret n°2002-1153 du 10 septembre 2002 - art. 13 ()
 
 
-##### CHAPITRE V : Evaluation et notation<a id=229></a>
+##### CHAPITRE V : Evaluation et notation<a id=230></a>
 
 ###### Article R225-1
 
@@ -25007,9 +25354,9 @@ _Créé par_:
   - Décret n°2004-944 du 1 septembre 2004 - art. 2 () JORF 8 septembre 2004
 
 
-##### CHAPITRE VI : Positions des magistrats<a id=230></a>
+##### CHAPITRE VI : Positions des magistrats<a id=231></a>
 
-##### Section 1 : Mobilité<a id=231></a>
+##### Section 1 : Mobilité<a id=232></a>
 
 ###### Article R226-1
 
@@ -25133,7 +25480,7 @@ _Cite_:
   - Code des juridictions financières - art. R226-3 (V)
 
 
-##### Section 2 : Détachement<a id=232></a>
+##### Section 2 : Détachement<a id=233></a>
 
 ###### Article R226-5
 
@@ -25188,7 +25535,7 @@ _Modifié par_:
   - Décret n°2006-1262 du 16 octobre 2006 - art. 12 () JORF 17 octobre 2006
 
 
-##### Section 3 : Disponibilité<a id=233></a>
+##### Section 3 : Disponibilité<a id=234></a>
 
 ###### Article R226-7
 
@@ -25220,7 +25567,7 @@ _Modifié par_:
   - Décret n°2006-1262 du 16 octobre 2006 - art. 13 () JORF 17 octobre 2006
 
 
-##### Section 4 : Délégation dans les fonctions du ministère public<a id=234></a>
+##### Section 4 : Délégation dans les fonctions du ministère public<a id=235></a>
 
 ###### Article R226-8
 
@@ -25243,7 +25590,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### CHAPITRE VII : Emploi de président de chambre régionale et territoriale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France<a id=235></a>
+##### CHAPITRE VII : Emploi de président de chambre régionale et territoriale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France<a id=236></a>
 
 ###### Article R227-1
 
@@ -25293,11 +25640,11 @@ _Cité par_:
   - Décret n°2017-294 du 7 mars 2017 - art. 4 (VD)
 
 
-#### TITRE III : Compétences et attributions<a id=236></a>
+#### TITRE III : Compétences et attributions<a id=237></a>
 
-##### CHAPITRE Ier : Compétences juridictionnelles<a id=237></a>
+##### CHAPITRE Ier : Compétences juridictionnelles<a id=238></a>
 
-##### Section 1 : Jugement des comptes<a id=238></a>
+##### Section 1 : Jugement des comptes<a id=239></a>
 
 ###### Article R231-1
 
@@ -25328,7 +25675,7 @@ _Cité par_:
   - Code des juridictions financières - art. R253-1 (M)
 
 
-##### Sous-section 1 : Jugement des comptes des comptables patents<a id=239></a>
+##### Sous-section 1 : Jugement des comptes des comptables patents<a id=240></a>
 
 ###### Article R231-2
 
@@ -25678,7 +26025,7 @@ _Abrogé par_:
   - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
-##### Sous-section 2 : Jugement et apurement des comptes des comptables de fait<a id=240></a>
+##### Sous-section 2 : Jugement et apurement des comptes des comptables de fait<a id=241></a>
 
 ###### Article R231-14
 
@@ -25841,7 +26188,7 @@ _Cite_:
   - Code des juridictions financières - art. L231-11
 
 
-##### Section 2 : Contrôle de l'apurement administratif des comptes<a id=241></a>
+##### Section 2 : Contrôle de l'apurement administratif des comptes<a id=242></a>
 
 ###### Article D231-18
 
@@ -26127,7 +26474,7 @@ _Cite_:
   - Code des juridictions financières - art. L211-2 (M)
 
 
-##### Section 3 : Condamnation des comptables à l'amende<a id=242></a>
+##### Section 3 : Condamnation des comptables à l'amende<a id=243></a>
 
 ###### Article R231-32
 
@@ -26194,9 +26541,9 @@ _Cite_:
   - Code des juridictions financières - art. L231-10
 
 
-##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=243></a>
+##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets<a id=244></a>
 
-##### Section 1 : Dispositions communes aux collectivités territoriales et à leurs établissements publics<a id=244></a>
+##### Section 1 : Dispositions communes aux collectivités territoriales et à leurs établissements publics<a id=245></a>
 
 ###### Article R232-1
 
@@ -26333,7 +26680,7 @@ _Cite_:
   - Code des juridictions financières L1612-2, D1612-1 à D1612-7, L1612-5, L1612-9, R1612-19, R1612-21 à R1612-23, R1612-19 à R1612-23, L1612-13, L1612-14, R1612-21, R1612-27, R1612-28, L1612-20, 1612-15, R1612-35, R1612-36, R1612-37, L1612-18
 
 
-##### Section 2 : Dispositions particulières aux syndicats de communes<a id=245></a>
+##### Section 2 : Dispositions particulières aux syndicats de communes<a id=246></a>
 
 ###### Article R232-2
 
@@ -26374,7 +26721,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R5212-7 (V)
 
 
-##### Section 3 : Des établissements publics locaux d'enseignement<a id=246></a>
+##### Section 3 : Des établissements publics locaux d'enseignement<a id=247></a>
 
 ###### Article R232-3
 
@@ -26491,7 +26838,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1612-1
 
 
-##### Section 4 : Des établissements publics de santé<a id=247></a>
+##### Section 4 : Des établissements publics de santé<a id=248></a>
 
 ###### Article R232-6
 
@@ -26523,7 +26870,7 @@ _Abrogé par_:
   - Décret n°2013-268 du 29 mars 2013 - art. 51
 
 
-##### CHAPITRE IV : Contrôle de certaines conventions<a id=248></a>
+##### CHAPITRE IV : Contrôle de certaines conventions<a id=249></a>
 
 ###### Article R234-1
 
@@ -26608,7 +26955,7 @@ _Cité par_:
   - Code des juridictions financières - art. R253-18 (T)
 
 
-##### CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales<a id=249></a>
+##### CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales<a id=250></a>
 
 ###### Article R235-1
 
@@ -26642,9 +26989,9 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-#### TITRE IV : Procédure<a id=250></a>
+#### TITRE IV : Procédure<a id=251></a>
 
-##### CHAPITRE Ier : Règles générales de procédure<a id=251></a>
+##### CHAPITRE Ier : Règles générales de procédure<a id=252></a>
 
 ###### Article R241-1
 
@@ -27637,7 +27984,7 @@ _Cite_:
   - Code des juridictions financières - art. L243-4 (V)
 
 
-##### CHAPITRE II : Contrôle budgétaire<a id=252></a>
+##### CHAPITRE II : Contrôle budgétaire<a id=253></a>
 
 ###### Article R242-1
 
@@ -27773,7 +28120,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R244-3 (M)
 
 
-##### CHAPITRE III : Voies de recours<a id=253></a>
+##### CHAPITRE III : Voies de recours<a id=254></a>
 
 ###### Article R243-1
 
@@ -28215,7 +28562,7 @@ _Abrogé par_:
   - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
-##### CHAPITRE IV : Apurement administratif et voies de recours devant les chambres régionales des comptes<a id=254></a>
+##### CHAPITRE IV : Apurement administratif et voies de recours devant les chambres régionales des comptes<a id=255></a>
 
 ###### Article D244-1
 
@@ -28374,7 +28721,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### CHAPITRE V : Règles propres à l'audience publique.<a id=255></a>
+##### CHAPITRE V : Règles propres à l'audience publique.<a id=256></a>
 
 ###### Article R245-1
 
@@ -28504,7 +28851,7 @@ _Abrogé par_:
   - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
-##### CHAPITRE VI : Notification des jugements.<a id=256></a>
+##### CHAPITRE VI : Notification des jugements.<a id=257></a>
 
 ###### Article D246-1
 
@@ -28764,7 +29111,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### CHAPITRE VII : Dispositions diverses<a id=257></a>
+##### CHAPITRE VII : Dispositions diverses<a id=258></a>
 
 ###### Article D247-1
 
@@ -28848,11 +29195,11 @@ _Cité par_:
   - Code des juridictions financières - art. D272-98 (T)
 
 
-### DEUXIÈME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=258></a>
+### DEUXIÈME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=259></a>
 
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie<a id=259></a>
+#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie<a id=260></a>
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes<a id=260></a>
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes<a id=261></a>
 
 ###### Article R261-1
 
@@ -28889,9 +29236,9 @@ _Cite_:
   - Code des juridictions financières L136-1 à L136-5, R136-3
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes<a id=261></a>
+##### CHAPITRE II : De la chambre territoriale des comptes<a id=262></a>
 
-##### Section préliminaire : Siège<a id=262></a>
+##### Section préliminaire : Siège<a id=263></a>
 
 ###### Article R262-1
 
@@ -28912,7 +29259,7 @@ _Anciens textes_:
   - Décret n°83-370 1983-05-22, art 1er
 
 
-##### Section 1 : Missions<a id=263></a>
+##### Section 1 : Missions<a id=264></a>
 
 ###### Article R262-2
 
@@ -29001,9 +29348,9 @@ _Cité par_:
   - Code des juridictions financières - art. R262-70 (M)
 
 
-##### Section 2 : Organisation<a id=264></a>
+##### Section 2 : Organisation<a id=265></a>
 
-##### Sous-section 1 : Organisation de la juridiction<a id=265></a>
+##### Sous-section 1 : Organisation de la juridiction<a id=266></a>
 
 ###### Article R262-5
 
@@ -29057,7 +29404,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-24 (V)
 
 
-##### Paragraphe 1 : Le président<a id=266></a>
+##### Paragraphe 1 : Le président<a id=267></a>
 
 ###### Article R262-7
 
@@ -29138,7 +29485,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-5 (V)
 
 
-##### Paragraphe 2 : Le président de section<a id=267></a>
+##### Paragraphe 2 : Le président de section<a id=268></a>
 
 ###### Article R262-9
 
@@ -29253,7 +29600,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-9 (V)
 
 
-##### Paragraphe 3 : Les rapporteurs auprès de la chambre<a id=268></a>
+##### Paragraphe 3 : Les rapporteurs auprès de la chambre<a id=269></a>
 
 ###### Article R262-13
 
@@ -29291,7 +29638,7 @@ _Cité par_:
   - Code des juridictions financières - art. R262-86 (V)
 
 
-##### Paragraphe 4 : Prestation de serment des magistrats<a id=269></a>
+##### Paragraphe 4 : Prestation de serment des magistrats<a id=270></a>
 
 ###### Article R262-14
 
@@ -29331,7 +29678,7 @@ _Cité par_:
   - Code des juridictions financières - art. R262-74 (V)
 
 
-##### Paragraphe 5 : Le ministère public<a id=270></a>
+##### Paragraphe 5 : Le ministère public<a id=271></a>
 
 ###### Article R262-15
 
@@ -29530,7 +29877,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Paragraphe 6 : Le secrétaire général<a id=271></a>
+##### Paragraphe 6 : Le secrétaire général<a id=272></a>
 
 ###### Article R262-22
 
@@ -29628,7 +29975,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-32 (V)
 
 
-##### Paragraphe 7 : Le greffe<a id=272></a>
+##### Paragraphe 7 : Le greffe<a id=273></a>
 
 ###### Article R262-25
 
@@ -29717,7 +30064,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes<a id=273></a>
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes<a id=274></a>
 
 ###### Article R262-28
 
@@ -29743,7 +30090,7 @@ _Cite_:
   - Code des juridictions financières R212-34 à R212-56
 
 
-##### Sous-section 3 : Fonctionnement de la chambre<a id=274></a>
+##### Sous-section 3 : Fonctionnement de la chambre<a id=275></a>
 
 ###### Article R262-29
 
@@ -29923,7 +30270,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-36 (V)
 
 
-##### Section 3 : Dispositions statutaires<a id=275></a>
+##### Section 3 : Dispositions statutaires<a id=276></a>
 
 ###### Article R262-34
 
@@ -29958,9 +30305,9 @@ _Cité par_:
   - Code des juridictions financières - art. R262-50 (T)
 
 
-##### Section 4 : Compétences et attributions juridictionnelles<a id=276></a>
+##### Section 4 : Compétences et attributions juridictionnelles<a id=277></a>
 
-##### Sous-section 1 : Jugement des comptes<a id=277></a>
+##### Sous-section 1 : Jugement des comptes<a id=278></a>
 
 ###### Article R262-35
 
@@ -29991,7 +30338,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Paragraphe 1 : Jugement des comptes des comptables patents<a id=278></a>
+##### Paragraphe 1 : Jugement des comptes des comptables patents<a id=279></a>
 
 ###### Article R262-36
 
@@ -30334,7 +30681,7 @@ _Abrogé par_:
   - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
-##### Paragraphe 2 : Jugement et apurement des comptes des comptables de fait<a id=279></a>
+##### Paragraphe 2 : Jugement et apurement des comptes des comptables de fait<a id=280></a>
 
 ###### Article R262-48
 
@@ -30460,7 +30807,7 @@ _Cite_:
   - Code des juridictions financières - art. L262-39
 
 
-##### Sous-section 2 : Contrôle de l'apurement administratif des comptes<a id=280></a>
+##### Sous-section 2 : Contrôle de l'apurement administratif des comptes<a id=281></a>
 
 ###### Article R262-52
 
@@ -30515,7 +30862,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-43 (V)
 
 
-##### Sous-section 3 : Condamnation des comptables à l'amende<a id=281></a>
+##### Sous-section 3 : Condamnation des comptables à l'amende<a id=282></a>
 
 ###### Article R262-53
 
@@ -30579,7 +30926,7 @@ _Cite_:
   - Code des juridictions financières - art. L262-38
 
 
-##### Section 4 bis : Contrôle de certaines conventions<a id=282></a>
+##### Section 4 bis : Contrôle de certaines conventions<a id=283></a>
 
 ###### Article R262-54-1
 
@@ -30673,7 +31020,7 @@ _Cite_:
   - Code des juridictions financières - art. R263-48
 
 
-##### Section 5 : Contrôle des actes de sociétés d'économie mixte locales<a id=283></a>
+##### Section 5 : Contrôle des actes de sociétés d'économie mixte locales<a id=284></a>
 
 ###### Article R262-55
 
@@ -30716,7 +31063,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R262-56 (V)
 
 
-##### Section 7 : Voies de recours<a id=284></a>
+##### Section 7 : Voies de recours<a id=285></a>
 
 ###### Article R262-83
 
@@ -31100,7 +31447,7 @@ _Abrogé par_:
   - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
-##### Section 6 : Procédure<a id=285></a>
+##### Section 6 : Procédure<a id=286></a>
 
 ###### Article R262-56
 
@@ -31829,7 +32176,7 @@ _Cite_:
   - Code des juridictions financières - art. R262-62 (V)
 
 
-##### Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes.<a id=286></a>
+##### Section 8 : Apurement administratif et voies de recours devant la chambre territoriale des comptes.<a id=287></a>
 
 ###### Article D262-97
 
@@ -31859,7 +32206,7 @@ _Cite_:
   - Code des juridictions financières
 
 
-##### Section 10 : Notification des jugements<a id=287></a>
+##### Section 10 : Notification des jugements<a id=288></a>
 
 ###### Article D262-103
 
@@ -31891,7 +32238,7 @@ _Cite_:
   - Code des juridictions financières D246-1 à D246-8
 
 
-##### Section 9 : Règles propres au prononcé des amendes<a id=288></a>
+##### Section 9 : Règles propres au prononcé des amendes<a id=289></a>
 
 ###### Article R262-98
 
@@ -32022,7 +32369,7 @@ _Cite_:
   - Code des juridictions financières - art. R262-66
 
 
-##### Section 11 : Dispositions diverses<a id=289></a>
+##### Section 11 : Dispositions diverses<a id=290></a>
 
 ###### Article D262-104
 
@@ -32052,11 +32399,11 @@ _Cité par_:
   - Code des juridictions financières - art. D262-107 (V)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=290></a>
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets<a id=291></a>
 
-##### Section 1 : Des provinces et de la Nouvelle-Calédonie<a id=291></a>
+##### Section 1 : Des provinces et de la Nouvelle-Calédonie<a id=292></a>
 
-##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=292></a>
+##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=293></a>
 
 ###### Article R263-1
 
@@ -32132,7 +32479,7 @@ _Cité par_:
   - Code des juridictions financières - art. R263-49 (V)
 
 
-##### Paragraphe 2 : Absence d'équilibre du budget<a id=293></a>
+##### Paragraphe 2 : Absence d'équilibre du budget<a id=294></a>
 
 ###### Article R263-4
 
@@ -32247,7 +32594,7 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Paragraphe 3 : Dépense obligatoire<a id=294></a>
+##### Paragraphe 3 : Dépense obligatoire<a id=295></a>
 
 ###### Article R263-9
 
@@ -32466,9 +32813,9 @@ _Créé par_:
   - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### Section 2 : Des communes et établissements publics communaux et intercommunaux<a id=295></a>
+##### Section 2 : Des communes et établissements publics communaux et intercommunaux<a id=296></a>
 
-##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=296></a>
+##### Paragraphe 1 : Absence d'adoption ou de transmission du budget<a id=297></a>
 
 ###### Article R263-18
 
@@ -32545,7 +32892,7 @@ _Cité par_:
   - Code des juridictions financières - art. R263-49 (V)
 
 
-##### Paragraphe 2 : Absence d'équilibre réel du budget<a id=297></a>
+##### Paragraphe 2 : Absence d'équilibre réel du budget<a id=298></a>
 
 ###### Article R263-21
 
@@ -32743,7 +33090,7 @@ _Cite_:
   - Code des juridictions financières - art. R263-23 (V)
 
 
-##### Paragraphe 3 : Absence de transmission ou déficit du compte administratif<a id=298></a>
+##### Paragraphe 3 : Absence de transmission ou déficit du compte administratif<a id=299></a>
 
 ###### Article R263-28
 
@@ -32910,7 +33257,7 @@ _Cite_:
   - Code des juridictions financières - art. L263-20 (V)
 
 
-##### Paragraphe 4 : Dépense obligatoire<a id=299></a>
+##### Paragraphe 4 : Dépense obligatoire<a id=300></a>
 
 ###### Article R263-34
 
@@ -33232,7 +33579,7 @@ _Cite_:
   - Code des communes - art. L235-5 (Ab)
 
 
-##### Section 3 : Dispositions communes<a id=300></a>
+##### Section 3 : Dispositions communes<a id=301></a>
 
 ###### Article R263-47
 
@@ -33314,11 +33661,11 @@ _Cite_:
   - Code des juridictions financières - art. R263-3 (V)
 
 
-## LIVRE III : Les institutions associées à la Cour des comptes<a id=301></a>
+## LIVRE III : Les institutions associées à la Cour des comptes<a id=302></a>
 
-### TITRE Ier : La Cour de discipline budgétaire et financière<a id=302></a>
+### TITRE Ier : La Cour de discipline budgétaire et financière<a id=303></a>
 
-#### CHAPITRE Ier : Organisation<a id=303></a>
+#### CHAPITRE Ier : Organisation<a id=304></a>
 
 ###### Article R311-1
 
@@ -33466,7 +33813,7 @@ _Nouveaux textes_:
   - Code des juridictions financières - art. R311-13 (V)
 
 
-#### CHAPITRE IV : Procédure devant la cour<a id=304></a>
+#### CHAPITRE IV : Procédure devant la cour<a id=305></a>
 
 ###### Article R314-1
 
@@ -33522,7 +33869,31 @@ _Cite_:
   - Code des juridictions financières - art. L314-7 (V)
 
 
-### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=305></a>
+###### Article R314-4
+
+La publication au Journal officiel mentionnée à l'article L. 314-20 du code des juridictions financières est effectuée à la
+fois sur support papier et sous forme électronique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 du 14 avril 2000
+
+_Créé par_:
+
+  - Décret n°2007-543 du 12 avril 2007 - art. 23 () JORF 13 avril 2007
+
+_Abrogé par_:
+
+  - Décret n°2015-1717 du 22 décembre 2015 - art. 6
+
+_Cite_:
+
+  - Code des juridictions financières - art. L314-20
+
+
+### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=306></a>
 
 ###### Article D320-1
 
@@ -33791,7 +34162,7 @@ _Abrogé par_:
   - Décret n°2017-671 du 28 avril 2017 - art. 180
 
 
-### TITRE V : Le conseil des prélèvements obligatoires<a id=306></a>
+### TITRE V : Le conseil des prélèvements obligatoires<a id=307></a>
 
 ###### Article D350-6
 
