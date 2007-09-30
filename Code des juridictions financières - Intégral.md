@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-09-08
+Version Consolidée au 2007-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -21537,24 +21537,19 @@ _Nouveaux textes_:
 
 ###### Article R136-1
 
-Le rapport public annuel de la Cour des comptes est préparé par le comité du rapport public et des programmes au vu des
-propositions transmises par les chambres ou élaborées selon la procédure définie en application du second alinéa de l'article
-R. 136-3.
+Les projets de rapports dont est saisie la chambre du conseil en application de l'article R. 112-17 sont préalablement
+examinés par le comité du rapport public et des programmes au vu des propositions transmises par les chambres, les formations
+interchambres ou les formations communes aux juridictions, ou élaborées selon la procédure définie en application du second
+alinéa de l'article R. 136-3. Les projets sont communiqués par le premier président aux ministres et aux représentants des
+collectivités et organismes intéressés. Ces derniers adressent leurs réponses dans un délai d'un mois, sauf prorogation
+accordée par le premier président sur demande écrite et motivée tendant à l'octroi d'un délai supplémentaire.
 
-Les projets d'insertion sont arrêtés par le comité et communiqués par le premier président aux ministres intéressés, au
-ministre chargé des finances et aux dirigeants des organismes publics concernés. Dans un délai de deux mois, les ministres et
-dirigeants des organismes adressent à la Cour des comptes, par l'intermédiaire du ministre chargé des finances, leurs
-réponses accompagnées de toutes justifications utiles.
+La chambre du conseil arrête le texte des rapports selon les modalités prévues à l'article R. 112-17.
 
-Toutefois, les projets d'insertion intéressant des collectivités et organismes relevant de la compétence des chambres
-régionales ou territoriales des comptes sont communiqués directement par le premier président, dans la même forme, aux
-présidents de conseil régional ou général, aux maires ou aux présidents des organismes publics concernés, qui adressent à la
-Cour, dans un délai de deux mois, leurs réponses accompagnées de toutes justifications utiles.
+Les réponses sont annexées aux rapports publiés.
 
-Les réponses mentionnées aux deux alinéas précédents figurent au rapport public.
-
-Le premier président remet le rapport au Président de la République ; il le dépose sur les bureaux de l'Assemblée nationale
-et du Sénat ; il en assure la publication au Journal officiel.
+Le premier président remet le rapport annuel au Président de la République. Il le dépose sur les bureaux de l'Assemblée
+nationale et du Sénat. Il en assure la publication au Journal officiel.
 
 **Liens relatifs à cet article**
 
@@ -21566,12 +21561,13 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-1298 du 31 août 2007 - art. 5 () JORF 2 septembre 2007 en vigueur le 1er octobre 2007
 
 _Cite_:
 
+  - Code des juridictions financières - art. R112-17 (M)
   - Code des juridictions financières - art. R136-3 (M)
 
 _Cité par_:
@@ -21583,14 +21579,12 @@ _Cité par_:
 ###### Article R136-2
 
 Les observations formulées par la Cour des comptes à l'occasion du contrôle des comptes d'emploi des organismes faisant appel
-à la générosité publique peuvent, concurremment ou non, faire l'objet d'une publication propre au Journal officiel, ou être
-insérées dans le rapport public.
-
-Les projets de publication ou d'insertion sont communiqués par le premier président aux représentants légaux des organismes
-concernés ou, dans le cas où l'organisme a son siège à l'étranger, au représentant en France de cet organisme, qui adressent
-à la Cour, dans un délai de deux mois, leurs réponses accompagnées de toutes justifications utiles.
-
-Ces réponses figurent dans la publication au Journal officiel des observations ou du rapport public de la Cour.
+à la générosité publique peuvent, concurremment ou non, faire l'objet d'une publication propre, ou être insérées dans un
+rapport public. Les projets de publication ou d'insertion sont communiqués par le premier président aux représentants légaux
+des organismes considérés ou, dans le cas où l'organisme a son siège à l'étranger, au représentant en France de cet
+organisme. Ces derniers adressent leurs réponses à la Cour dans un délai d'un mois, sauf prorogation accordée par le premier
+président sur demande écrite et motivée de délai supplémentaire par le représentant intéressé. Ces réponses sont annexées aux
+observations publiées par la Cour.
 
 **Liens relatifs à cet article**
 
@@ -21602,9 +21596,9 @@ _Codifié par_:
 
   - Décret n°2000-338 2000-04-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2007-1298 du 31 août 2007 - art. 6 () JORF 2 septembre 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R136-3
