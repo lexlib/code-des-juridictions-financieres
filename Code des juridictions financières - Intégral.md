@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -25,7 +25,7 @@ Version Consolidée au 2007-12-22
           - [Section 4 : Condamnation des comptables à l'amende (art. L131-6 à L131-13)](#22)
         - [CHAPITRE II : Relations avec le Parlement (art. L132-2 à LO132-3-1)](#23)
         - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. L133-1 à L133-5)](#24)
-        - [CHAPITRE IV : Contrôle de la sécurité sociale (art. L134-1 à L134-2)](#25)
+        - [CHAPITRE IV : Contrôle de la sécurité sociale (art. L134-1)](#25)
         - [CHAPITRE V : Communication des observations (art. L135-1 à L135-5)](#26)
         - [CHAPITRE VI : Rapports publics (art. L136-1 à L136-5)](#27)
       - [TITRE IV : Procédure (art. L140-1 à L140-9)](#28)
@@ -2930,73 +2930,6 @@ _Créé par_:
   - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 7 (Ab)
   - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 8 (Ab)
   - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 9 (Ab)
-
-
-###### Article L134-2
-
-Les comptes annuels des organismes visés à l'article L. 134-1 sont vérifiés, sous la surveillance de la Cour des comptes, par
-les comités régionaux ou départementaux d'examen des comptes, dans des conditions déterminées par décret.
-
-**Nota:**
-
-La présente version de cet article reste en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°85-199 du 11 février 1985 - art. 43 (Ab)
-  - Décret n°85-199 du 11 février 1985 - art. 44 (Ab)
-  - Décret n°85-199 du 11 février 1985 - art. 45 (Ab)
-  - Décret n°85-199 du 11 février 1985 - art. 46 (Ab)
-  - Décret n°99-1155 du 29 décembre 1999 - art. 3 (Ab)
-  - Décret n°2002-429 du 29 mars 2002 - art. 13 (Ab)
-  - Décret n°2003-146 du 20 février 2003 - art. 13 (Ab)
-  - Décret n°2003-1277 du 26 décembre 2003 - art. 15 (Ab)
-  - Code des juridictions financières - art. D134-9 (Ab)
-  - Code des juridictions financières - art. L141-10 (M)
-  - Code des juridictions financières - art. R134-14 (Ab)
-  - Code des juridictions financières - art. R134-21 (Ab)
-  - Code des juridictions financières - art. R134-8 (V)
-  - Code rural - art. D732-163 (V)
-  - Code rural - art. R752-52 (VD)
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
-
-_Créé par_:
-
-  - Loi n°98-546 du 2 juillet 1998 - art. 93 ()
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 1 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 10 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 11 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 12 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 13 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 14 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 15 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 16 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 17 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 2 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 3 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 4 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 5 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 6 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 7 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 8 (Ab)
-  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 9 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°2006-1640 du 21 décembre 2006 - art. 41 () JORF 22 décembre 2006 en vigueur le 1er janvier 2008
-
-_Cite_:
-
-  - Code des juridictions financières - art. L134-1 (V)
 
 
 #### CHAPITRE V : Communication des observations<a id=26></a>
