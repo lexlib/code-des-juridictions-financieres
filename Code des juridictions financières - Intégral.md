@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-01-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -25386,45 +25386,37 @@ _Modifié par_:
 
 ###### Article R224-5
 
-Peuvent être inscrits au tableau d'avancement :
+Peuvent être inscrits au tableau d'avancement : 
 
-1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
+1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ; 
 
-2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 6e échelon.
+2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 6e échelon. 
 
-Les intéressés doivent, en outre, justifier de trois années de services effectifs dans le corps.
+Les intéressés doivent, en outre, justifier de trois années de services effectifs dans le corps. 
 
-Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
+Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 : 
 
-1° Par mutation dans une autre chambre régionale ou territoriale des comptes ;
+1° Par mutation dans une autre chambre régionale ou territoriale des comptes ; 
 
-2° Par détachement ou mise à disposition à la Cour des comptes ;
+2° Par détachement ou mise à disposition à la Cour des comptes ; 
 
 3° Par détachement ou mise à disposition dans un service, une juridiction, un organisme, une collectivité ou une entreprise
 publique pouvant accueillir, au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole
-nationale d'administration ;
+nationale d'administration ; 
 
-4° Par mobilité au sens du décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires
-des corps recrutés par la voie de l'Ecole nationale d'administration.
+4° Par mobilité au sens du décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des
+corps recrutés par la voie de l'Ecole nationale d'administration.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°82-970 du 16 novembre 1982 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
 _Cite_:
 
-  - Décret n°2004-708 2004-07-16
+  - Décret n°2008-15 du 4 janvier 2008 (V)
   - Code des juridictions financières - art. L221-2-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2006-232 du 27 février 2006 - art. 4 () JORF 28 février 2006 en vigueur le 1er mars 2006
+  - Décret n°2008-15 du 4 janvier 2008 - art. 7 (V)
 
 _Cité par_:
 
