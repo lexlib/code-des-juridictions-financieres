@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-02-10
+Version Consolidée au 2008-03-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -16865,23 +16865,15 @@ saisies par le premier président.
 
 Les chambres réunies statuant en formation restreinte jugent les affaires dont elles sont saisies par le premier président
 sur proposition d'une chambre ou sur réquisitoire du procureur général. Elles statuent sur les affaires renvoyées devant la
-cour après cassation.
+Cour après cassation. 
+
+Elles formulent l'avis de la Cour des comptes sur les projets de remise gracieuse soumis par le ministre chargé du budget sur
+les demandes présentées par les comptables publics et assimilés, les comptables de fait et les régisseurs constitués en
+débet.
 
 Le premier président peut renvoyer des affaires relevant de la formation restreinte à la formation plénière qui les juge.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-199 du 11 février 1985 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Modifié par_:
-
-  - Décret n°2007-543 du 12 avril 2007 - art. 11 () JORF 13 avril 2007
 
 _Cité par_:
 
@@ -16889,6 +16881,10 @@ _Cité par_:
   - Code des juridictions financières - art. R112-11 (M)
   - Code des juridictions financières - art. R141-13 (M)
   - Code des juridictions financières - art. R141-15 (T)
+
+_Modifié par_:
+
+  - Décret n°2008-228 du 5 mars 2008 - art. 22
 
 
 ###### Article R112-19
