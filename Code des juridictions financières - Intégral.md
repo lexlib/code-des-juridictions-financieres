@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-03-08
+Version Consolidée au 2008-03-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -249,7 +249,7 @@ Version Consolidée au 2008-03-08
           - [CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets (art. R232-1 à R232-6)](#246)
             - [Section 1 : Dispositions communes aux collectivités territoriales et à leurs établissements publics (art. R232-1)](#247)
             - [Section 2 : Dispositions particulières aux syndicats de communes (art. R232-2)](#248)
-            - [Section 3 : Des établissements publics locaux d'enseignement (art. R232-3 à R232-5)](#249)
+            - [Section 3 : Des établissements publics locaux d'enseignement (art. R232-3)](#249)
             - [Section 4 : Des établissements publics de santé (art. R232-6)](#250)
           - [CHAPITRE IV : Contrôle de certaines conventions (art. R234-1 à R234-2)](#251)
           - [CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales (art. R235-1)](#252)
@@ -26362,117 +26362,22 @@ _Cite_:
 
 ###### Article R232-3
 
-Le projet de budget est préparé par le chef d'établissement. Il doit être soumis au vote du conseil d'administration et
-adopté en équilibre réel dans le délai de trente jours suivant la notification de la participation de la collectivité de
-rattachement. Il est transmis au représentant de l'Etat, à la collectivité de rattachement ainsi qu'à l'autorité académique
-dans les cinq jours suivant le vote. Il devient exécutoire dans un délai de trente jours à compter de la dernière date de
-réception par les trois autorités mentionnées ci-dessus, sauf si la collectivité de rattachement ou l'autorité académique a
-fait connaître son désaccord motivé sur le budget. Dans ce cas ou lorsque le budget n'est pas adopté dans les trente jours
-suivant la notification de la participation de la collectivité de rattachement, il est fait application de la procédure
-prévue aux e et f de l'article L. 232-4.
-
-Le budget des collèges, des lycées et des établissements d'éducation spéciale est transmis dès qu'il est adopté ou réglé à
-l'agent comptable.
+Le contrôle des actes budgétaires et de l'exécution des budgets des établissements publics locaux d'enseignement s'exerce
+dans les conditions prévues aux articles R. 421-59 à R. 421-61 du code de l'éducation.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 36 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-4 (M)
-
-
-###### Article R232-4
-
-Les modifications apportées au budget initial en cours d'exercice sont adoptées dans les mêmes conditions que le budget.
-Elles deviennent exécutoires dans le délai de quinze jours à compter de la dernière date de réception par les autorités de
-tutelle, sauf si l'une ou l'autre fait connaître son désaccord motivé.
-
-Par dérogation aux dispositions ci-dessus, le chef d'établissement peut directement porter au budget les modifications
-suivantes :
-
-a) Les augmentations de crédits provenant de l'encaissement de ressources liées à des activités spécifiques de
-l'établissement dont le montant ne peut être arrêté avec exactitude lors de l'élaboration du budget ;
-
-b) Dans la mesure où elles n'ont pas pu faire l'objet d'une inscription au budget initial, les augmentations de crédits,
-suivies en ressources affectées, relatives à des recettes encaissées par l'établissement mais qui ne lui sont définitivement
-acquises qu'à concurrence du montant des dépenses constatées pour l'exécution des charges précisées lors du versement des
-fonds.
-
-Le chef d'établissement informe la commission permanente de ces modifications et en rend compte au prochain conseil
-d'administration.
-
-Il peut également, à charge d'en rendre compte au prochain conseil d'administration, procéder à tout virement de crédits à
-l'intérieur d'un chapitre.
-
-Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 16 (V)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
 
 _Modifié par_:
 
-  - Décret n°2004-885 du 27 août 2004 - art. 12 () JORF 29 août 2004 en vigueur le 1er septembre 2004
-
-_Abrogé par_:
-
   - Décret n°2008-263 du 14 mars 2008 - art. 5
 
 _Nouveaux textes_:
 
-  - Code de l'éducation - art. R421-60 (V)
-
-
-###### Article R232-5
-
-Lorsqu'il est fait application des dispositions de l'article L. 1612-1 du code général des collectivités territoriales, il
-peut, en cas de nécessité, être tenu compte, après accord de la collectivité de rattachement et de l'autorité académique, de
-l'incidence des mesures prises au titre de la dernière rentrée scolaire, pour la détermination des limites d'engagement des
-dépenses.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 38 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. 5
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. R421-61 (V)
+  - Code de l'éducation - art. R421-59 (M)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1612-1
+  - Code de l'éducation - art. R421-59 (V)
 
 
 ##### Section 4 : Des établissements publics de santé<a id=250></a>
