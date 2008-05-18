@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-03-19
+Version Consolidée au 2008-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -187,12 +187,12 @@ Version Consolidée au 2008-03-19
           - [Section 4 : Condamnation des comptables à l'amende pour retard (art. D131-37 à D131-40)](#184)
           - [Section 5 : Jugement des appels (art. R131-41 à R131-46)](#185)
         - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. R133-1 à R133-4)](#186)
-        - [CHAPITRE IV : Contrôle de la sécurité sociale (art. D134-6 à R134-23)](#187)
+        - [CHAPITRE IV : Contrôle de la sécurité sociale (art. D134-6 à D134-26)](#187)
           - [Section 1 : Le contrôle de la Cour des comptes et le comité de pilotage (art. D134-6 à R134-5)](#188)
-          - [Section 2 : Composition et compétence des comités d'examen des comptes. (art. D134-9 à R134-8)](#189)
-          - [Section 3 : Les attributions des comités d'examen des comptes. (art. D134-15 à R134-14)](#190)
+          - [Section 2 : Composition et compétence des comités d'examen des comptes. (art. D134-9 à R134-10)](#189)
+          - [Section 3 : Les attributions des comités d'examen des comptes. (art. D134-15 à D134-16)](#190)
           - [Section 4 : Les contrôles des comptes et de la gestion. (art. D134-17 à D134-20)](#191)
-          - [Section 5 : Les suites données aux contrôles par la Cour des comptes. (art. D134-24 à R134-23)](#192)
+          - [Section 5 : Les suites données aux contrôles par la Cour des comptes. (art. D134-24 à D134-26)](#192)
         - [CHAPITRE V : Communication des observations (art. R135-1 à R135-4)](#193)
         - [CHAPITRE VI : Rapport public (art. R136-1 à R136-3)](#194)
         - [CHAPITRE VII : Travaux de certification des comptes de l'Etat et de la sécurité sociale (art. R137-1 à R137-4)](#195)
@@ -20308,29 +20308,20 @@ _Nouveaux textes_:
 
 Un comité présidé par le président de la chambre de la Cour des comptes compétente en matière de contrôle des organismes de
 sécurité sociale réunit un représentant du ministre chargé du budget, un représentant du ministre chargé de la sécurité
-sociale et un représentant du ministre chargé de la protection sociale agricole.
+sociale et un représentant du ministre chargé de la protection sociale agricole. 
 
-Il anime et coordonne les contrôles effectués par les comités d'examen des comptes mentionnés à l'article L. 134-2, auxquels
-il apporte le soutien technique et juridique approprié.
+Il anime et coordonne les contrôles portant sur les organismes mentionnés aux articles L. 134-1 et R. 134-2. Il arrête les
+orientations et les méthodes de ces contrôles et définit les indicateurs ayant pour objet de détecter les organismes dont les
+performances de gestion paraissent insuffisantes. Il approuve le programme annuel des contrôles de chaque administration et
+en suit l'exécution. 
 
-Il arrête les orientations annuelles, ou pluriannuelles, des contrôles exercés par les comités d'examen des comptes et en
-suit l'exécution.
-
-Ses modalités d'organisation et de fonctionnement sont mentionnées aux articles D. 134-6 et D. 134-7.
+Ses modalités d'organisation et de fonctionnement sont fixées par décret.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-199 du 11 février 1985 - art. 44 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2008-460 du 15 mai 2008 - art. 1
 
 _Cité par_:
 
@@ -20341,6 +20332,19 @@ _Cité par_:
   - Code des juridictions financières - art. D134-6 (Ab)
   - Code des juridictions financières - art. D134-7 (T)
   - Code des juridictions financières - art. R134-14 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 43
+
+_Cite_:
+
+  - Code des juridictions financières - art. L134-1
+  - Code des juridictions financières - art. R134-2
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R134-4 (V)
 
 
 ##### Section 2 : Composition et compétence des comités d'examen des comptes.<a id=189></a>
@@ -20539,36 +20543,17 @@ _Abrogé par_:
 
 ###### Article R134-8
 
-Les comptes annuels des organismes mentionnés à l'article L. 134-1 sont vérifiés, sous la surveillance de la Cour des
-comptes, par les comités d'examen des comptes mentionnés à l'article L. 134-2.
+A l'issue de chaque contrôle, les organismes disposent d'un délai d'un mois à compter de la réception du rapport de
+vérification pour présenter leurs remarques sur les constatations et observations formulées par les vérificateurs. 
 
-Ces comités sont présidés soit par le trésorier-payeur général de région, soit par un trésorier-payeur général, dans les
-conditions prévues à l'article D. 134-9.
-
-Dans les conditions prévues à l'article D. 134-12, le comité d'examen des comptes désigne, parmi les personnels des services
-déconcentrés relevant du ministre chargé du budget, du ministre chargé de la sécurité sociale et du ministre chargé de la
-protection sociale agricole, des vérificateurs qui réalisent les contrôles mentionnés ci-dessus selon les modalités prévues à
-l'article R. 141-3.
-
-Hormis le cas où il est fait application des dispositions de l'article R. 134-23, les comités d'examen des comptes émettent
-un avis sur les comptes et la gestion des organismes mentionnés à l'article L. 134-1, préalablement à l'approbation des
-comptes par l'autorité de tutelle.
-
-Ces comités peuvent également exercer, avec l'accord de la Cour des comptes, les contrôles prévus à l'article R. 134-2.
+Les réponses de l'organisme assorties, le cas échéant, des observations des vérificateurs sur ces dernières sont annexées au
+rapport de vérification définitif, qui est remis au président de la chambre compétente de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-199 du 11 février 1985 - art. 45 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2008-460 du 15 mai 2008 - art. 1
 
 _Cité par_:
 
@@ -20581,14 +20566,68 @@ _Cité par_:
   - Code des juridictions financières - art. D134-16 (Ab)
   - Code des juridictions financières - art. D134-20 (Ab)
 
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 43
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R134-6 (V)
+
+
+###### Article R134-9
+
+La Cour des comptes communique les observations qui résultent de ses contrôles ou qui sont fondées sur les contrôles exercés
+dans le cadre de l'article R. 134-4, tant aux autorités de tutelle qu'au directeur de l'organisme contrôlé. 
+
+Dans le délai fixé par la Cour des comptes, qui ne peut excéder trois mois, le directeur de l'organisme est tenu de faire
+connaître à cette dernière et aux autorités de tutelle les suites données aux observations formulées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-460 du 15 mai 2008 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 44
+
 _Cite_:
 
-  - Code des juridictions financières - art. D134-9 (V)
-  - Code des juridictions financières - art. L134-1 (V)
-  - Code des juridictions financières - art. L134-2 (AbD)
-  - Code des juridictions financières - art. R134-2 (V)
-  - Code des juridictions financières - art. R134-23 (V)
-  - Code des juridictions financières - art. R141-3 (V)
+  - Code des juridictions financières - art. R134-4
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R134-7 (V)
+
+
+###### Article R134-10
+
+La Cour des comptes peut demander aux autorités de tutelle de mettre en jeu la responsabilité de l'agent comptable des
+organismes mentionnés à l'article L. 134-1 et, le cas échéant, à l'article R. 134-2. 
+
+Elle est informée sans délai de la procédure de mise en cause de la responsabilité de l'agent comptable par les autorités
+compétentes, ainsi que de la décision adoptée dans le mois de cette décision.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-460 du 15 mai 2008 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 44
+
+_Cite_:
+
+  - Code des juridictions financières - art. L134-1
+  - Code des juridictions financières - art. R134-2
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R134-8 (V)
 
 
 ##### Section 3 : Les attributions des comités d'examen des comptes.<a id=190></a>
@@ -20689,54 +20728,6 @@ _Cite_:
   - Code des juridictions financières - art. D134-9
   - Code des juridictions financières - art. R134-5
   - Code des juridictions financières - art. R134-8
-
-
-###### Article R134-14
-
-A la suite de leurs contrôles, les comités d'examen des comptes mentionnés à l'article L. 134-2 adressent à la Cour des
-comptes ainsi qu'aux autorités de tutelle leurs avis motivés présentant leurs observations relatives aux comptes et à la
-gestion de l'organisme vérifié. Ils adressent en outre à la Cour des comptes le rapport de vérification définitif. 
-
-Dans les conditions arrêtées par le comité mentionné à l'article R. 134-5, ils transmettent chaque année à la Cour des
-comptes : 
-
-1° Un rapport d'ensemble récapitulant les observations émises à l'issue des contrôles ; 
-
-2° Les rapports traitant des points particuliers arrêtés selon les modalités prévues à l'article D. 134-7 ; 
-
-3° Les éléments de rapports traitant des thèmes de vérification arrêtés selon les modalités prévues à l'article D. 134-7. 
-
-Ils transmettent également à la Cour des comptes les informations demandées par celle-ci en application de l'article LO
-132-3.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-199 du 11 février 1985 - art. 46 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2008-460 du 15 mai 2008 - art. 1
-
-_Cité par_:
-
-  - Code des juridictions financières - art. D134-15 (Ab)
-
-_Cite_:
-
-  - Code des juridictions financières - art. D134-7
-  - Code des juridictions financières - art. L134-2
-  - Code des juridictions financières - art. LO132-3
-  - Code des juridictions financières - art. R134-5
 
 
 ##### Section 4 : Les contrôles des comptes et de la gestion.<a id=191></a>
@@ -21004,129 +20995,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-
-###### Article R134-21
-
-La Cour des comptes communique les observations qui résultent de ses contrôles, ou qui sont fondées sur les contrôles exercés
-par les comités d'examen mentionnés à l'article L. 134-2, tant aux autorités de tutelle qu'au président du conseil
-d'administration ou, à défaut, au dirigeant responsable de l'organisme contrôlé. 
-
-Dans le délai fixé par la Cour des comptes, qui ne peut excéder trois mois, le président du conseil d'administration ou le
-dirigeant responsable est tenu de faire connaître à cette dernière et aux autorités de tutelle les suites données aux
-observations formulées. Les procès-verbaux des délibérations correspondantes sont fournis à l'appui de la réponse du
-président du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-199 du 11 février 1985 - art. 43 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2008-460 du 15 mai 2008 - art. 1
-
-_Cite_:
-
-  - Code des juridictions financières - art. L134-2
-
-
-###### Article R134-22
-
-La Cour des comptes peut demander aux autorités de tutelle de mettre en jeu la responsabilité de l'agent comptable des
-organismes mentionnés à l'article L. 134-1 et, le cas échéant, à l'article R. 134-2. 
-
-Elle est informée sans délai par les autorités désignées à l'article D. 253-75 du code de la sécurité sociale et à l'article
-56 du décret n° 63-379 du 6 avril 1963 modifié relatif aux opérations comptables et financières exécutées par les directeurs
-et les agents comptables de la mutualité sociale agricole de la procédure de mise en cause de l'agent comptable dans les
-conditions prévues aux articles D. 253-76 à D. 253-82 du code de la sécurité sociale et aux articles 57 à 59 du décret du 6
-avril 1963 précité. 
-
-Les autorités compétentes pour fixer le montant des sommes laissées à la charge du comptable et visées aux articles D. 253-78
-à D. 253-80 du code de la sécurité sociale et aux articles 58 et 59 du décret du 6 avril 1963 précité communiquent à la Cour
-des comptes leur décision relative à la mise en cause de la responsabilité de l'agent comptable, dans le mois qui suit ladite
-décision.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°63-379 du 6 avril 1963
-  - Code des juridictions financières - art. L134-1
-  - Code des juridictions financières - art. R134-2
-  - Code de la sécurité sociale. - art. D253-75
-  - Code de la sécurité sociale. - art. D253-76
-
-_Anciens textes_:
-
-  - Décret n°85-199 du 11 février 1985 - art. 48 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2008-460 du 15 mai 2008 - art. 1
-
-
-###### Article R134-23
-
-A la suite de la vérification effectuée par un comité d'examen des comptes, la Cour des comptes peut procéder à une seconde
-vérification des comptes et de la gestion des organismes de sécurité sociale :
-
-1° Soit d'office ou sur réquisition du procureur général près la Cour des comptes ;
-
-2° Soit à la demande du président du conseil d'administration de l'organisme intéressé ou de la majorité des membres du
-conseil d'administration ;
-
-3° Soit à la demande du directeur de l'organisme contrôlé, lorsque les faits relevés au cours de la première vérification le
-concernant sont de nature à provoquer la saisine de la Cour de discipline budgétaire et financière dans les conditions
-prévues par le livre III du présent code ;
-
-4° Soit à la demande de l'agent comptable, lorsque sa responsabilité peut être mise en cause en raison de faits relevés par
-le comité d'examen des comptes au cours de la première vérification.
-
-En cas de seconde vérification, la Cour des comptes informe le ministre de tutelle compétent de sa décision.
-
-Les ministres de tutelle compétents statuent sur l'approbation des comptes qui ont fait l'objet d'une seconde vérification,
-au vu de l'avis motivé émis sur les comptes et des observations formulées sur la gestion par la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-199 du 11 février 1985 - art. 47 (M)
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Créé par_:
-
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2008-460 du 15 mai 2008 - art. 1
-
-_Cité par_:
-
-  - Code des juridictions financières - art. D134-24 (Ab)
-  - Code des juridictions financières - art. R134-8 (V)
 
 
 #### CHAPITRE V : Communication des observations<a id=193></a>
