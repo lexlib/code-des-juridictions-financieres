@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-05-19
+Version Consolidée au 2008-05-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -21879,8 +21879,8 @@ _Nouveaux textes_:
 
 ###### Article R141-12
 
-Sont applicables aux audiences publiques de la Cour les articles 438, 439 et 441 du nouveau code de procédure civile sur la
-police de l'audience.
+Sont applicables aux audiences publiques de la Cour les articles 438, 439 et 441 du    code de procédure civile sur la police
+de l'audience. 
 
 Le président peut décider que l'audience aura lieu ou se poursuivra à huis clos dans les cas prévus à l'article 435 du même
 code.
@@ -21891,13 +21891,9 @@ _Anciens textes_:
 
   - Décret n°85-199 du 11 février 1985 - art. 23-1 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 _Cité par_:
 
@@ -21913,6 +21909,10 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code des juridictions financières - art. R142-4 (T)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 438, 439, 441, 435
 
 
 ###### Article R141-13
@@ -28675,25 +28675,25 @@ _Cite_:
 
 ###### Article R245-4
 
-Sont applicables aux audiences publiques de la chambre régionale des comptes les articles 438, 439 et 441 du nouveau code de
-procédure civile sur la police de l'audience.
+Sont applicables aux audiences publiques de la chambre régionale des comptes les articles 438, 439 et 441 du    code de
+procédure civile sur la police de l'audience. 
 
 Le président peut décider que l'audience aura lieu ou se poursuivra à huis clos dans les cas prévus à l'article 435 du même
 code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°95-945 1995-08-23, art 43
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+_Cite_:
+
+  - Nouveau code de procédure civile 438, 439, 441, 435
 
 
 ###### Article R245-5
@@ -32207,25 +32207,25 @@ _Abrogé par_:
 
 ###### Article R262-101
 
-Sont applicables aux audiences publiques de la chambre territoriale des comptes les articles 438, 439 et 441 du nouveau code
-de procédure civile sur la police de l'audience.
+Sont applicables aux audiences publiques de la chambre territoriale des comptes les articles 438, 439 et 441 du    code de
+procédure civile sur la police de l'audience. 
 
 Le président peut décider que l'audience aura lieu ou se poursuivra à huit clos dans les cas prévus à l'article 435 du même
 code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-945 1995-08-23, art 43
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000 rectificatif jorf 20 mai 2000
+  - Nouveau code de procédure civile 438, 439, 441, 435
 
 
 ###### Article R262-102
@@ -33724,18 +33724,26 @@ _Créé par_:
 ###### Article R314-2
 
 Les audiences de la cour sont publiques. Le président peut décider que l'audience aura lieu ou se poursuivra à huis clos dans
-les cas prévus à l'article 435 du nouveau code de procédure civile et dans les cas où la publicité de l'audience est de
-nature à porter atteinte à un secret protégé par la loi.
+les cas prévus à l'article 435 du    code de procédure civile et dans les cas où la publicité de l'audience est de nature à
+porter atteinte à un secret protégé par la loi.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 179
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R314-6 (V)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 435
 
 
 ###### Article R314-3
