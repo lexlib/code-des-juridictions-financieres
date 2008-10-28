@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-08-03
+Version Consolidée au 2008-10-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L140-9)](#2)
@@ -6807,18 +6807,14 @@ _Anciens textes_:
 Le contrôle des conventions relatives à des délégations de service public est régi par les dispositions de l'article L.
 1411-18 du code général des collectivités territoriales ci-après reproduit : 
 
-Art.L. 1411-18.-Les conventions relatives à des délégations de service public peuvent être transmises par le représentant de
+"Art.L. 1411-18.-Les conventions relatives à des délégations de service public peuvent être transmises par le représentant de
 l'Etat dans le département à la chambre régionale des comptes. Il en informe l'autorité territoriale concernée. La chambre
 régionale des comptes examine cette convention. Elle formule ses observations dans un délai d'un mois à compter de sa
 saisine. L'avis de la chambre régionale des comptes est transmis à la collectivité territoriale ou à l'établissement public
-intéressé et au représentant de l'Etat. Les dispositions de l'article L. 242-2 du code des juridictions financières sont
-applicables. L'assemblée délibérante est informée de l'avis de la chambre régionale des comptes dès sa plus proche réunion.
+intéressé et au représentant de l'Etat. Les dispositions de l'article L. 244-2 du code des juridictions financières sont
+applicables. L'assemblée délibérante est informée de l'avis de la chambre régionale des comptes dès sa plus proche réunion."
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
 
 _Cité par_:
 
@@ -6826,11 +6822,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+  - Loi n°2008-1091 du 28 octobre 2008 - art. 25
 
-_Cite_:
+_Transféré par_:
 
-  - Code des juridictions financières - art. L242-2 (V)
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L211-12 (VD)
 
 **Liens**:
 
