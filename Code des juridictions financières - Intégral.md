@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2009-02-01
+Version Consolidée au 2009-05-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L142-1)](#2)
@@ -3475,12 +3475,12 @@ _Cité par_:
 
 ###### Article L141-10
 
-Les dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
-entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal ne sont pas applicables
-aux mesures d'instruction, rapports et diverses communications de la Cour des comptes.
+Les mesures d'instruction, rapports et diverses communications de la Cour des comptes ne sont pas communicables sur le
+fondement des dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
+relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
 
-A ce titre, elles ne sont notamment pas applicables aux rapports de vérification et avis des comités régionaux ou
-départementaux d'examen des comptes des organismes de sécurité sociale visés à l'article L. 134-2.
+A ce titre, ne sont notamment pas communicables, au sens de ces dispositions, les rapports de vérification et avis des
+comités régionaux ou départementaux d'examen des comptes des organismes de sécurité sociale mentionnés à l'article L. 134-2.
 
 **Liens relatifs à cet article**
 
@@ -3497,13 +3497,9 @@ _Cité par_:
   - Code des juridictions financières - art. R143-23 (V)
   - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L140-9 (VT)
+  - Ordonnance n°2009-483 du 29 avril 2009 - art. 15
 
 
 #### CHAPITRE II : Dispositions relatives aux activités juridictionnelles<a id=30></a>
