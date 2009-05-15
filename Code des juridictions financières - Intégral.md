@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2009-05-01
+Version Consolidée au 2009-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L142-1)](#2)
@@ -11485,20 +11485,18 @@ par la délibération d'ouverture de l'autorisation de programme ou d'engagement
 Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en
 droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 7 al 1
-  - Loi n°90-1247 1990-12-29, art 1er
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 42 () JORF 27 juillet 2007
+  - Ordonnance n°2009-538 du 14 mai 2009 - art. 42
 
 _Cité par_:
 
@@ -11659,23 +11657,22 @@ section de fonctionnement comporte ou reprend un excédent reporté par décisio
 d'investissement comporte un excédent, notamment après inscriptions des dotations aux amortissements et aux provisions
 exigées.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 8, dernier alinéa
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 43 () JORF 27 juillet 2007
+  - Ordonnance n°2009-538 du 14 mai 2009 - art. 43
 
 _Cite_:
 
-  - Code des juridictions financières - art. L263-12 (M)
+  - Code des juridictions financières - art. L263-12
 
 
 ###### Article L263-14
@@ -11900,40 +11897,36 @@ Lorsque l'arrêté des comptes communaux fait apparaître dans l'exécution du b
 des inscriptions de recettes et de dépenses un déficit égal ou supérieur à 10 % des recettes de la section de fonctionnement
 s'il s'agit d'une commune de moins de 20 000 habitants et à 5 % dans les autres cas, la chambre territoriale des comptes,
 saisie par le haut-commissaire, propose à la commune les mesures nécessaires au rétablissement de l'équilibre budgétaire,
-dans le délai d'un mois à compter de cette saisine.
+dans le délai d'un mois à compter de cette saisine. 
 
 Lorsque le budget d'une commune a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le haut-commissaire
-transmet à la chambre territoriale des comptes le budget primitif afférent à l'exercice suivant.
+transmet à la chambre territoriale des comptes le budget primitif afférent à l'exercice suivant. 
 
 Si, lors de l'examen de ce budget primitif, la chambre territoriale des comptes constate que la commune n'a pas pris de
 mesures suffisantes pour résorber ce déficit, elle propose les mesures nécessaires au haut-commissaire dans un délai d'un
 mois à partir de la transmission prévue à l'alinéa précédent. Le haut-commissaire règle le budget et le rend exécutoire,
 après application éventuelle des dispositions de l'article L. 235-5 du code des communes. S'il s'écarte des propositions
-formulées par la chambre territoriale des comptes, il assortit sa décision d'une motivation explicite.
+formulées par la chambre territoriale des comptes, il assortit sa décision d'une motivation explicite. 
 
 En cas de mise en oeuvre des dispositions des alinéas précédents, la procédure prévue à l'article L. 263-12 n'est pas
 applicable.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-213 1982-03-02 modifiée, art 9 al 3 à 6
-  - Loi n°90-1247 1990-12-29, art 1er
-  - modifiée par loi 96-609 1996-07-05, art 25-III-8°
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 44 () JORF 27 juillet 2007
+  - Ordonnance n°2009-538 du 14 mai 2009 - art. 44
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L235-5 (Ab)
-  - Code des juridictions financières - art. L263-12 (M)
+  - Code des communes - art. L235-5 (Ab)
 
 _Cité par_:
 
@@ -12322,15 +12315,14 @@ L'ordre de réquisition est notifié à la chambre territoriale des comptes.
 
 En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 15 al 2 à 4
-
-_Codifié par_:
-
-  - Loi n°94-1040 1994-12-02
 
 _Cité par_:
 
@@ -12339,7 +12331,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 45 () JORF 27 juillet 2007
+  - Ordonnance n°2009-538 du 14 mai 2009 - art. 45
 
 
 #### TITRE VII : Dispositions applicables en Polynésie française<a id=126></a>
