@@ -1,8 +1,8 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
-    - [LIVRE Ier : La Cour des comptes (art. L111-1 à L142-1)](#2)
+    - [LIVRE Ier : La Cour des comptes (art. L111-1 à LO142-2)](#2)
       - [TITRE Ier : Missions et organisation (art. L111-1 à L112-9)](#3)
         - [CHAPITRE Ier : Missions (art. L111-1 à L111-10)](#4)
         - [CHAPITRE II : Organisation (art. L112-1 à L112-9)](#5)
@@ -28,9 +28,9 @@ Version Consolidée au 2010-02-26
         - [CHAPITRE IV : Contrôle de la sécurité sociale (art. L134-1)](#25)
         - [CHAPITRE V : Communication des observations (art. L135-1 à L135-5)](#26)
         - [CHAPITRE VI : Rapports publics (art. L136-1 à L136-5)](#27)
-      - [TITRE IV : Procédure (art. L141-1 à L142-1)](#28)
+      - [TITRE IV : Procédure (art. L141-1 à LO142-2)](#28)
         - [CHAPITRE Ier : Dispositions communes aux activités juridictionnelles et administratives (art. L141-1 à L141-10)](#29)
-        - [CHAPITRE II : Dispositions relatives aux activités juridictionnelles (art. L142-1)](#30)
+        - [CHAPITRE II : Dispositions relatives aux activités juridictionnelles (art. L142-1 à LO142-2)](#30)
     - [LIVRE II : Les chambres régionales et territoriales des comptes (art. L210-1 à LO274-5)](#31)
       - [PREMIERE PARTIE : Les chambres régionales des comptes (art. L210-1 à L245-4)](#32)
         - [TITRE Ier : Missions et organisation (art. L210-1 à L212-19)](#33)
@@ -3598,6 +3598,27 @@ _Cité par_:
   - Code des juridictions financières - art. R141-11 (T)
   - Code des juridictions financières - art. R141-12 (T)
   - Code des juridictions financières - art. R141-15 (T)
+
+
+###### Article LO142-2
+
+I.-La transmission au Conseil d'Etat, par une juridiction régie par le présent code, d'une question prioritaire de
+constitutionnalité obéit aux règles définies par les articles 23-1 à 23-3 de l'ordonnance n° 58-1067 du 7 novembre 1958
+portant loi organique sur le Conseil constitutionnel. 
+
+II.-Devant une juridiction financière, l'affaire est communiquée au ministère public dès que le moyen tiré de ce qu'une
+disposition législative porte atteinte aux droits et libertés garantis par la Constitution est soulevé, afin qu'il puisse
+faire connaître son avis.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-1
+
+_Créé par_:
+
+  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
 ## LIVRE II : Les chambres régionales et territoriales des comptes<a id=31></a>
