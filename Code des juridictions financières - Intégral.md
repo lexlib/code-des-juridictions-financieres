@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à LO142-2)](#2)
@@ -16246,7 +16246,7 @@ l'enseignement supérieur mentionnés à l'article L. 741-1 du code de l'éducat
 3° Les écoles d'architecture mentionnées à l'article L. 752-1 du code de l'éducation ; 
 
 4° Les établissements d'enseignement supérieur agricole et vétérinaire mentionnés à l'article L. 751-1 du code de l'éducation
-et à l'article L. 812-2 du code rural ; 
+et à l'article L. 812-2 du code rural et de la pêche maritime ; 
 
 5° Les instituts universitaires de formation des maîtres ; 
 
@@ -16294,7 +16294,7 @@ territoriale des comptes de la Polynésie française.
 
 _Modifié par_:
 
-  - Décret n°2010-425 du 29 avril 2010 - art. 9
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
