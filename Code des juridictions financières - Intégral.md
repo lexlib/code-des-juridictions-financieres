@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-05-22
+Version Consolidée au 2010-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à LO142-2)](#2)
@@ -5177,25 +5177,17 @@ _Modifié par_:
 ###### Article LO222-2
 
 L'exercice des fonctions de magistrat des chambres régionales des comptes est incompatible avec l'exercice d'un mandat au
-Parlement ou au Conseil économique et social.
+Parlement ou au   Conseil économique, social et environnemental.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
 
 _Cité par_:
 
   - Code des juridictions financières - art. L222-4 (V)
-
-_Anciens textes_:
-
-  - Loi n°82-595 1983-07-10, art 8 1°
-
-_Codifié par_:
-
-  - Loi n°94-1132 1994-12-27
-
-_Créé par_:
-
-  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
 
 
 ##### CHAPITRE III : Discipline<a id=45></a>
@@ -15927,16 +15919,20 @@ commission du Sénat chargée des finances ;
 - une personnalité qualifiée désignée par le Président du Sénat après avis du président de la commission du Sénat chargée des
 affaires sociales ;
 
-- une personnalité qualifiée désignée par le Président du Conseil économique et social.
+- une personnalité qualifiée désignée par le Président du   Conseil économique, social et environnemental. 
 
-Les personnalités désignées par le Président de l'Assemblée nationale, le Président du Sénat ou le Président du Conseil
-économique et social ne peuvent appartenir à l'une de ces assemblées.
+Les personnalités désignées par le Président de l'Assemblée nationale, le Président du Sénat ou le Président du   Conseil
+économique, social et environnemental ne peuvent appartenir à l'une de ces assemblées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°95-851 1995-07-24
+  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
 
 _Cité par_:
 
@@ -15944,6 +15940,10 @@ _Cité par_:
   - Code des juridictions financières - art. L331-13 (VD)
   - Code des juridictions financières - art. L351-11 (VT)
   - Code des juridictions financières - art. L351-12 (VT)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L331-5 (VD)
 
 
 ###### Article L351-6
