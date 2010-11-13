@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-09-27
+Version Consolidée au 2010-11-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à LO142-2)](#2)
@@ -15917,7 +15917,7 @@ Foix, à Andorre, assimilé à cette catégorie ;
 
 11° Les chambres de commerce et d'industrie et leurs groupements ; 
 
-12° Les chambres de métiers et de l'artisanat et leurs groupements ; 
+12° Les       chambres de métiers et de l'artisanat de région et leurs groupements ; 
 
 13° Les chambres d'agriculture et leurs groupements ; 
 
@@ -15948,7 +15948,7 @@ territoriale des comptes de la Polynésie française.
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 _Cite_:
 
