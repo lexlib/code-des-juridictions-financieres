@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-02-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à LO142-2)](#2)
@@ -451,6 +451,25 @@ _Cité par_:
   - Code des juridictions financières - art. L143-1 (VT)
   - Code des juridictions financières - art. R131-16 (V)
   - Code des juridictions financières - art. R131-24 (V)
+
+
+###### Article L111-3-1
+
+La Cour des comptes contribue à l'évaluation des politiques publiques dans les conditions prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-140 du 3 février 2011 - art. 4
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L111-13 (VD)
 
 
 ###### Article L111-4
@@ -2086,6 +2105,51 @@ _Cite_:
 
   - Code des juridictions financières - art. L133-1 (V)
   - Code des juridictions financières - art. L133-2 (V)
+
+
+###### Article L132-5
+
+Au titre de l'assistance au Parlement dans le domaine de l'évaluation des politiques publiques prévue par l'article 47-2 de
+la Constitution, la Cour des comptes peut être saisie d'une demande d'évaluation d'une politique publique par le président de
+l'Assemblée nationale ou le président du Sénat, de leur propre initiative ou sur proposition d'une commission permanente dans
+son domaine de compétence ou de toute instance permanente créée au sein d'une des deux assemblées parlementaires pour
+procéder à l'évaluation de politiques publiques dont le champ dépasse le domaine de compétence d'une seule commission
+permanente. 
+
+Les demandes formulées au titre du premier alinéa ne peuvent porter ni sur le suivi et le contrôle de l'exécution des lois de
+finances ou de financement de la sécurité sociale, ni sur l'évaluation de toute question relative aux finances publiques ou
+aux finances de la sécurité sociale.
+
+L'assistance de la Cour des comptes prend la forme d'un rapport. Ce rapport est communiqué à l'autorité qui est à l'origine
+de la demande, dans un délai qu'elle détermine après consultation du premier président de la Cour des comptes et qui ne peut
+excéder douze mois à compter de la saisine de la Cour des comptes. 
+
+Le président de l'Assemblée nationale ou le président du Sénat, lorsqu'il est à l'initiative de la demande d'assistance de la
+Cour des comptes, et, dans les autres cas, la commission permanente ou l'instance permanente à l'origine de la demande
+d'assistance de la Cour des comptes statue sur la publication du rapport qui lui a été transmis.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 47-2
+
+_Cité par_:
+
+  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (V)
+  - Code des juridictions financières - art. R143-14 (M)
+
+_Créé par_:
+
+  - Loi n°2011-140 du 3 février 2011 - art. 3
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L132-6 (VD)
 
 
 ###### Article LO132-1
