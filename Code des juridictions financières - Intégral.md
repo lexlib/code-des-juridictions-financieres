@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à LO142-2)](#2)
@@ -178,7 +178,7 @@ Version Consolidée au 2011-05-19
         - [CHAPITRE III : Mobilité (art. R*123-1 à R*123-2)](#175)
         - [CHAPITRE V : Rapporteurs extérieurs (art. R125-1 à R125-3)](#176)
         - [CHAPITRE VI : Discipline (art. R126-1 à R126-8)](#177)
-      - [TITRE III : Compétences et attributions (art. R131-1 à R137-4)](#178)
+      - [TITRE III : Compétences et attributions (art. R131-1 à R137-6)](#178)
         - [CHAPITRE Ier : Compétences juridictionnelles (art. R131-1 à R131-41)](#179)
           - [Section 1 : Jugement des comptes (art. R131-2 à R131-13)](#180)
             - [Sous-section 1 : Jugement des comptes des comptables patents (art. R131-2 à D131-10)](#181)
@@ -195,7 +195,7 @@ Version Consolidée au 2011-05-19
           - [Section 2 : Procédure et suivi des contrôles (art. R134-8 à R134-10)](#192)
         - [CHAPITRE V : Communication des observations (art. R135-1 à R135-4)](#193)
         - [CHAPITRE VI : Rapport public (art. R136-1 à R136-3)](#194)
-        - [CHAPITRE VII : Travaux de certification des comptes de l'Etat et de la sécurité sociale (art. R137-1 à R137-4)](#195)
+        - [CHAPITRE VII : Travaux de certification des comptes de l'Etat et de la sécurité sociale (art. R137-1 à R137-6)](#195)
       - [TITRE IV : Procédure (art. R141-1 à D145-3)](#196)
         - [CHAPITRE Ier : Règles générales de procédure (art. R141-1 à R141-22)](#197)
           - [Section 1 : Dispositions communes aux activités juridictionnelles et administratives (art. R141-1 à R141-8)](#198)
@@ -20198,6 +20198,132 @@ _Créé par_:
 _Nouveaux textes_:
 
   - Code des juridictions financières - art. R143-11 (V)
+
+
+###### Article R137-5
+
+I.-Pour l'application des dispositions du deuxième alinéa de l'article L. 141-3, les renseignements demandés par les membres
+et personnels de la Cour des comptes ont pour objet d'apporter à la Cour des comptes pour l'exécution de la mission prévue à
+l'article LO 132-2-1, l'assurance raisonnable que les éléments de comptes qui retracent les opérations effectuées pour le
+compte des branches et de l'activité de recouvrement du régime général par les organismes et régimes mentionnés à l'article
+L. 114-8 du code de la sécurité sociale et l'organisme mentionné à l'article L. 135-6 du même code ne comportent pas
+d'anomalie significative. 
+
+Les renseignements communiqués aux membres et personnels de la Cour des comptes peuvent être constitués d'attestations ou de
+rapports prévus par les normes d'exercice professionnel applicables à la profession de commissaire aux comptes ainsi que de
+tous documents établis par les commissaires aux comptes dans le cadre de leur mission légale. 
+
+II.-Les membres et personnels de la Cour des comptes désignés à cet effet par le président de la formation compétente
+indiquent par écrit aux commissaires aux comptes, avant le 1er octobre de l'exercice comptable considéré, la nature,
+l'étendue, la forme et le calendrier de transmission des renseignements dont ils estiment nécessaire la communication. 
+
+L'élaboration de ces demandes de renseignements fait l'objet d'une concertation préalable entre la Cour des comptes et les
+commissaires aux comptes. 
+
+Le cas échéant, les membres et personnels de la Cour des comptes peuvent effectuer des demandes complémentaires
+postérieurement au 1er octobre, si sont détectés de nouveaux risques ou si doivent être réévalués des risques antérieurement
+identifiés. Les modalités prévues aux deux alinéas précédents s'appliquent à ces demandes. 
+
+III.-Les renseignements communiqués aux membres et personnels de la Cour des comptes sont couverts par le secret des
+investigations de la Cour des comptes conformément à l'article L. 141-7. 
+
+IV.-Les modalités d'application des I et II sont fixées par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-703 du 21 juin 2011 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 25
+
+_Cite_:
+
+  - Code des juridictions financières - art. L141-3
+  - Code des juridictions financières - art. L141-7
+  - Code des juridictions financières - art. LO132-2-1
+  - Code de la sécurité sociale. - art. L114-8
+  - Code de la sécurité sociale. - art. L135-6
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R143-12 (M)
+
+
+###### Article R137-6
+
+I.-Pour l'application des dispositions du troisième alinéa de l'article L. 141-3, les renseignements demandés par les
+commissaires aux comptes ont pour objet de leur apporter, pour l'exercice de la mission de certification des comptes prévue à
+l'article L. 114-8 du code de la sécurité sociale, l'assurance raisonnable que les éléments de comptes des organismes,
+branches et activité de recouvrement du régime général qui retracent les opérations effectuées pour le compte des organismes
+dont ils sont commissaires aux comptes ne comportent pas d'anomalie significative. 
+
+Les renseignements communiqués aux commissaires aux comptes peuvent être constitués de tout ou partie des communications
+prévues par les articles R. 137-1 et R. 137-2, accompagnées des éléments de réponse des destinataires de ces communications
+et d'une note d'analyse de ces éléments, ainsi que de tout document autre que ceux mentionnés au IV. 
+
+II.-Les commissaires aux comptes indiquent par écrit aux membres et personnels de la Cour des comptes désignés à cet effet
+par le président de la formation compétente, avant le 1er octobre de l'exercice comptable considéré, la nature, l'étendue, la
+forme et le calendrier de transmission des renseignements dont ils estiment nécessaire la communication pour l'exécution de
+la mission de certification des comptes prévue à l'article L. 114-8 du code de la sécurité sociale. 
+
+L'élaboration de ces demandes de renseignements fait l'objet d'une concertation préalable entre la Cour des comptes et les
+commissaires aux comptes. 
+
+Le cas échéant, les commissaires aux comptes peuvent effectuer des demandes complémentaires postérieurement au 1er octobre,
+si sont détectés de nouveaux risques ou si doivent être réévalués des risques antérieurement identifiés. Les modalités
+prévues aux deux alinéas précédents s'appliquent à ces demandes. 
+
+III.-Les renseignements communiqués aux commissaires aux comptes sont couverts par le secret professionnel des commissaires
+aux comptes conformément à l'article L. 822-15 du code de commerce. 
+
+IV.-Ne peuvent donner lieu à communication les documents couverts par le secret des délibérations des magistrats de la Cour
+des comptes. 
+
+V.-Les transmissions d'informations prévues par le présent article sont effectuées par le président de la formation
+compétente ou, le cas échéant, par un conseiller maître qu'il a désigné à cet effet. 
+
+Le procureur général près la Cour des comptes est tenu informé des demandes présentées par les commissaires aux comptes en
+application des dispositions du présent article et des réponses que le président de la formation compétente, ou le conseiller
+maître qu'il a désigné à cet effet, leur a apportées. 
+
+VI.-Le président de la formation compétente, ou le conseiller maître qu'il a désigné à cet effet, informe les organismes
+mentionnés à l'article LO 132-2-1 de la teneur des renseignements communiqués aux commissaires aux comptes en application du
+présent article. 
+
+VII.-Les dispositions du présent article sont applicables aux commissaires aux comptes des entités dont une partie des
+opérations est gérée par les organismes, branches ou activité mentionnés à l'article LO 132-2-1. 
+
+VIII.-Les modalités d'application des I et II sont fixées par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-703 du 21 juin 2011 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 25
+
+_Cite_:
+
+  - Code de commerce - art. L822-15
+  - Code des juridictions financières - art. L141-3
+  - Code des juridictions financières - art. LO132-2-1
+  - Code des juridictions financières - art. R137-1
+  - Code des juridictions financières - art. R137-2
+  - Code de la sécurité sociale. - art. L114-8
+
+_Cité par_:
+
+  - Code de commerce - art. A823-27-2 (V)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R143-13 (M)
 
 
 ### TITRE IV : Procédure<a id=196></a>
