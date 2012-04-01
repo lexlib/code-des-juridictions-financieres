@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-04-01
+Version Consolidée au 2012-04-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -21754,61 +21754,47 @@ _Nouveaux textes_:
 
 ###### Article R212-1
 
-Les sièges des chambres régionales des comptes sont fixés comme suit (région et siège de la chambre régionale des comptes) : 
+Les sièges et les ressorts des chambres régionales des comptes sont fixés comme suit : 
 
-Alsace (Strasbourg) ; 
+Arras : Nord-Pas-de-Calais, Picardie ; 
 
-Aquitaine (Bordeaux) ; 
+Bastia : Corse ; 
 
-Auvergne (Clermont-Ferrand) ; 
+Bordeaux : Aquitaine, Poitou-Charentes ; 
 
-Bourgogne (Dijon) ; 
+Cayenne : Guyane ; 
 
-Bretagne (Rennes) ; 
+Dijon : Bourgogne, Franche-Comté ; 
 
-Centre (Orléans) ; 
+Epinal : Champagne-Ardenne, Lorraine ; 
 
-Champagne-Ardenne (Châlons-en-Champagne) ; 
+Fort-de-France : Martinique ; 
 
-Corse (Bastia) ; 
+Lyon : Auvergne, Rhône-Alpes ; 
 
-Franche-Comté (Besançon) ; 
+Mamoudzou : Mayotte ; 
 
-Guadeloupe (Basse-Terre) ; 
+Marseille : Provence-Alpes-Côte d'Azur ; 
 
-Guyane (Cayenne) ; 
+Montpellier : Languedoc-Roussillon ; 
 
-Ile-de-France (Marne-la-Vallée) ; 
+Nantes : Pays de la Loire ; 
 
-Languedoc-Roussillon (Montpellier) ; 
+Noisiel : Ile-de-France ; 
 
-Limousin (Limoges) ; 
+Orléans : Centre, Limousin ; 
 
-Lorraine (Epinal) ;
+Pointe-à-Pitre : Guadeloupe ; 
 
-Martinique (Fort-de-France) ;
+Rennes : Bretagne ; 
 
-Mayotte (Mamoudzou) ; 
+Rouen : Basse-Normandie, Haute-Normandie ; 
 
-Midi-Pyrénées (Toulouse) ; 
+Saint-Denis : La Réunion ; 
 
-Nord-Pas-de-Calais (Arras) ; 
+Strasbourg : Alsace ; 
 
-Basse-Normandie (Caen) ; 
-
-Haute-Normandie (Rouen) ; 
-
-Pays de la Loire (Nantes) ; 
-
-Picardie (Amiens) ; 
-
-Poitou-Charentes (Poitiers) ; 
-
-Provence-Alpes-Côte d'Azur (Marseille) ; 
-
-Réunion (Saint-Denis) ; 
-
-Rhône-Alpes (Lyon).
+Toulouse : Midi-Pyrénées.
 
 **Liens relatifs à cet article**
 
@@ -21818,7 +21804,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-736 du 27 juin 2011 - art. 1
+  - Décret n°2012-255 du 23 février 2012 - art. 1
 
 _Cité par_:
 
@@ -21828,21 +21814,18 @@ _Cité par_:
 
 ###### Article R212-2
 
-Les chambres régionales des comptes sont désignées sous le nom de la région de leur ressort.
+Les chambres régionales des comptes dont le ressort ne comporte qu'une région sont désignées par le nom de cette région. Les
+autres le sont par le nom des régions qu'elles regroupent, par ordre alphabétique.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°95-945 1995-08-23, art 1er
-
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+  - Décret n°2012-255 du 23 février 2012 - art. 2
 
 
 ###### Article R212-3
@@ -21942,65 +21925,51 @@ _Créé par_:
 
 ###### Article R212-6
 
-Le nombre des sections des chambres régionales des comptes désignées ci-après est fixé comme suit :
+Le nombre des sections des chambres régionales des comptes est fixé comme suit : 
 
-Alsace : une section ;
+Alsace : une section ; 
 
-Aquitaine : trois sections ;
+Aquitaine, Poitou-Charentes : quatre sections ; 
 
-Auvergne : une section ;
+Auvergne, Rhône-Alpes : cinq sections ; 
 
-Bourgogne : une section ;
+Basse-Normandie, Haute-Normandie : deux sections ; 
 
-Bretagne : trois sections ;
+Bourgogne, Franche-Comté : deux sections ; 
 
-Centre : deux sections ;
+Bretagne : trois sections ; 
 
-Champagne-Ardenne : une section ;
+Centre, Limousin : trois sections ; 
 
-Ile-de-France : huit sections ;
+Champagne-Ardenne, Lorraine : trois sections ; 
 
-Languedoc-Roussillon : deux sections ;
+Guadeloupe : une section ; 
 
-Lorraine : deux sections ;
+Guyane : une section ; 
 
-Midi-Pyrénées : deux sections ;
+Ile-de-France : huit sections ; 
 
-Nord - Pas-de-Calais : trois sections ;
+Languedoc-Roussillon : deux sections ; 
 
-Basse-Normandie : une section ;
+Martinique : une section ; 
 
-Haute-Normandie : une section ;
+Midi-Pyrénées : deux sections ; 
 
-Pays de la Loire : trois sections ;
+Nord-Pas-de-Calais, Picardie : quatre sections ; 
 
-Picardie : une section ;
+Pays de la Loire : trois sections ; 
 
-Poitou-Charentes : une section ;
-
-Provence-Alpes-Côte d'Azur : quatre sections ;
-
-Rhône-Alpes : quatre sections ;
-
-Guadeloupe : une section ;
-
-Guyane : une section ;
-
-Martinique : une section.
+Provence-Alpes-Côte d'Azur : quatre sections.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-518 du 10 mai 1985 - art. 1 (Ab)
-
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
 _Modifié par_:
 
-  - Décret n°2002-982 du 12 juillet 2002 - art. 1 ()
+  - Décret n°2012-255 du 23 février 2012 - art. 3
 
 
 ##### Paragraphe 3 : Le président<a id=223></a>
