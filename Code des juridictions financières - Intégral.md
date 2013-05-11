@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-04-24
+Version Consolidée au 2013-05-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -225,7 +225,7 @@ Version Consolidée au 2013-04-24
               - [Sous-section 1 : Dispositions générales (art. R*212-2-1 à R212-28)](#222)
                 - [Paragraphe 1 : Le siège, la désignation et la gestion des chambres (art. R*212-2-1 à R212-4)](#223)
                 - [Paragraphe 2 : Les sections (art. R212-5 à R212-6)](#224)
-                - [Paragraphe 3 : Le président et le vice-président (art. R*212-7-1 à R212-8-1)](#225)
+                - [Paragraphe 3 : Le président et le vice-président (art. R212-7 à R212-8-1)](#225)
                 - [Paragraphe 4 : Le président de section (art. R212-9 à R212-12-2)](#226)
                 - [Paragraphe 5 : Les rapporteurs auprès des chambres (art. R212-13)](#227)
                 - [Paragraphe 6 : Prestation de serment des magistrats (art. R212-14)](#228)
@@ -22243,23 +22243,6 @@ _Nouveaux textes_:
 
 ##### Paragraphe 3 : Le président et le vice-président<a id=225></a>
 
-###### Article R*212-7-1
-
-Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
-qu'il préside. En cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de
-cette juridiction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-338 2000-04-14
-
-_Modifié par_:
-
-  - Décret n°2007-542 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
-
-
 ###### Article R212-7
 
 Le président de la chambre régionale des comptes est chargé de la direction générale de la chambre.
@@ -22308,6 +22291,31 @@ _Cité par_:
 _Cite_:
 
   - Code des juridictions financières - art. R212-13 (M)
+
+
+###### Article R212-7-1
+
+Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
+qu'il préside. Il peut déléguer sa signature à un magistrat et au secrétaire général de cette juridiction. En cas d'absence
+ou d'empêchement du secrétaire général, il peut déléguer sa signature à un fonctionnaire de la chambre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2000-338 du 14 avril 2000
+
+_Modifié par_:
+
+  - Décret n°2013-387 du 10 mai 2013 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 73
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R212-5 (V)
 
 
 ###### Article R212-8
