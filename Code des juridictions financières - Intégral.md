@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-11-17
+Version Consolidée au 2013-12-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -3385,29 +3385,40 @@ _Nouveaux textes_:
 ###### Article L143-5
 
 Les communications de la Cour des comptes aux ministres, autres que celles visées aux articles L. 143-2 et L. 143-3, et les
-réponses qui leur sont apportées sont transmises aux commissions des finances et, dans leur domaine de compétence, aux
-commissions chargées des affaires sociales de chacune des assemblées parlementaires à l'expiration d'un délai de réponse de
-deux mois. Elles sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées
-parlementaires. En outre, le premier président communique à ces mêmes destinataires, à leur demande, les autres constatations
-et observations définitives de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
+réponses qui leur sont apportées sont transmises aux commissions des finances et, dans leur domaine de compétence, aux autres
+commissions permanentes de chacune des assemblées parlementaires à l'expiration d'un délai de réponse de deux mois. Elles
+sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées parlementaires. En outre, le
+premier président communique à ces mêmes destinataires, à leur demande, les autres constatations et observations définitives
+de la Cour des comptes, ainsi que les réponses qui leur ont été apportées. 
+
+Dans le respect des dispositions prévues aux I et IV de l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958
+relative au fonctionnement des assemblées parlementaires, le Gouvernement transmet à la délégation parlementaire au
+renseignement les communications de la Cour des comptes aux ministres portant sur les services de renseignement ainsi que les
+réponses qui leur sont apportées.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
+  - Code des juridictions financières - art. L143-2 (VT)
+  - Code des juridictions financières - art. L143-3 (VT)
 
 _Cité par_:
 
   - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+  - Loi n°2013-1168 du 18 décembre 2013 - art. 9
 
-_Anciens textes_:
+**Liens**:
 
-  - Code des juridictions financières - art. L135-5 (T)
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 13
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code des juridictions financières - art. L143-2
+  - Code des juridictions financières - art. L143-4 (VD)
 
 
 ##### Section 2 : Rapports publics de la Cour des comptes<a id=33></a>
