@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-12-29
+Version Consolidée au 2014-03-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -723,8 +723,8 @@ _Abrogé par_:
 
 ###### Article L111-8-2
 
-L'Union d'économie sociale du logement est soumise au contrôle de la Cour des comptes dans les conditions prévues à l'article
-L. 143-3.
+L'Union des entreprises et des salariés pour le logement est soumise au contrôle de la Cour des comptes dans les conditions
+prévues à l'article L. 143-3.
 
 **Liens relatifs à cet article**
 
@@ -734,11 +734,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+  - Loi n°2014-366 du 24 mars 2014 - art. 123 (V)
 
 _Cité par_:
 
   - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 _Cite_:
 
