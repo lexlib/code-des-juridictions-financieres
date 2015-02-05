@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2014-11-08
+Version Consolidée au 2015-02-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -23569,8 +23569,11 @@ régionales des comptes :
 
 Les conseillers, les premiers conseillers et les présidents de section constituent des collèges électoraux distincts.
 
-Les candidatures au Conseil supérieur des chambres régionales des comptes font l'objet de listes qui doivent comporter les
-noms d'au moins un candidat titulaire et un candidat suppléant pour chaque grade.
+Les candidatures au Conseil supérieur des chambres régionales des comptes font l'objet de listes qui doivent comporter pour
+chaque grade le même nombre de candidats titulaires et de candidats suppléants. 
+
+Les électeurs votent pour les titulaires et pour les suppléants, qu'ils choisissent sur les listes de candidats, dans la
+limite du nombre de sièges à pourvoir, avec possibilité de panachage entre les listes. 
 
 Les sièges sont pourvus par le ou les candidats titulaires et le ou les candidats suppléants qui ont obtenu le plus grand
 nombre de suffrages exprimés. En cas d'égalité, le plus âgé des candidats est proclamé élu.
@@ -23582,17 +23585,17 @@ Les modalités des opérations électorales sont fixées par un arrêté du prem
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°82-970 1982-11-16, art 28
-
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 25 ()
+  - Décret n°2015-115 du 4 février 2015 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
 
 _Cité par_:
 
@@ -23600,6 +23603,10 @@ _Cité par_:
   - Code des juridictions financières - art. R212-47 (M)
   - Code des juridictions financières - art. R252-3 (Ab)
   - Code des juridictions financières - art. R272-28 (V)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R220-5 (V)
 
 
 ###### Article R212-36
@@ -23787,33 +23794,48 @@ _Nouveaux textes_:
 
 ###### Article R212-48
 
+En cas d'absence ou d'empêchement d'un représentant titulaire, il est remplacé par un suppléant détenant le même grade,
+désigné par le titulaire empêché. 
+
 Si, avant l'expiration de son mandat, l'un des représentants titulaires des membres élus démissionne ou se trouve dans
-l'impossibilité d'exercer son mandat ou si le conseil supérieur constate qu'il cesse de remplir les conditions requises pour
-être éligible, il est remplacé par son suppléant. Au cas où pour l'une des causes mentionnées ci-dessus ce dernier ne peut
-exercer son mandat, il est procédé à une élection complémentaire dans un délai de deux mois. Le représentant élu dans ces
-conditions achève le mandat de celui qu'il remplace.
+l'impossibilité d'exercer son mandat ou si le Conseil supérieur constate qu'il cesse de remplir les conditions requises pour
+être éligible, il est remplacé par un suppléant détenant le même grade, désigné dans l'ordre déterminé par le résultat des
+élections. Dans le cas d'un collège de magistrats représentés par un seul titulaire, celui-ci est remplacé par le suppléant. 
+
+S'il n'y a plus, pour un grade donné, un nombre suffisant de titulaires et de suppléants, il est procédé à une élection
+complémentaire dans un délai de deux mois. Les représentants élus dans ces conditions achèvent le mandat de ceux qu'ils
+remplacent. 
 
 Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade pour
 lequel il a été élu.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-115 du 4 février 2015, ces dispositions entrent en vigueur à compter du prochain
+renouvellement du Conseil supérieur des chambres régionales des comptes.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°82-970 du 16 novembre 1982 - art. 42 (M)
 
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
 _Modifié par_:
 
-  - Décret n°2002-1201 du 27 septembre 2002 - art. 30 ()
+  - Décret n°2015-115 du 4 février 2015 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
 
 _Cité par_:
 
   - Code des juridictions financières - art. R212-49 (Ab)
   - Code des juridictions financières - art. R221-5 (M)
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R220-11 (V)
 
 
 ###### Article R212-51
