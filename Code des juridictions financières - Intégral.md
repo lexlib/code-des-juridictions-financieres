@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-05-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -37668,21 +37668,33 @@ _Nouveaux textes_:
 
 ###### Article R311-3
 
-Les rapporteurs sont choisis parmi les membres du Conseil d'Etat, de la Cour des comptes, des tribunaux administratifs et des
-cours administratives d'appel et des chambres régionales et territoriales des comptes.
+Les rapporteurs sont choisis parmi les membres du Conseil d'Etat, les magistrats de l'ordre judiciaire, de la Cour des
+comptes, des tribunaux administratifs et des cours administratives d'appel et des chambres régionales des comptes, ainsi que
+parmi les personnes mentionnées à l'article L. 112-7-1. 
 
-Ils sont nommés par arrêté du Premier ministre pris sur proposition du président de la cour. Il est mis fin à leurs fonctions
-dans les mêmes formes.
+Ils sont nommés pour une durée de cinq ans par arrêté du Premier ministre pris sur proposition du président de la cour.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
 _Modifié par_:
 
-  - Décret n°2006-1262 du 16 octobre 2006 - art. 15 () JORF 17 octobre 2006
+  - Décret n°2015-571 du 27 mai 2015 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 178
+
+_Cite_:
+
+  - Code des juridictions financières - art. L112-7-1
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R311-10 (V)
 
 
 ###### Article R311-4
@@ -37781,21 +37793,29 @@ _Cite_:
 
 L'arrêt de la cour est notifié aux personnes mentionnées à l'article L. 314-7.
 
-Il est lu publiquement par le président ou par un membre de la cour qu'il désigne.
+Il peut être consulté au greffe de la juridiction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2000-338 2000-04-14
+  - Décret n°2000-338 du 14 avril 2000
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+  - Décret n°2015-571 du 27 mai 2015 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 179
 
 _Cite_:
 
-  - Code des juridictions financières - art. L314-7 (V)
+  - Code des juridictions financières - art. L314-7
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. R314-12 (V)
 
 
 ###### Article R314-4
