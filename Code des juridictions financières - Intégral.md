@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-12-18
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -393,9 +393,9 @@ et de l'exécution du budget. (art. R273-1 à R273-32)](#380)
             - [Section 3 : Dispositions relatives au contrôle des sociétés d'économie mixte locales. (art. R273-26 à R273-27)](#387)
             - [Section 4 : Dispositions diverses. (art. R273-28 à R273-32)](#388)
     - [LIVRE III : Les institutions associées à la Cour des comptes (art. R311-1 à R350-5)](#389)
-      - [TITRE Ier : La Cour de discipline budgétaire et financière (art. R311-1 à R314-4)](#390)
+      - [TITRE Ier : La Cour de discipline budgétaire et financière (art. R311-1 à R314-3)](#390)
         - [CHAPITRE Ier : Organisation (art. R311-1 à R311-5)](#391)
-        - [CHAPITRE IV : Procédure devant la cour (art. R314-1 à R314-4)](#392)
+        - [CHAPITRE IV : Procédure devant la cour (art. R314-1 à R314-3)](#392)
       - [TITRE II : Le comité d'enquête sur le coût et le rendement des services publics (art. D320-1 à D320-8)](#393)
       - [TITRE V : Le conseil des prélèvements obligatoires (art. D350-6 à R350-5)](#394)
 # Partie législative<a id=1></a>
@@ -3507,15 +3507,9 @@ _Cité par_:
 ###### Article L141-10
 
 Les mesures d'instruction, rapports et diverses communications de la Cour des comptes ne sont pas communicables sur le
-fondement des dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
-relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
+fondement des dispositions du livre III du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978
-  - Code des juridictions financières - art. L134-2
 
 _Cité par_:
 
@@ -3527,7 +3521,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+_Nouveaux textes_:
+
+  - Code des juridictions financières - art. L141-3 (VD)
 
 
 #### CHAPITRE II : Dispositions relatives aux activités juridictionnelles<a id=30></a>
@@ -4381,7 +4383,7 @@ Le siège et le ressort des chambres régionales des comptes sont fixés par dé
 excéder vingt.
 
 Lorsque le ressort d'une chambre régionale des comptes est modifié, les procédures en cours devant cette chambre et qui
-relèvent du ressort concerné par la modification sont réglées selon les modalités définies aux trois derniers alinéas du
+relèvent du ressort concerné par la modification sont réglées selon les modalités définies aux quatre derniers alinéas du
 présent article.
 
 Les procédures juridictionnelles engagées devant la chambre régionale des comptes et qui n'ont pas été inscrites au rôle de
@@ -4391,10 +4393,16 @@ Les procédures administratives engagées devant la chambre régionale des compt
 encore intervenue sont, à cette date, transmises à la Cour des comptes, qui peut déléguer l'affaire à la chambre régionale de
 son choix.
 
-Il est délibéré sur les affaires qui ne sont pas transmises à la Cour des comptes en application des troisième et avant-
-dernier alinéas selon les dispositions du code des juridictions financières applicables aux chambres régionales des comptes
-avant la date d'entrée en vigueur de la loi n° 2011-1862 du 13 décembre 2011 relative à la répartition des contentieux et à
-l'allègement de certaines procédures juridictionnelles.
+Il est délibéré sur les affaires qui ne sont pas transmises à la Cour des comptes en application des troisième et quatrième
+alinéas selon les dispositions du code des juridictions financières applicables aux chambres régionales des comptes avant
+l'entrée en vigueur de l'article 1er de la loi n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux
+élections régionales et départementales et modifiant le calendrier électoral.
+
+Le transfert, en application du présent article, de tout ou partie du ressort d'une chambre régionale des comptes à une autre
+chambre régionale des comptes, confère à cette dernière l'ensemble des compétences et attributions énoncées aux chapitres
+Ier, III, IV et V du titre III du livre II et exercées sur les collectivités et organismes compris dans le ressort ou partie
+du ressort transféré, au titre des exercices et comptes antérieurs à la date du transfert, dès lors qu'à cette date lesdits
+exercices et comptes ne sont l'objet d'aucun contrôle en cours.
 
 **Liens relatifs à cet article**
 
@@ -4402,15 +4410,20 @@ _Codifié par_:
 
   - Loi n°94-1040 du 2 décembre 1994
 
-_Modifié par_:
-
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 46
-
 _Cité par_:
 
   - Décret n°2012-255 du 23 février 2012 (V)
   - Code des juridictions financières - art. L221-1 (VD)
   - Code des juridictions financières - art. L252-14 (M)
+
+_Cite_:
+
+  - Loi n°2015-29 du 16 janvier 2015 - art. 1 (V)
+  - Code des juridictions financières (V)
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1318 du 22 octobre 2015 - art. 1
 
 
 ###### Article L212-2
@@ -5170,11 +5183,10 @@ _Nouveaux textes_:
 Les nominations dans le corps des magistrats des chambres régionales des comptes sont prononcées par décret du Président de
 la République. Les nominations aux différents grades de ce corps, ainsi que les mutations, sont prononcées par décret. 
 
-Les magistrats du siège affectés dans une chambre régionale des comptes dont le siège ou le ressort est modifié en
-application de l'article L. 212-1, s'ils ne souhaitent pas bénéficier de l'affectation de plein droit à la chambre régionale
-qui devient compétente sur le ressort de leur affectation initiale, doivent faire connaître au premier président de la Cour
-des comptes, au plus tard avant la fin du mois suivant cette modification, leur souhait d'affectation dans trois autres
-chambres régionales. 
+Les magistrats du siège affectés dans une chambre régionale des comptes dont le siège est modifié en application de l'article
+L. 212-1, s'ils ne souhaitent pas bénéficier de l'affectation de plein droit à la chambre régionale qui devient compétente
+sur le ressort de leur affectation initiale, doivent faire connaître au premier président de la Cour des comptes, au plus
+tard avant la fin du mois suivant cette modification, leur souhait d'affectation dans trois autres chambres régionales. 
 
 Le magistrat est alors affecté conformément à l'un de ses souhaits, dans les conditions et selon les formes prévues par le
 présent code. 
@@ -5186,9 +5198,12 @@ est modifié.
 Le magistrat qui n'a pas exprimé de souhait d'affectation dans le délai prescrit est affecté de plein droit à la chambre
 régionale qui est compétente sur le ressort de la chambre régionale supprimée. 
 
-Lors de sa création, une chambre compétente pour connaître des affaires de deux régions est, de plein droit, présidée par le
-magistrat qui présidait la chambre qui avait le même siège. Cette désignation de plein droit n'a pas pour effet de proroger
-ni de renouveler la durée maximale de fonction mentionnée à l'avant-dernier alinéa de l'article L. 221-2. 
+Une chambre régionale des comptes compétente pour connaître des affaires de deux régions avant le 1er janvier 2016, et dont
+le siège n'est pas modifié après cette date, y compris en cas de modification de son ressort, reste de plein droit présidée
+par le magistrat qui présidait cette chambre. 
+
+Les dispositions de l'alinéa précédent n'ont pas pour effet de proroger ni de renouveler la durée maximale de fonctions
+mentionnée à l'avant-dernier alinéa de l'article L. 221-2.
 
 Lorsqu'un magistrat de chambre régionale entre, par l'effet d'une modification du ressort de sa chambre d'affectation, dans
 l'un des cas d'incompatibilité prévus par le présent code, il est tenu de demander, dans le délai de six mois à compter de la
@@ -5202,12 +5217,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-347 du 12 mars 2012 - art. 95
+  - ORDONNANCE n°2015-1318 du 22 octobre 2015 - art. 2
+
+_Transféré par_:
+
+  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
 
 _Cite_:
 
-  - Code des juridictions financières - art. L212-1 (V)
-  - Code des juridictions financières - art. L221-2 (V)
+  - Code des juridictions financières - art. L212-1
 
 
 ###### Article L221-2
@@ -22809,13 +22827,11 @@ Arras : Nord-Pas-de-Calais, Picardie ;
 
 Bastia : Corse ; 
 
-Bordeaux : Aquitaine, Poitou-Charentes ; 
+Bordeaux : Aquitaine, Limousin, Poitou-Charentes ;
 
 Cayenne : Guyane ; 
 
 Dijon : Bourgogne, Franche-Comté ; 
-
-Epinal : Champagne-Ardenne, Lorraine ; 
 
 Fort-de-France : Martinique ; 
 
@@ -22825,25 +22841,23 @@ Mamoudzou : Mayotte ;
 
 Marseille : Provence-Alpes-Côte d'Azur ; 
 
-Montpellier : Languedoc-Roussillon ; 
+Metz : Alsace, Champagne-Ardenne, Lorraine ; 
+
+Montpellier : Languedoc-Roussillon, Midi-Pyrénées ;
 
 Nantes : Pays de la Loire ; 
 
 Noisiel : Ile-de-France ; 
 
-Orléans : Centre, Limousin ; 
+Orléans : Centre Val de Loire ; 
 
 Pointe-à-Pitre : Guadeloupe ; 
 
 Rennes : Bretagne ; 
 
-Rouen : Basse-Normandie, Haute-Normandie ; 
+Rouen : Normandie ;
 
-Saint-Denis : La Réunion ; 
-
-Strasbourg : Alsace ; 
-
-Toulouse : Midi-Pyrénées.
+Saint-Denis : La Réunion.
 
 **Liens relatifs à cet article**
 
@@ -22853,7 +22867,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-255 du 23 février 2012 - art. 1
+  - Décret n°2015-1199 du 30 septembre 2015 - art. 1
 
 _Cité par_:
 
@@ -22863,8 +22877,7 @@ _Cité par_:
 
 ###### Article R212-2
 
-Les chambres régionales des comptes dont le ressort ne comporte qu'une région sont désignées par le nom de cette région. Les
-autres le sont par le nom des régions qu'elles regroupent, par ordre alphabétique.
+Les chambres régionales des comptes sont désignées par le nom de leur ressort tel qu'il est prévu à l'article R. 212-1.
 
 **Liens relatifs à cet article**
 
@@ -22874,7 +22887,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-255 du 23 février 2012 - art. 2
+  - Décret n°2015-1199 du 30 septembre 2015 - art. 2
+
+_Cite_:
+
+  - Code des juridictions financières - art. R212-1
 
 
 ###### Article R212-3
@@ -38268,30 +38285,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code des juridictions financières - art. R314-12 (V)
-
-
-###### Article R314-4
-
-La publication au Journal officiel mentionnée à l'article L. 314-20 du code des juridictions financières est effectuée à la
-fois sur support papier et sous forme électronique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2000-338 du 14 avril 2000
-
-_Créé par_:
-
-  - Décret n°2007-543 du 12 avril 2007 - art. 23 () JORF 13 avril 2007
-
-_Abrogé par_:
-
-  - Décret n°2015-1717 du 22 décembre 2015 - art. 6
-
-_Cite_:
-
-  - Code des juridictions financières - art. L314-20
 
 
 ### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics<a id=393></a>
