@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2016-04-22
+Version Consolidée au 2016-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
@@ -21932,8 +21932,8 @@ _Cite_:
 
 L'identification de l'interlocuteur de la Cour des comptes, selon les modalités prévues par l'arrêté mentionné à l'article R.
 141-9, vaut signature pour l'application des dispositions du présent livre. Toutefois, lorsque l'échange dématérialisé n'a
-pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4 du code civil, l'interlocuteur de
-la Cour des comptes peut, sur demande de celle-ci, être tenu de produire un exemplaire du document échangé revêtu de sa
+pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du code civil, l'interlocuteur de la
+Cour des comptes peut, sur demande de celle-ci, être tenu de produire un exemplaire du document échangé revêtu de sa
 signature manuscrite.
 
 **Liens relatifs à cet article**
@@ -21944,7 +21944,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2015-146 du 10 février 2015 - art. 5
+  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2017-671 du 28 avril 2017 - art. 181
 
 _Cité par_:
 
@@ -21954,8 +21958,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des juridictions financières - art. R141-9 (V)
-  - Code civil - art. 1316-4
+  - Code des juridictions financières - art. R141-9
+  - Code civil - art. 1367
 
 _Nouveaux textes_:
 
@@ -28839,7 +28843,7 @@ _Cite_:
 
 L'identification de l'interlocuteur de la chambre régionale des comptes, selon les modalités prévues par l'arrêté mentionné à
 l'article R. 241-32, vaut signature pour l'application des dispositions du présent livre. Toutefois, lorsque l'échange
-dématérialisé n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4 du code civil,
+dématérialisé n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du code civil,
 l'interlocuteur de la chambre régionale des comptes peut, sur demande de celle-ci, être tenu de produire un exemplaire du
 document échangé revêtu de sa signature manuscrite.
 
@@ -28847,7 +28851,11 @@ document échangé revêtu de sa signature manuscrite.
 
 _Modifié par_:
 
-  - Décret n°2015-146 du 10 février 2015 - art. 15
+  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2017-671 du 28 avril 2017 - art. 181
 
 _Cité par_:
 
@@ -28855,8 +28863,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des juridictions financières - art. R241-32 (T)
-  - Code civil - art. 1316-4
+  - Code des juridictions financières - art. R241-32
+  - Code civil - art. 1367
 
 
 ##### CHAPITRE II : Dispositions relatives aux activités juridictionnelles<a id=264></a>
