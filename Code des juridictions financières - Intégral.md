@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L351-13)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-14)](#2)
