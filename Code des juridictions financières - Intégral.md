@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-05-01 00:00:01 +0200
+Version Consolidée au 2017-06-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -240,7 +240,7 @@ Version Consolidée au 2017-05-01 00:00:01 +0200
             - [Sous-section 1 : Dispositions générales (art. R131-2)](#237)
             - [Sous-section 2 : Dispositions concernant les receveurs des administrations financières (art. D131-3 à D131-5)](#238)
           - [Section 2 : Contrôle de la Caisse des dépôts et consignations (art. R131-6 à R131-17)](#239)
-          - [Section 3 : Apurement administratif des comptes (art. D131-18 à D131-23)](#240)
+          - [Section 3 : Apurement administratif des comptes (art. D131-18 à D131-24)](#240)
           - [Section 4 : Condamnation des comptables à l'amende (art. D131-25 à D131-27)](#241)
           - [Section 5 : Jugement des appels (art. R131-28)](#242)
         - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics (art. R133-1)](#243)
@@ -22717,6 +22717,34 @@ _Anciens textes_:
 _Cite_:
 
   - Code des juridictions financières - art. R142-19 (V)
+
+
+###### Article D131-24
+
+Les recours visés à l'article précédent doivent être remis ou adressés au comptable supérieur. En cas de transmission sur
+support papier, ils sont adressés sous pli recommandé au comptable supérieur, qui en accuse réception. 
+
+Le recours doit, à peine de nullité, indiquer l'exposé des faits et moyens, ainsi que les conclusions du requérant. Il doit
+être appuyé des pièces établissant la notification du recours au comptable supérieur, de tous les documents nécessaires pour
+établir le bien-fondé de la demande et d'une ampliation de la décision attaquée. 
+
+Les intéressés, autres que le requérant, visés à l'article D. 131-23 sont informés du dépôt du recours par le comptable
+supérieur, qui leur adresse à cet effet éventuellement par pli recommandé les copies du recours remises par le requérant.
+Pour l'accomplissement de cette formalité, les ministres intéressés sont représentés par le représentant de l'Etat compétent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-671 du 28 avril 2017 - art. 37
+
+_Cite_:
+
+  - Code des juridictions financières - art. D131-23 (V)
+
+_Anciens textes_:
+
+  - Code des juridictions financières - art. D131-36 (T)
 
 
 ##### Section 4 : Condamnation des comptables à l'amende<a id=241></a>
