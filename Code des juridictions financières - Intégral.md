@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-08-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -4737,18 +4737,21 @@ _Cité par_:
 
 ###### Article L142-1-2
 
-Lorsque le ministère public relève, dans les rapports mentionnés au I ou au vu des autres informations dont il dispose, un
-élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable, ou présomptif
-de gestion de fait, il saisit la Cour des comptes. 
+Lorsque le ministère public relève, dans les rapports mentionnés à l'article L. 142-1 ou au vu des autres informations dont
+il dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable,
+ou présomptif de gestion de fait, il saisit la Cour des comptes.
 
-La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+Les décisions en matière juridictionnelle sont rendues par la Cour des comptes réunie soit par chambre ou section de chambre,
+soit toutes chambres réunies statuant en formation plénière ou en formation restreinte.
+
+La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier.
 
 Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
 après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
-de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige.
 
 Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
-pas. 
+pas.
 
 La cour statue par un arrêt rendu en formation collégiale.
 
@@ -4763,9 +4766,14 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 12
+  - Loi n°2017-1241 du 8 août 2017 - art. 2
+  - Loi n°2017-1241 du 8 août 2017 - art. 3
+
+_Cite_:
+
+  - Code des juridictions financières - art. L142-1
 
 _Cité par_:
 
@@ -4863,9 +4871,9 @@ _Cité par_:
 
 ###### Article L143-0-2
 
-Les observations et recommandations mentionnées à l'article L. 143-1 sont arrêtées après l'audition, à leur demande, des
-dirigeants des services ou organismes contrôlés, des autorités de tutelle, et de toute autre personne explicitement mise en
-cause.
+Les observations qui font l'objet d'une communication au Parlement ainsi que les observations et recommandations mentionnées
+à l'article L. 143-1 sont arrêtées après l'audition, à leur demande, des dirigeants des services ou organismes contrôlés, des
+autorités de tutelle, et de toute autre personne explicitement mise en cause.
 
 **Nota:**
 
@@ -4878,17 +4886,13 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 13
+  - Loi n°2017-1241 du 8 août 2017 - art. 5
 
 _Cite_:
 
-  - Code des juridictions financières - art. L143-1 (VT)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L143-4 (VT)
+  - Code des juridictions financières - art. L143-1
 
 _Cité par_:
 
@@ -6780,8 +6784,8 @@ Il est institué un Conseil supérieur des chambres régionales des comptes. Ce 
 des membres du corps des chambres régionales des comptes et la liste d'aptitude de ces membres à l'emploi de président de
 chambre régionale des comptes et de vice-président de chambre régionale des comptes. Il donne un avis sur toute mutation d'un
 magistrat, sur les propositions de nomination à l'emploi de président de chambre régionale des comptes et de vice-président
-de chambre régionale des comptes ainsi que sur les propositions de nomination prévues au quatrième alinéa de l'article L.
-122-2 et au troisième alinéa de l'article L. 122-5. Tout projet de modification du statut défini par le présent code est
+de chambre régionale des comptes ainsi que sur les propositions de nomination prévues au premier alinéa du II de l'article L.
+122-3 et au premier alinéa du III de l'article L. 122-5. Tout projet de modification du statut défini par le présent code est
 soumis pour avis au Conseil supérieur des chambres régionales des comptes. 
 
 Ce conseil est également consulté sur toute question relative à l'organisation, au fonctionnement ou à la compétence des
@@ -6798,10 +6802,6 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
-
 _Cité par_:
 
   - Arrêté du 16 décembre 2016 - art. 12 (V)
@@ -6810,10 +6810,14 @@ _Cité par_:
   - Code des juridictions financières - art. R262-18 (V)
   - Code des juridictions financières - art. R272-18 (V)
 
+_Modifié par_:
+
+  - Loi n°2017-1241 du 8 août 2017 - art. 2
+
 _Cite_:
 
-  - Code des juridictions financières - art. L122-2 (VD)
-  - Code des juridictions financières - art. L122-5 (VT)
+  - Code des juridictions financières - art. L122-3
+  - Code des juridictions financières - art. L122-5
 
 _Anciens textes_:
 
@@ -9277,13 +9281,16 @@ _Cité par_:
 
 Lorsque le ministère public relève, dans les rapports mentionnés à l'article L. 242-2 ou au vu des autres informations dont
 il dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable,
-ou présomptif de gestion de fait, il saisit la chambre régionale des comptes. 
+ou présomptif de gestion de fait, il saisit la chambre régionale des comptes.
 
-La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+Les décisions en matière juridictionnelle sont rendues par la chambre régionale des comptes réunie soit en formation
+plénière, soit en formation restreinte, soit en section, soit en sections réunies.
+
+La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier.
 
 Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
 après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
-de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige.
 
 Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
 pas.
@@ -9299,13 +9306,13 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 27
+  - Loi n°2017-1241 du 8 août 2017 - art. 3
 
 _Cite_:
 
-  - Code des juridictions financières - art. L242-2 (VD)
+  - Code des juridictions financières - art. L242-2
 
 _Cité par_:
 
@@ -9535,7 +9542,7 @@ _Cite_:
 ###### Article L243-4
 
 Les chambres régionales des comptes arrêtent leurs observations définitives et leurs recommandations sous la forme d'un
-rapport d'observations est communiqué :
+rapport d'observations communiqué :
 
 – soit à l'ordonnateur de la collectivité territoriale ou au dirigeant de l'établissement public ou du groupement d'intérêt
 public doté d'un comptable public concerné et, le cas échéant, pour ce qui le concerne, à l'ordonnateur ou au dirigeant qui
@@ -9559,7 +9566,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 28
+  - Loi n°2017-1241 du 8 août 2017 - art. 2
 
 _Cité par_:
 
@@ -12652,10 +12659,10 @@ _Cité par_:
 ###### Article L262-25
 
 Les dispositions du présent code relatives aux présidents des chambres régionales des comptes et au statut des magistrats
-composant ces juridictions, dans leur rédaction résultant de la loi n° 2016-483 du 20 avril 2016 relative à la déontologie et
-aux droits et obligations des fonctionnaires, sont applicables à la chambre territoriale des comptes de la Nouvelle-
-Calédonie. Pour leur application, la référence à la chambre régionale des comptes est remplacée par la référence à la chambre
-territoriale des comptes.
+composant ces juridictions, dans leur rédaction résultant de la loi n° 2017-1241 du 8 août 2017 ratifiant l'ordonnance n°
+2016-1360 du 13 octobre 2016 modifiant la partie législative du code des juridictions financières, sont applicables à la
+chambre territoriale des comptes de la Nouvelle-Calédonie. Pour leur application, la référence à la chambre régionale des
+comptes est remplacée par la référence à la chambre territoriale des comptes.
 
 **Nota:**
 
@@ -12674,15 +12681,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2016-483 du 20 avril 2016 (V)
+  - Ordonnance n°2016-1360 du 13 octobre 2016 (V)
+  - Loi n°2017-1241 du 8 août 2017 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L262-29 (T)
+  - Loi n°2017-1241 du 8 août 2017 - art. 4
 
 
 ###### Article L262-26
@@ -13701,13 +13705,16 @@ _Cité par_:
 
 Lorsque le ministère public relève, dans les rapports mentionnés à l'article L. 262-55 ou au vu des autres informations dont
 il dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable,
-ou présomptif de gestion de fait, il saisit la formation de jugement. 
+ou présomptif de gestion de fait, il saisit la formation de jugement.
 
-La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+Les décisions en matière juridictionnelle sont rendues par la chambre territoriale des comptes réunie soit en formation
+plénière, soit en formation restreinte, soit en section, soit en sections réunies.
+
+La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier.
 
 Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
 après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
-de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige.
 
 Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
 pas.
@@ -13725,15 +13732,11 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L262-54-1 (VT)
+  - Loi n°2017-1241 du 8 août 2017 - art. 3
 
 _Cite_:
 
-  - Code des juridictions financières - art. L262-55 (VT)
+  - Code des juridictions financières - art. L262-55
 
 _Cité par_:
 
@@ -16037,10 +16040,10 @@ _Cité par_:
 ###### Article L272-28
 
 Les dispositions du présent code relatives aux présidents des chambres régionales des comptes et au statut des magistrats
-composant ces juridictions, dans leur rédaction résultant de la loi n° 2016-483 du 20 avril 2016 relative à la déontologie et
-aux droits et obligations des fonctionnaires,  sont applicables à la chambre territoriale des comptes de la Polynésie
-française. Pour leur application, la référence à la chambre régionale des comptes est remplacée par la référence à la chambre
-territoriale des comptes.
+composant ces juridictions, dans leur rédaction résultant de la loi n° n° 2017-1241 du 8 août 2017 ratifiant l'ordonnance n°
+2016-1360 du 13 octobre 2016 modifiant la partie législative du code des juridictions financières, sont applicables à la
+chambre territoriale des comptes de la Polynésie française. Pour leur application, la référence à la chambre régionale des
+comptes est remplacée par la référence à la chambre territoriale des comptes.
 
 **Nota:**
 
@@ -16059,15 +16062,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2016-483 du 20 avril 2016 (V)
+  - Ordonnance n°2016-1360 du 13 octobre 2016 (V)
+  - Loi n°2017-1241 du 8 août 2017 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L272-30 (T)
+  - Loi n°2017-1241 du 8 août 2017 - art. 4
 
 
 ###### Article L272-29
@@ -16967,13 +16967,16 @@ _Cité par_:
 
 Lorsque le ministère public relève, dans les rapports mentionnés à l'article L. 272-53 ou au vu des autres informations dont
 il dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable,
-ou présomptif de gestion de fait, il saisit la formation de jugement. 
+ou présomptif de gestion de fait, il saisit la formation de jugement.
 
-La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+Les décisions en matière juridictionnelle sont rendues par la chambre territoriale des comptes réunie soit en formation
+plénière, soit en formation restreinte, soit en section, soit en sections réunies.
+
+La procédure est contradictoire. A leur demande, le comptable et l'ordonnateur ont accès au dossier.
 
 Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
 après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
-de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige.
 
 Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
 pas.
@@ -16991,15 +16994,11 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L272-52-1 (VT)
+  - Loi n°2017-1241 du 8 août 2017 - art. 3
 
 _Cite_:
 
-  - Code des juridictions financières - art. L272-53 (VD)
+  - Code des juridictions financières - art. L272-53
 
 
 ###### Article L272-56
