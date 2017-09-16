@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-08-10
+Version Consolidée au 2017-09-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -2002,22 +2002,22 @@ _Anciens textes_:
 
 Dans les deux mois qui suivent leur prise de fonctions et dans les deux mois qui suivent la cessation de leurs fonctions, le
 premier président, le procureur général et les présidents de chambre de la Cour des comptes adressent une déclaration de
-situation patrimoniale au président de la Haute Autorité pour la transparence de la vie publique.
+situation patrimoniale au président de la Haute Autorité pour la transparence de la vie publique. 
 
 La déclaration de situation patrimoniale est établie, contrôlée et sanctionnée dans les conditions et selon les modalités
 prévues aux premier et quatrième alinéas du I, aux II et V de l'article 4, aux articles 6,7, à l'exception de la publication
 d'un rapport spécial au Journal officiel, et 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
-publique.
+publique. 
 
 Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration
-complémentaire dans les mêmes formes.
+complémentaire dans les mêmes formes. 
 
-Aucune nouvelle déclaration n'est exigée du membre de la Cour des comptes qui a établi depuis moins de six mois une
-déclaration en application du présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 précitée ou de
-l'article LO 135-1 du code électoral.
+Aucune nouvelle déclaration n'est exigée du membre de la Cour des comptes qui a établi depuis moins  d'un an une déclaration
+en application du présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 précitée ou de l'article LO
+135-1 du code électoral. 
 
 La déclaration de situation patrimoniale n'est pas versée au dossier de l'intéressé et ne peut pas être communiquée aux
-tiers.
+tiers. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
 conditions de mise à jour et de conservation des déclarations de situation patrimoniale.
@@ -2035,14 +2035,14 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 _Cite_:
 
-  - Loi n°2013-907 du 11 octobre 2013 (V)
-  - Loi n°2013-907  du 11 octobre 2013 - art. 11 (V)
-  - Loi n°2013-907  du 11 octobre 2013 - art. 4 (V)
-  - Code électoral - art. LO135-1 (M)
+  - Loi n°2013-907 du 11 octobre 2013
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+  - Loi n°2013-907 du 11 octobre 2013 - art. 4
+  - Code électoral - art. LO135-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 8
 
 
 ##### Section 3 : Conseil supérieur de la Cour des comptes<a id=22></a>
@@ -6678,7 +6678,7 @@ publique.
 Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration
 complémentaire dans les mêmes formes. 
 
-Aucune nouvelle déclaration n'est exigée du magistrat qui a établi depuis moins de six mois une déclaration en application du
+Aucune nouvelle déclaration n'est exigée du magistrat qui a établi depuis moins  d'un an une déclaration en application du
 présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 précitée ou de l'article LO 135-1 du code
 électoral. 
 
@@ -6688,31 +6688,18 @@ tiers.
 Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
 conditions de mise à jour et de conservation des déclarations de situation patrimoniale.
 
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2013-907 du 11 octobre 2013 (V)
-  - Loi n°2013-907  du 11 octobre 2013 - art. 11 (V)
-  - Loi n°2013-907  du 11 octobre 2013 - art. 4 (V)
-  - Code électoral - art. LO135-1 (M)
+  - Loi n°2013-907 du 11 octobre 2013
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+  - Loi n°2013-907 du 11 octobre 2013 - art. 4
+  - Code électoral - art. LO135-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L220-9 (VT)
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 8
 
 
 ##### Section 3 : Conseil supérieur des chambres régionales des comptes<a id=78></a>
