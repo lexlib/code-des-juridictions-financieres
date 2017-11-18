@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-09-17
+Version Consolidée au 2017-11-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -19697,7 +19697,8 @@ l'organisation générale des travaux de la Cour, il répartit les attributions 
 programme annuel des travaux au vu des propositions des présidents de chambre.
 
 Il préside les audiences solennelles, la chambre du conseil, les chambres réunies en formation plénière ainsi que le comité
-du rapport public et des programmes.
+du rapport public et des programmes. Il peut présider les séances de chambre, des formations interchambres et des chambres
+réunies statuant en formation restreinte.
 
 **Liens relatifs à cet article**
 
@@ -19707,40 +19708,32 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 8
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 1
 
 _Cité par_:
 
   - Code des juridictions financières - art. R112-25 (V)
   - Code des juridictions financières - art. R112-7 (V)
 
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R112-3 (T)
-
 
 ###### Article R112-3
 
 Le premier président préside la conférence des présidents qui est composée, du procureur général et des magistrats ayant le
 grade de président de chambre, à l'exception des magistrats mentionnés à l'article 1er de la loi n° 86-1304 du 23 décembre
-1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat. 
+1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat.
 
 Le premier président consulte la conférence des présidents, pour rendre l'avis prévu à l'article L. 122-6 et sur toute
-question qu'il juge utile d'évoquer. 
+question qu'il juge utile d'évoquer.
 
 Le secrétaire général ou, en cas d'absence ou d'empêchement, un des secrétaires généraux adjoints assiste à la conférence des
-présidents. 
-
-Il signe les arrêts et décisions rendus sous sa présidence. 
-
-Il fait connaître aux ministres compétents, par voie de référé, les observations formulées par la Cour.
+présidents.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
-  - Code des juridictions financières - art. L122-6 (V)
+  - Loi n°86-1304 du 23 décembre 1986 - art. 1
+  - Code des juridictions financières - art. L122-6
 
 _Codifié par_:
 
@@ -19748,7 +19741,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 8
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 2
 
 _Cité par_:
 
@@ -19757,10 +19750,6 @@ _Cité par_:
   - Code des juridictions financières - art. R112-20 (T)
   - Code des juridictions financières - art. R112-7 (M)
   - Code des juridictions financières - art. R143-14 (M)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R112-24 (T)
 
 
 ###### Article R112-4
@@ -21090,9 +21079,9 @@ _Cite_:
 Afin de garantir la confidentialité et l'intégrité des éléments contenus dans ces déclarations, le premier président prend
 les mesures nécessaires pour restreindre l'accès aux seules personnes autorisées que sont l'autorité hiérarchique,
 l'intéressé, les membres du collège de déontologie et, en tant que de besoin, les membres du Conseil supérieur de la Cour des
-comptes lorsqu'une procédure disciplinaire est engagée à l'encontre de l'intéressé.
+comptes lorsqu'une procédure disciplinaire est engagée à l'encontre de l'intéressé. 
 
-Le premier président de la Cour des comptes est responsable du versement, prévu à l'article L. 120-9, des déclarations
+Le premier président de la Cour des comptes est responsable du versement, prévu à l'article L. 120-10, des déclarations
 d'intérêts et des déclarations complémentaires en annexe du dossier individuel de l'intéressé. Ces déclarations sont
 conservées sous double pli cacheté. L'enveloppe extérieure est revêtue d'une mention relative à son caractère confidentiel et
 de la mention “ Déclaration d'intérêts ” suivie du nom et du prénom de l'intéressé. L'enveloppe intérieure comporte les mêmes
@@ -21107,11 +21096,11 @@ publics et à sa gestion sur support électronique.
 _Cite_:
 
   - Décret n°2011-675 du 15 juin 2011
-  - Code des juridictions financières - art. L120-9
+  - Code des juridictions financières - art. L120-10 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-671 du 28 avril 2017 - art. 26
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 4
 
 
 ###### Article R120-4
@@ -24575,7 +24564,7 @@ normes d'exercice professionnel applicables à la profession de commissaire aux 
 par les commissaires aux comptes dans le cadre de leur mission légale. 
 
 Les renseignements communiqués aux commissaires aux comptes par les membres et personnels de la Cour des comptes peuvent être
-constitués de tout ou partie des communications prévues par les articles R. 143-13 et R. 143-14, accompagnées des éléments de
+constitués de tout ou partie des communications prévues par les articles R. 143-19 et R. 143-20, accompagnées des éléments de
 réponse des destinataires de ces communications et d'une note d'analyse de ces éléments, ainsi que de tout document autres
 que ceux couverts par le secret des délibérations. 
 
@@ -24606,22 +24595,18 @@ communiqués aux commissaires aux comptes en application du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 63
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 5
 
 _Cite_:
 
-  - Code de commerce - art. L822-15 (V)
-  - Code des juridictions financières - art. L141-10 (V)
-  - Code des juridictions financières - art. L141-2 (V)
-  - Code des juridictions financières - art. LO132-2-1 (V)
-  - Code des juridictions financières - art. R143-13 (V)
-  - Code de la sécurité sociale. - art. L114-8 (VT)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R143-12 (T)
+  - Code de commerce - art. L822-15
+  - Code des juridictions financières - art. L141-10
+  - Code des juridictions financières - art. L141-2
+  - Code des juridictions financières - art. LO132-2-1
+  - Code des juridictions financières - art. R143-19 (V)
+  - Code de la sécurité sociale. - art. L114-8
 
 
 ##### Section 6 : Dispositions relatives aux procédures spécifiques à l'évaluation des politiques publiques<a id=269></a>
@@ -27997,26 +27982,18 @@ _Cite_:
 
 Les seuils financiers prévus aux 1° et 2° de l'article L. 211-2 sont appréciés tous les cinq exercices à partir de l'exercice
 2013 sur la base du dernier compte administratif. Pour les établissements publics de coopération intercommunale créés au
-cours de l'exercice, les recettes ordinaires sont considérées comme nulles. Les seuils financiers prévu au 4° de l'article L.
+cours de l'exercice, les recettes ordinaires sont considérées comme nulles. Le seuil financier prévu au 4° de l'article L.
 211-2 est apprécié tous les cinq exercices à partir de l'exercice 2013 sur la base du dernier compte financier.
-
-**Nota:**
-
-Au lieu de "prévu au 4° de l'article L. 211-2 est apprécié" lire "prévus au 4° de l'article L. 211-2 sont appréciés".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 105
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. D231-20 (T)
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 6
 
 _Cite_:
 
-  - Code des juridictions financières - art. L211-2 (V)
+  - Code des juridictions financières - art. L211-2
 
 
 ###### Article D231-6
@@ -28641,27 +28618,31 @@ _Anciens textes_:
 
 ###### Article R241-10
 
-Les transmissions prévues aux articles R. 241-9, R. 242-8, R. 242-22, R. 242-29, R. 242-32, R. 242-35, R. 242-40, R. 242-42
+Les transmissions prévues aux articles R. 241-9, R. 242-8, R. 242-22, R. 242-29, R. 242-32, R. 242-35, D. 242-40, D. 242-42
 et R. 244-4, qui ne sont pas faites par voie électronique le sont, par défaut, par lettre recommandée avec demande d'avis de
 réception.
+
+**Nota:**
+
+Au lieu de " R. 242-32, R. 242-35 ", il faut lire " D. 242-32, D. 242-35 ".
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 119
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R241-22 (T)
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 7
 
 _Cite_:
 
-  - Code des juridictions financières - art. R241-9 (V)
-  - Code des juridictions financières - art. R242-22 (V)
-  - Code des juridictions financières - art. R242-29 (V)
-  - Code des juridictions financières - art. R242-8 (V)
-  - Code des juridictions financières - art. R244-4 (V)
+  - Code des juridictions financières - art. D242-32 (V)
+  - Code des juridictions financières - art. D242-35 (V)
+  - Code des juridictions financières - art. D242-40 (V)
+  - Code des juridictions financières - art. D242-42 (V)
+  - Code des juridictions financières - art. R241-9
+  - Code des juridictions financières - art. R242-22
+  - Code des juridictions financières - art. R242-29
+  - Code des juridictions financières - art. R242-8
+  - Code des juridictions financières - art. R244-4
 
 
 ###### Article R241-11
@@ -28715,11 +28696,11 @@ _Cité par_:
 
 ###### Article R242-2
 
-Le rapporteur instruit à charge et à décharge les comptes dont il est saisi.
+Le rapporteur instruit à charge et à décharge les comptes dont il est saisi. 
 
 Il consigne le résultat de ses investigations et ses propositions de suites à leur donner dans un rapport d'examen des
 comptes à fin de jugement, qui est déposé au greffe puis communiqué au ministère public dans les conditions prévues à
-l'article R. 212-15.
+l'article R. 212-16.
 
 **Liens relatifs à cet article**
 
@@ -28729,7 +28710,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 121
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 8
 
 _Cité par_:
 
@@ -28739,7 +28720,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des juridictions financières - art. R212-15 (V)
+  - Code des juridictions financières - art. R212-16 (V)
 
 
 ###### Article R242-3
@@ -29679,26 +29660,22 @@ _Cite_:
 ###### Article D242-40
 
 Les jugements et ordonnances des chambres régionales des comptes sur les comptes produits par les comptables patents ou les
-comptables de fait sont notifiés par le secrétaire général au représentant de la collectivité ou de établissement public. 
+comptables de fait sont notifiés par le secrétaire général au représentant de la collectivité ou de établissement public.
 
 Ils sont transmis par le secrétaire général au procureur financier et, par son intermédiaire, au procureur général près la
-Cour des comptes. Lorsqu'ils statuent sur les comptes d'un établissement public national jugé en application du deuxième
+Cour des comptes. Lorsqu'ils statuent sur les comptes d'un établissement public national jugé en application du premier
 alinéa de l'article L. 111-15 du présent code, ces jugements et ces ordonnances sont notifiés par le secrétaire général aux
 ministres intéressés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 127
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. D242-38 (T)
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 9
 
 _Cite_:
 
-  - Code des juridictions financières - art. L111-15 (V)
+  - Code des juridictions financières - art. L111-15
 
 _Cité par_:
 
@@ -29829,17 +29806,21 @@ _Cite_:
 
 ###### Article R243-3
 
-La séance de la formation délibérante compétente au cours de laquelle le rapport est examiné n'est pas publique.
+Après communication au ministère public dans les cas prévus à l'article R. 212-16 et, dans cette hypothèse, avec son accord,
+le président de la chambre ou le président de la section ou le magistrat qui en exerce les fonctions inscrit l'examen du
+rapport à l'ordre du jour de la formation compétente. 
+
+La séance de la formation délibérante compétente au cours de laquelle le rapport est examiné n'est pas publique. 
 
 La formation délibère sur les propositions du ou des rapporteurs et, le cas échéant, l'avis du contre-rapporteur et les
-conclusions du ministère public.
+conclusions du ministère public. 
 
 S'il est nécessaire de procéder à un vote, le président de la formation recueille successivement l'opinion du rapporteur,
 puis de chacun des membres de la formation de délibéré s'exprimant dans l'ordre inverse de celui résultant de leur grade et
 de leur ancienneté dans le grade ; il opine le dernier. Seuls prennent part à la décision, pour chaque rapport examiné, les
-membres ayant assisté à l'intégralité de la ou des séances le concernant, auditions comprises.
+membres ayant assisté à l'intégralité de la ou des séances le concernant, auditions comprises. 
 
-En cas de pluralité de rapporteurs, ces derniers disposent d'une seule voix délibérative.
+En cas de pluralité de rapporteurs, ces derniers disposent d'une seule voix délibérative. 
 
 Lorsque le procureur financier assiste à la séance, il présente ses conclusions et prend part au débat mais pas au délibéré.
 
@@ -29851,15 +29832,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 130
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 10
+
+_Cite_:
+
+  - Code des juridictions financières - art. R212-16 (V)
 
 _Cité par_:
 
   - Code des juridictions financières - art. R212-7 (V)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R241-11 (T)
 
 
 ###### Article R243-4
@@ -30946,17 +30927,21 @@ _Cite_:
 ###### Article R254-2
 
 Les dispositions réglementaires du chapitre II du titre IV de la première partie du livre II sont applicables à l'exception
-de la sous-section 3 de la section 3.
+de la sous-section 3 de la section 3. 
+
+Au second alinéa de l'article D. 242-40, la référence au premier alinéa de l'article L. 111-15 est remplacée par la référence
+au second alinéa de l'article L. 111-15.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 157
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 11
 
 _Cite_:
 
-  - Code des juridictions financières -  CHAPITRE II : Dispositions relatives aux activi... (V)
+  - Code des juridictions financières - art. D242-40
+  - Code des juridictions financières - art. L111-15 (V)
 
 
 ##### Section 3 : Dispositions relatives au contrôle des comptes et de la gestion<a id=364></a>
@@ -36345,23 +36330,20 @@ _Anciens textes_:
 Lorsque la chambre territoriale des comptes, en application des dispositions de l'article L. 272-37, statue sur une amende
 pour retard dans la production du compte d'un comptable patent, d'un comptable de fait ou de l'une des personnes mentionnées
 à l'article L. 131-10, elle le fait sur réquisition du ministère public et dans les conditions prévues aux articles R. 272-59
-à R. 272-70.
+à R. 272-70. Le taux maximum de l'amende est celui prévu aux articles D. 131-25 à D. 131-27.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 174
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 12
 
 _Cite_:
 
-  - Code des juridictions financières - art. L131-10 (V)
-  - Code des juridictions financières - art. L272-37 (V)
-  - Code des juridictions financières - art. R272-59 (V)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R272-38 (T)
+  - Code des juridictions financières - art. D131-25
+  - Code des juridictions financières - art. L131-10
+  - Code des juridictions financières - art. L272-37
+  - Code des juridictions financières - art. R272-59
 
 
 ##### Section 5 : Contrôle de certaines conventions.<a id=451></a>
@@ -37241,8 +37223,6 @@ _Anciens textes_:
 
 La requête en appel, signée par l'intéressé, doit être déposée ou adressée au greffe de la chambre territoriale des comptes.
 
-En cas de transmission sur support papier, la requête est adressée par lettre recommandée avec demande d'avis de réception.
-
 La requête doit contenir, à peine de nullité, l'exposé des faits et moyens, ainsi que les conclusions du requérant. Elle doit
 être accompagnée des documents sur lesquels elle s'appuie et d'une copie du jugement ou de l'ordonnance attaqué.
 
@@ -37250,16 +37230,11 @@ La requête doit contenir, à peine de nullité, l'exposé des faits et moyens, 
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 177
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 13
 
 _Cité par_:
 
-  - Code des juridictions financières - art. D272-27-1 (Ab)
   - Code des juridictions financières - art. R272-54 (V)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R272-87 (T)
 
 
 ###### Article R272-78
@@ -38040,22 +38015,13 @@ _Anciens textes_:
 
 Le président de la chambre territoriale des comptes communique au haut-commissaire de la République ainsi qu'au représentant
 de la direction générale des finances publiques en Polynésie française le rapport d'observations définitives auquel sont
-jointes les réponses reçues. Les réponses adressées à la chambre en application de l'article R. 272-59 sont jointes au
-rapport.
+jointes les réponses reçues.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 177
-
-_Cite_:
-
-  - Code des juridictions financières - art. R272-59 (V)
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R272-65 (T)
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 14
 
 
 ###### Article R272-113
