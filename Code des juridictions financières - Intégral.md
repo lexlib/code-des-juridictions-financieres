@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-11-19
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -8636,39 +8636,22 @@ _Cite_:
 ###### Article L236-1
 
 Le contrôle des actes budgétaires de la collectivité territoriale de Corse et de ses établissements publics par la chambre
-régionale des comptes est régi par les dispositions particulières du premier alinéa de l'article L. 4425-8 du code général
+régionale des comptes est régi par les dispositions particulières du premier alinéa de l'article L. 4425-21 du code général
 des collectivités territoriales.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°94-1040 du 2 décembre 1994
-
 _Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 25
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 8
 
 _Cité par_:
 
   - Code de l'éducation - art. L421-15 (M)
 
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L237-1 (VT)
-
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4425-8
+  - Code général des collectivités territoriales - art. L4425-21 (VD)
 
 
 ###### Article L236-2
@@ -8676,30 +8659,13 @@ _Cite_:
 La saisine de la chambre régionale des comptes par le représentant de l'Etat dans la collectivité territoriale de Corse,
 lorsque ce dernier estime qu'une délibération du conseil d'administration d'un établissement public de cette collectivité est
 de nature à augmenter gravement la charge financière ou le risque encouru par la collectivité, est régie par les dispositions
-des troisième et quatrième alinéas l'article L. 4425-8 du code général des collectivités territoriales.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
+des troisième et quatrième alinéas l'article L. 4425-21 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 25
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. L237-2 (VT)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L4425-8
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 8
 
 
 #### TITRE IV : Procédure<a id=92></a>
@@ -20342,8 +20308,8 @@ _Anciens textes_:
 
 ###### Article R112-23
 
-La Cour des comptes comprend sept chambres composées chacune d'un président de chambre, de conseillers maîtres, de
-conseillers référendaires et d'auditeurs.
+La Cour des comptes comprend six chambres composées chacune d'un président de chambre, de conseillers maîtres, de conseillers
+référendaires et d'auditeurs.
 
 Le premier président affecte aux chambres les magistrats, conseillers maîtres et référendaires en service extraordinaire,
 conseillers experts, rapporteurs extérieurs, agents contractuels contribuant à la certification et vérificateurs.
@@ -20358,6 +20324,12 @@ Conformément aux dispositions du I de l'article 182 du décret n° 2017-671 du 
 fonctions énoncées au troisième alinéa de l'article R. 112-23 s'appliquent aux nominations intervenant à compter de l'entrée
 en vigueur du présent décret.
 
+Conformément aux dispositions du II de l'article 15 du décret n° 2017-1577 du 17 novembre 2017, pour tenir compte de la
+réorganisation prévue par l'article 3 du présent décret, un arrêté du premier président de la Cour des comptes fixe les
+modalités selon lesquelles les affaires ayant fait l'objet d'une notification par un président de chambre en application des
+articles R. 142-1 et R. 143-1 du code des juridictions financières avant le 1er janvier 2018 peuvent être transférées à une
+autre chambre.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -20366,11 +20338,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-671 du 28 avril 2017 - art. 14
-
-_Anciens textes_:
-
-  - Code des juridictions financières - art. R112-19 (T)
+  - Décret n°2017-1577 du 17 novembre 2017 - art. 3
 
 _Cité par_:
 
