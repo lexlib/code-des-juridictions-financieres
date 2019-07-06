@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2019-07-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -16406,9 +16406,11 @@ _Cité par_:
 
 ###### Article LO272-40
 
-La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
-relatifs à la gestion de la Polynésie française, de ses établissements publics et des autres organismes soumis à son
-contrôle.
+La chambre territoriale des comptes est habilitée à se faire communiquer tous documents le cas échéant par voie électronique,
+de quelque nature que ce soit, relatifs à la gestion de la Polynésie française, de ses établissements publics et des autres
+organismes soumis à son contrôle.
+
+Les modalités de communication des documents prévus au premier alinéa sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16418,11 +16420,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°94-1132 1994-12-27
+  - Loi n°94-1132 du 27 décembre 1994
 
 _Modifié par_:
 
-  - Loi n°2004-192 du 27 février 2004 - art. 186 () JORF 2 mars 2004
+  - Loi n°2019-706 du 5 juillet 2019 - art. 32
 
 _Cité par_:
 
