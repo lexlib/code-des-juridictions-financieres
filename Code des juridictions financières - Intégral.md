@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2020-01-31
+Version Consolidée au 2020-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L331-14)](#1)
     - [LIVRE Ier : La Cour des comptes (art. L111-1 à L143-9)](#2)
@@ -19264,9 +19264,7 @@ _Anciens textes_:
 ###### Article L331-6
 
 Les membres du Conseil des prélèvements obligatoires autres que son président sont désignés pour deux ans et leur mandat peut
-être renouvelé une fois. Cependant, à titre exceptionnel, huit des seize membres désignés en 2005, tirés au sort dans les
-deux mois suivant la nomination de tous les membres, le sont pour une période de quatre ans et leur mandat peut être
-renouvelé une fois pour une période de deux ans.
+être renouvelé une fois.
 
 En cas de vacance, pour quelque cause que ce soit, d'un siège autre que celui du président, il est procédé à son remplacement
 pour la durée restant à courir du mandat. Un mandat exercé pendant moins d'un an n'est pas pris en compte pour l'application
@@ -19283,9 +19281,9 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+  - Loi n°2020-935 du 30 juillet 2020 - art. 45
 
 _Anciens textes_:
 
